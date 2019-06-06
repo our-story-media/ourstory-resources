@@ -11,8 +11,9 @@ module.exports = {
       // description: 'Vue 驱动的静态网站生成器'
     }
   },
-  title: 'Guide',
+  title: 'Our Story',
   dest: 'docs',
+  base: '/ourstory-resources/',
   description: 'Our Story Deployment Guide',
   home: true,
   head: [
