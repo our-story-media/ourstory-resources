@@ -7,8 +7,13 @@
     "doc": "docs"
   },
     "scripts": {
+<<<<<<< HEAD
       "docs:dev": "vuepress dev doc_gen",
       "docs:build": "vuepress build doc_gen"
+=======
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+>>>>>>> 50109a449eb10493461ecb94ba8cb60b3f58e179
   },
   "repository": {
     "type": "git",
