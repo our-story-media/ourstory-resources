@@ -8,15 +8,18 @@ export default ({
     router.beforeEach((to, from, next) => {
         /* must call `next` */
         // console.log(to);
-        if (to.path.startsWith('/ar/'))
+        if (typeof document != 'undefined')
         {
-            // console.log('RTL')
-            document.documentElement.setAttribute("dir","rtl");
-            // console.log(document.);
-        }
-        else
-        {
-            document.documentElement.setAttribute("dir","");
+            if (to.path.startsWith('/ar/'))
+            {
+                // console.log('RTL')
+                document.documentElement.setAttribute("dir","rtl");
+                // console.log(document.);
+            }
+            else
+            {
+                document.documentElement.setAttribute("dir","");
+            }
         }
         next();
       })
