@@ -6,9 +6,9 @@
   "directories": {
     "doc": "docs"
   },
-    "scripts": {
-      "docs:dev": "vuepress dev doc_gen",
-      "docs:build": "vuepress build doc_gen"
+  "scripts": {
+    "docs:dev": "vuepress dev doc_gen",
+    "docs:build": "vuepress build doc_gen"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/our-story-media/ourstory-guide/issues"
   },
-  "homepage": "https://github.com/our-story-media/ourstory-guide#readme"
+  "homepage": "https://github.com/our-story-media/ourstory-guide#readme",
+  "dependencies": {
+    "vuepress": "0.14.11"
+  }
 }
