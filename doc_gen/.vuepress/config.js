@@ -19,7 +19,7 @@ module.exports = {
   },
   title: 'Guide',
   dest: 'docs',
-  base: '/ourstory-resources/',
+  base: '/',
   description: 'Our Story Deployment Guide',
   home: true,
   head: [
