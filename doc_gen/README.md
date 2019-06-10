@@ -14,3 +14,13 @@ actionLink: /introduction/
 #   details: For support workers, volunteers and field facilitators
 # footer: MIT Licensed | Copyright © 2018-present Our Story
 ---
+
+<div style="text-align:center">
+
+![](working.png)
+
+
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a>
+
+</div>
+
