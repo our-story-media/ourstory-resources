@@ -15,13 +15,28 @@
     "url": "git+https://github.com/our-story-media/ourstory-guide.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/our-story-media/ourstory-guide/issues"
   },
   "homepage": "https://github.com/our-story-media/ourstory-guide#readme",
   "dependencies": {
-    "vuepress": "0.14.11",
-    "vuepress.rtl":"1.0.2"
+    "bulma-extensions": "^6.2.7",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "vuepress": "^1.0.1",
+    "vuepress.rtl": "1.0.2"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
+    "vuepress-plugin-reading-progress": "1.0.7",
+    "vuepress-plugin-reading-time": "0.1.1",
+    "vuepress-plugin-element-tabs": "0.1.7",
+    "vuepress-plugin-export": "0.2.0",
+    "pug-plain-loader": "1.0.0",
+    "element-ui": "2.9.1",
+    "pug": "2.0.3",
+    "bulma": "0.7.5"
   }
 }

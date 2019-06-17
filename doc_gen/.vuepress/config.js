@@ -40,13 +40,74 @@ module.exports = {
         label: 'Français'
       }
     },
-    sidebar: 'auto',
-    displayAllHeaders: true,
+    
+    displayAllHeaders: false,
     lastUpdated: 'Last Updated',
     repo: 'our-story-media/ourstory-guide',
     docsDir: 'docs',
-    editLinks: true,
+    editLinks: false,
     editLinkText: 'Edit in GitHub',
     logo: '/platform.svg',
-  }
+    nav: [
+      { text: 'Guide', link: '/guide/' },
+      { text: 'Quick Start', link: '/quickstart/' },
+      { text: 'Materials', link: '/materials/' }
+    ],
+    sidebar: {
+      '/quickstart/':[
+        '/quickstart/',
+        '/quickstart/online/',
+        '/quickstart/titan/'
+      ],
+      '/guide/':[
+        '/guide/',
+        '/guide/howtouse/',
+        '/guide/preparation/',
+        '/guide/ideation/',
+        '/guide/capture/',
+        '/guide/creation/',
+        '/guide/presentation/',
+        '/guide/postproduction/'
+      ],
+      '/Materials/':[
+        '/materials/'
+      ]
+      // {
+      //   title: 'Introduction',
+      //   collapsable: false,
+      //   children: 
+      //   [
+      //     '/guide/',
+      //     '/guide/page2',
+      //     // '/guide/stage1/',
+      //     // '/stage2/',
+      //   ]
+      // },
+      // {
+      //   title: 'Preparation',
+      //   collapsable: false,
+      //   children: [ '/guide/preparation/' ]
+      // },
+      // {
+      //   title: 'Not in My Language',
+      //   collapsable: false,
+      //   children: [
+      //     '/'
+      //   ]
+      // },
+    },
+  },
+  plugins: [
+    '@vuepress/plugin-nprogress',
+    '@vuepress/plugin-back-to-top',
+    'reading-progress',
+    'reading-time',
+    'element-tabs',
+    'export'
+    ]
 }
+
+// [(pluginOptions, context) => ({
+//   // name: 'read-time',
+//   globalUIComponents: 'ReadTime'
+// })]

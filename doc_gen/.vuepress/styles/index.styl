@@ -1,0 +1,73 @@
+// @require '~vuepress-plugin-tabs/dist/themes/default.styl'
+
+// @require '~bulma/css/bulma.css'
+// @require '~bulma-extensions/dist/css/bulma-extensions.min.css'
+
+// @require '/style.css';
+
+html[dir*='rtl']
+{
+    @require '~vuepress.rtl'
+}
+
+img
+{
+    text-align: center;
+}
+
+.el-tabs__item.is-active
+{
+    color: $accentColor; 
+}
+
+.el-tabs__item:hover
+{
+    color: $accentColor; 
+}
+
+.notes
+{
+    float:right;
+    clear:both;
+}
+
+.subheading 
+{
+    font-size: 20px;
+    border:none;
+    margin-top:2em;
+    margin-bottom:2em;
+    padding:0;
+    color: #333;
+}
+
+.pullout
+{
+    width:200px;
+    float:right;
+    margin-right:-220px;   
+}
+
+.theme-default-content:not(.custom)
+{
+    margin:0;
+}
+
+.page-nav
+{
+    margin:0 !important;   
+}
+
+@media (max-width:1400px)
+{
+    .pullout
+    {
+        float: none;
+        width:100%;
+    }
+}
+
+.sidebar
+{
+    width:16rem;
+}
