@@ -1,5 +1,5 @@
 ---
-title: Our Story Titan
+title: Titan Edition
 ---
 
 <ReadTime />

@@ -3,7 +3,7 @@ div(:class="{'pullout':!example}")
     el-card(shadow="never")
         div(slot="header")
             i(class="el-icon-tickets")
-            strong &nbspRequired Materials
+            strong &nbsp; Materials
         slot
 </template>
 

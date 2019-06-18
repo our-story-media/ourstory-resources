@@ -17,17 +17,27 @@ This guide is written so that you can take the Our Story process and apply it to
 This guide is written for anyone who is interested in deploying Our Story in the field.
 :::  -->
 
+# Terminology
+
+TODO
+
 ::: warning Training Materials
 If you are responsible for training others in performing aspects of the Our Story process, these additional materials are available.
 :::
 
 <TrainingMaterials example="true">Additional content to help with training will appear in boxes like this.</TrainingMaterials>
 
+::: warning Facilitator Action
+At some points in the process, there are actions that need to be performed by you as the lead facilitator.
+:::
+
+<AdminRole title="Lead Facilitator Action" />
+
 ::: warning Optional Content
 At various points in the Our Story process, we support the use of various different methodologies to complete a stage. These are clearly marked with the following:
 :::
 
-<StepOptions />
+<StepOptions title="Bring Your Own Process" />
 
 ::: warning IFRC Content
 If you are reading this guide and are affiliated with the International Federation of Red Cross and Red Cresent Societies, specific additional content has been developed to support IFRC processes. 

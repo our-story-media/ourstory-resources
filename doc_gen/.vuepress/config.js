@@ -57,18 +57,21 @@ module.exports = {
       '/quickstart/':[
         '/quickstart/',
         '/quickstart/titan/',
-        '/quickstart/online/'
+        '/quickstart/online/',
+        '/quickstart/app/'
       ],
       '/guide/':[
         '/guide/',
         '/guide/editions/',
         '/guide/howtouse/',
+        '/guide/predeployment/',
         '/guide/preparation/',
         '/guide/ideation/',
         '/guide/capture/',
         '/guide/creation/',
         '/guide/presentation/',
         '/guide/postproduction/',
+        '/guide/tips',
         '/guide/faq'
       ],
       '/Materials/':[
@@ -105,7 +108,8 @@ module.exports = {
     'reading-progress',
     'reading-time',
     'element-tabs',
-    'export'
+    'export',
+    'flowchart'
     ]
 }
 

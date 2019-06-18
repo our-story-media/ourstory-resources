@@ -14,29 +14,32 @@ Our Story is a process to support collaborative film-making by non-professionals
 
 Our Story is an innovative approach to supporting local communities share their stories using video. Traditionally,  video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a group/community/organisation can collaboratively shoot, edit and publish videos.
 
+Our Story is a innovative approach which supports local communities to share their stories using a mobile video application. Traditionally, video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a community/group/organisation can manage their own storytelling process from beginning to end in one application.
 
+Essentially, it  is a tool to support collaborative film-making by non-professionals. Its features provide users with different templates for video shots; options to access, view and incorporate videos from other members; and  opportunities to manage/edit videos; add music; and publish from a video timeline with or without internet connectivity.  
+
+## Our Story in Practice
+
+**Indonesia (in collaboration with Palang Merah Indonesia):** A participatory video monitoring initiative looking at community feedback on a  water, sanitation and hygiene promotion (WASH) project in East Kalimantan region, Indonesia. 
+
+<YouTube id="6N8y-uMrMe8" />
+
+**Namibia (in collaboration with Namibia Red Cross Society):** A participatory video monitoring initiative looking at community feedback on a Orphans and Vulnerable Children (OVC)  project in Grootfontein region, Namibia.  
+
+<YouTube id="n7yMINp1dCQ" />
+
+**Egypt (in collaboration with Egyptian Red Crescent Society):**  A participatory video baseline initiative looking at community feedback to contribute to the planning phase of ERC’s School Children Training Programme “Health and Safety”in a deaf school in Helwan, Egypt. 
+
+<YouTube id="KNRztuM_J8Q" />
 
 ## The Process
 
 The {{$ourstory}} process consists of a set of activities that you can deploy over short period of time.
 
 ::: tip
-<i class="el-icon-right large" /> The input to the process is flexible, but is at the level of criteria to which the community should be responding with content. Examples include **a monitoring excercise**, **an ideation process** or **an ethnographic study**.
+<i class="el-icon-bottom large" /> The input to the process is flexible, but is at the level of criteria to which the community should be responding with content. Examples include **a monitoring excercise**, **an ideation process** or **an ethnographic study**.
 :::
 
-::: tip
-<i class="el-icon-back large" /> The output of the process is a set of curated videos from representitive groups within the community. These videos are tagged with labels related to the input criteria.
-:::
-
-<!-- <el-steps direction="vertical" :active="1">
-<el-step title="Step 1" description="test"></el-step>
-
-<el-step title="Step 2"></el-step>
-
-<el-step title="Step 3"></el-step>
-</el-steps> -->
-
-<!-- <div class="block"> -->
 <el-timeline>
 <el-timeline-item timestamp="Day 1" placement="top">
 
@@ -69,11 +72,15 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 
 </el-timeline-item>
 </el-timeline>
-<!-- </div> -->
+
+::: tip
+<i class="el-icon-bottom large" /> The output of the process is a set of curated videos from representitive groups within the community. These videos are tagged with labels related to the input criteria.
+:::
+
 
 ## Three Tools
 
-The Our Story process is supported by three key elements:
+The Our Story process is supported by three parts:
 
 ### Workflow and Paper-Based Materials
 

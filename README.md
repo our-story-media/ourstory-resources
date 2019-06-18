@@ -10,6 +10,8 @@ Setup Editing:
 
 `npm install -g vuepress`
 
+`npm install i`
+
 To preview changes on you machine:
 
 `npm run docs:dev`

@@ -16,6 +16,18 @@ It's highly recommended to read the [Guide](/guide/), but if you are happy with 
 
 ## Android Application
 
+<LinkButton url="/quickstart/app">Install Android Application</LinkButton>
+
+## Setup Shoot
+
+Visit the Dashboard, and `Start New Shoot`.
+
+1. Create a new shoot for your deployment, making sure to fill in the date range and name.
+2. The default settings should be OK for most deployments, but please check before entering the field.
+
+This is the minimum required to operate with the Standalone Android application.
+
+<!-- <LinkButton href="/guide/editions/online">Find Out More</LinkButton> -->
 
 <!-- <div>
 <span>Home</span>

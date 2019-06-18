@@ -30,7 +30,11 @@ The guide is available as a PDF. You can share this in the field.
 
 <RedCross example="true">IFRC Official Guide</RedCross>
 
+## Example Consent Form
 
+Consent forms need to be adjusted to any specific deployment. Never just use these without first adjusting them you both your requirements and your community.
+
+<DownloadLink url="//conssent.docx">Consent Example (Word Doc)</DownloadLink>
 
 ## Stickers
 
@@ -42,7 +46,7 @@ They can be printed on standard layout printer label sheets for easy use.
 
 <DownloadLink url="//stickers.docx">Stickers Template (Word Doc)</DownloadLink>
 
-## Pocket Field Guide
+## Pocket Manual
 
 The field guide is a pocket-size booklet designed to be given to facilitators in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activites that need to be performed.
 

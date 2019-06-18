@@ -9,7 +9,7 @@
 
 <script>
 module.exports = {
+    name:'LinkButton',
     props: ['url','type']
 }
-
 </script>

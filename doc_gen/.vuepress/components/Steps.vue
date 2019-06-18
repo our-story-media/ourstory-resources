@@ -1,10 +1,10 @@
 <template>
-<el-steps :active="step" class="mysteps">
-    <el-step title="Preparation"></el-step>
+<el-steps :active=step class="mysteps" align-center>
+    <!-- <el-step title="Preparation"></el-step> -->
 
     <el-step title="Ideation"></el-step>
 
-    <el-step title="Capture"></el-step>
+    <el-step title="Capture/Review"></el-step>
 
     <el-step title="Creation"></el-step>
 

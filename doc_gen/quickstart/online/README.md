@@ -1,5 +1,5 @@
 ---
-title: Our Story Hosted
+title: Online Edition
 ---
 
 <ReadTime />

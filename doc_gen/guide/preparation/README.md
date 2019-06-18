@@ -1,5 +1,5 @@
 ---
-title: "Step 1: Preparation"
+title: "Preparation"
 ---
 <ReadTime />
 
@@ -7,80 +7,100 @@ title: "Step 1: Preparation"
 
 # Preparation
 
-## Context
+<Leader>
 
+Before deploying to a community, you need to consider how the Our Story process will work within the specific context, and work with the community or other organisations to understand the expectations and process goals.
 
-## Contacts
+</Leader>
 
+::: tip Outcome of Step
 
-## Equipment
+You should have a clear plan for working with the community, have setup and tested your deployment technology, identified how to group the target community and prepared 
 
-::: warning Before Entering The Field
-You need to setup and install the Our Story application following the following steps!
 :::
 
-### 1. Install / Setup
+<TimeGuide>Up to 6 months prior</TimeGuide>
 
-Follow the [Quick Start](/quickstart) Guide.
+## Planning and Buy-in Process
 
-::: tip
-This requires a large download, so it is advisable to perform this step on a wired or fast WiFi connection before entering the field.
+As Our Story is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
 
-It is possible to install without this download by requesting a USB stick pre-loaded with the downloadable content.
-:::
+Offsite Planning: This would consist of all the things the team should plan before arriving on location ****(estimated budget**** ****(see Annex for an example budget)****, equipment (android phones and/or tablets), facilitation material,  local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc).
 
-<!-- :::: tabs
-::: tab Windows
-1. Download the Installer from Here.
-2. Run the installer, following all instructions. \(you will need a decent internet connection to perform this step, as the download is ~4GB\).
-3. Once the installer has completed, your computer might need restarting.
-4. Run the Our Story application.
-5. Visit [https://localhost](http://localhost) in your browser to check the application has started.
-::: -->
+Onsite Planning: Introduction meetings with the National Society (HQ, Branches, Volunteers); community leaders and at times government representatives.
 
-<!-- ::: tab OSX
-1. Install Docker from [Here](https://download.docker.com/mac/stable/Docker.dmg).
-2. Make sure Docker is running.
-3. In a terminal run `git clone --depth=1 https://github.com/digitalinteraction/ourstory-guide.git && cd ourstory-guide/titan/install && ./startup.sh`
-4. Visit [https://localhost](http://localhost) in your browser to check the application has started.
-:::
-:::: -->
+## Community Selection
 
-<!-- ### 2. Setup WiFi
+As this is an initiative which requires the presence of community representatives on a daily basis, it is recommended that the agreement of the selected community to the initiative be secured prior to arrival of the team to the field. The target groups you will work with will depend upon your project/programme and the sampling process used to best ensure representation and the feedback needs of your initiative.
 
-The Our Story application is required to be on a computer with an IP address of `10.10.10.1`
+Therefore in this initiative, you would:
 
-{% hint style="info" %}
-The Windows application will attempt to setup this for you, but in some cases this might not be possible.
-{% endhint %}
+Identify a community that is a recipient of the project/programme using a fair and unbiased approach. 
+Select the target groups which are most relevant for feedback to the project/programme in a fair and unbiased manner. The number of available Android devices (Tablets) in the project/programme may also limit the number/size of groups which can be formed. 
 
-This usually involves 2 steps:
+<StepOptions title="Community Selection Method">
 
-1. Change the DHCP address range of the router to be within 10.10.10.2 - 10.10.10.255 - usually done through the router admin panel.
-2. Manually set the IP address of the computer running Our Story to be 10.10.10.1.
+> Sampling methods: To limit biais we would recommend that probability sampling methods be used. For the Our Story process, stratified sampling has been frequently used, whereby the facilitator has divided the entire community into specific groups and then individuals have self-selected themselves from the group on a voluntary basis. 
 
-{% hint style="info" %}
-It is advisable to use a pre-shared password on the WiFi, which has already been entered on the Android devices, as anyone on the network can potentially access videos from the application. -->
-<!-- {% endhint %} -->
+> As it is important for the selected group to be able to work together on 1 Android device (tablet), if the number of self-selected community members is too large, the stratified sampling method can be used with other sampling approaches to reach the objective of the Our Story initiative.
+
+> Other types of tools/documents which can help facilitate the selection of the community and/or target groups:
+Vulnerability Capacity Assessment: Community-led assessment which measures people exposure to and capacity to resist natural hazards. It is complementary to national and sub-national risk, hazard, vulnerability and capacity mapping exercises and can be used to identify communities most-at-risk. Go to: http://vcarepository.info/
+
+> Online Sample Calculators: There are numerous type of online sampling calculators which can be used, such as: https://www.surveysystem.com/sscalc.htm or www.raosoft.com/samplesize.html. There are also  excel versions of sample calculators.
+
+</StepOptions>
+
+## Setup Shoot
+
+Make sure you have followed the [Quick Start](/quickstart/) guide and setup a new shoot.
+
+## Prepare Tags
+
+TODO
+
+<StepOptions title="Select Tags">
+
+A default set of tags exist for each shoot in the Our Story dashboard. These are based on the OECD DAC critera, however you may wish to use alternative tags whihc better relate to your outcomes.
+
+This setting is available in ``
+
+</StepOptions>
+
+## Localisation
+
+The Our Story process does not reply on communities communicating in a particular language, however you may wish to translate written materials into a relevant local language or dialect. See the Internationalization guide for more information.
+
+## Ethical considerations  - Do No Harm
 
 
 
-### 2. Setup Shoot
+As per the 
 
-Currently, the standalone version of Our Story matches the online Bootlegger platform version, so there are a couple of simple steps to make it operate correctly as standalone.
+**How do I consent participants?**
 
-1. Create a new shoot for your deployment, making sure to fill in the date range and name.
-2. The default settings should be OK for most deployments, but please check before entering the field.
+Click here for a standard consent script that we use when we have done deployments previously. Not that this is a script: you will need to customise this to your preferences in conversation with local NGO partners (if appropriate). You can use this consent script to inform your debrief with the community at the start. It is essential that adults and minors are consented properly, taking into account local laws that legislate this matter. 
 
-This is the minimum required to operate with the Standalone Android application.
 
-### 3. Install Software onto Devices
 
-There are two options to install the App on your devices:
+Participants need to be informed about how their data will be used, that their participation is voluntary and that they can withdraw at any time without giving reasons. 
 
-* Find it in the `install/android` folder of the application, transfer to each device and open the file to install.
-* Install from the Play Story from [Here](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.offline).
+**Does Our Story share my details?**
 
-::: tip
-If using the copy file method, you will be prompted to enable Unknown Sources when installing this application, this is normal for applications not from the Google Play Store and is OK to accept in this instance.
-:::
+No, Our Story is provided as is, without warranty and does not share any details with third parties. 
+
+We collect anonymised statistics about the Our Story: Online platform’s use. 
+
+**Do I give out devices to the participants?**
+
+We recommend that you assign one tablet/phone per sub-group within the set of participants you are working with e.g. one device each for men, women, youth, elderly etc. 
+
+The group is encouraged to work together and share access to the tablet to capture and review footage. We recommend that you label each device (using writeable plaster tape) with the name of the group (e.g. men) and on the first day before handing the device to the group to sign-in with the name of the group on the sign-in screen of the app. More instructions on how to join a project and sign-in are provided here. 
+
+After the groups have been trained on using basic features of the app, they can be given the device for the Capture, Review and Editing stage. Be aware of where the devices are at all times and be sure to collect the devices at the end of each day to backup the data.
+
+<StepOptions title="Community Consent Process">
+
+**_MIKI to include Sphere standards here (as everybody within Movement can relate to this).. _**
+
+</StepOptions>
