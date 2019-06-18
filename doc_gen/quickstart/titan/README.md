@@ -1,3 +1,9 @@
+---
+title: Our Story Titan
+---
+
+<ReadTime />
+
 # Our Story Titan
 
 Our Story depends on a technology called Virtualisation on Windows. If you are unsure whether your computer supports the never version (Called HyperV), download the `Toolbox` installer.

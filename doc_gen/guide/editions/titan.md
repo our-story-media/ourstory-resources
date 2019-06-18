@@ -1,0 +1,3 @@
+Our Story: Titan does everything Our Story: Online version does, except it is a fully offline solution. This is ideal for regions where there is no internet connectivity. To use this version, you will need a computer and a WiFi adaptor. You will also need to install the Titan server on this computer. Then the mobile phones/tablets will be able to connect to this computer and we can replicate the Our Story experience, totally offline. 
+[TODO] Instructions for installing Our Story: Titan server can be found here. 
+A version developed for situations where no 3G or WiFi is available, this version can be deployed by facilitators on their own computer to provide the full Our Story workflow in remote or inaccessible locations.

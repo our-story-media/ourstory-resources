@@ -56,18 +56,20 @@ module.exports = {
     sidebar: {
       '/quickstart/':[
         '/quickstart/',
-        '/quickstart/online/',
-        '/quickstart/titan/'
+        '/quickstart/titan/',
+        '/quickstart/online/'
       ],
       '/guide/':[
         '/guide/',
+        '/guide/editions/',
         '/guide/howtouse/',
         '/guide/preparation/',
         '/guide/ideation/',
         '/guide/capture/',
         '/guide/creation/',
         '/guide/presentation/',
-        '/guide/postproduction/'
+        '/guide/postproduction/',
+        '/guide/faq'
       ],
       '/Materials/':[
         '/materials/'

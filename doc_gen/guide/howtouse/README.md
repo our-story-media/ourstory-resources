@@ -7,7 +7,11 @@ title: How to Use this Guide
 
 # How to Use this Guide
 
+<Leader>
+
 This guide is written so that you can take the Our Story process and apply it to your context. Watch out for the  following flyouts for more information:
+
+</Leader>
 
 <!-- ::: tip How to Use this Guide
 This guide is written for anyone who is interested in deploying Our Story in the field.

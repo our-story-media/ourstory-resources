@@ -5,10 +5,17 @@ title: Quick Start
 # Quick Start
 
 <Leader>
+
 It's highly recommended to read the [Guide](/guide/), but if you are happy with how Our Story works then go ahead and follow the instructions below to get started.
+
 </Leader>
 
+## Dashboard Application
+
 <el-divider><i class="el-icon-sort"></i></el-divider>
+
+## Android Application
+
 
 <!-- <div>
 <span>Home</span>
