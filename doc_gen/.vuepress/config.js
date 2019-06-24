@@ -17,7 +17,7 @@ module.exports = {
       lang: 'fr'
     }
   },
-  title: 'Guide',
+  title: '',
   dest: 'docs',
   base: '/',
   description: 'Our Story Deployment Guide',
@@ -45,13 +45,15 @@ module.exports = {
     lastUpdated: 'Last Updated',
     repo: 'our-story-media/ourstory-guide',
     docsDir: 'docs',
-    editLinks: false,
+    editLinks: true,
     editLinkText: 'Edit in GitHub',
+    repoLabel: 'Contribute!',
     logo: '/platform.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
       { text: 'Quick Start', link: '/quickstart/' },
-      { text: 'Materials', link: '/materials/' }
+      { text: 'Materials', link: '/materials/' },
+      { text: 'Dashboard', link: 'https://app.ourstory.video' }
     ],
     sidebar: {
       '/quickstart/':[

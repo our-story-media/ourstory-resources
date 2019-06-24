@@ -1,16 +1,25 @@
 ---
 title: Titan Edition
+next: /quickstart/app/
 ---
 
 <ReadTime />
 
 # Our Story Titan
 
+<Leader>
+
+Our Story Titan is an installable Windows application which creates a fully operational Our Story environment on your local machine. Android tablets then connect to your computer rather than the internet via a local network.
+
+</Leader>
+
+::: tip
 Our Story depends on a technology called Virtualisation on Windows. If you are unsure whether your computer supports the never version (Called HyperV), download the `Toolbox` installer.
 
-> Most computers with Windows 10 Pro, Education or Enterprise will have this support enabled.
+Most computers with Windows 10 Pro, Education or Enterprise will have this support enabled.
+:::
 
-## Download Files
+## 1. Download Files
 
 Download the following files in this directory onto your machine or USB stick:
 
@@ -21,7 +30,7 @@ Download the following files in this directory onto your machine or USB stick:
 
 ----
 
-## Installation Guide
+## 2. Install Software
 
 Once downloaded, you should not require internet connectivity, if you have both the above files.
 

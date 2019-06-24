@@ -1,5 +1,5 @@
 ---
-title: "Step 2: Ideation"
+title: "Step 1: Ideation"
 ---
 
 <ReadTime />

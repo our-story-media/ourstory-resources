@@ -1,5 +1,5 @@
 ---
-title: "Step 3: Capture/Review"
+title: "Step 2: Capture/Review"
 ---
 
 <ReadTime />

@@ -12,13 +12,52 @@ It's highly recommended to read the [Guide](/guide/), but if you are happy with 
 
 ## Dashboard Application
 
-<el-divider><i class="el-icon-sort"></i></el-divider>
+<Leader>
+
+The Dashboard is the software that powers your Our Story deployment. There are two choices when it comes to the Dashboard, find out more by reading [Which Edition is For Me?](/guide/editions)
+
+</Leader>
+
+<el-row :gutter="12">
+<el-col :span="12">
+<el-card class="herocard">
+
+
+**Titan Edition is for using in scenarios where there is no internet connectivity, and all participants are co-located.**
+
+<LinkButton type="danger" url="/quickstart/titan/">Get Started with Titan</LinkButton>
+
+</el-card>
+</el-col>
+
+<el-col :span="12">
+<el-card class="herocard">
+
+**Online Edition is for using in scenarios where you have distributed participants, or are not co-located and there is adaquate internet connectivity.**
+
+<LinkButton type="danger" url="/quickstart/online/">Get Started with Online</LinkButton>
+
+</el-card>
+</el-col>
+</el-row>
 
 ## Android Application
 
-<LinkButton url="/quickstart/app">Install Android Application</LinkButton>
+<Leader>
 
-## Setup Shoot
+Every Our Story deployment requires devices with the Android Application installed. It's in the Play Store, and also as a download if you are using Titan.
+
+</Leader>
+
+<LinkButton type="danger" url="/quickstart/app">Android Application</LinkButton>
+
+## Setup a Shoot
+
+<Leader>
+
+Each deployment in Our Story (video activity group of participants) is represented as a `Shoot`. Through a Shoot you mange what should be captured, how to tag the content and Who and when the process can be used.
+
+</Leader>
 
 Visit the Dashboard, and `Start New Shoot`.
 
@@ -26,25 +65,3 @@ Visit the Dashboard, and `Start New Shoot`.
 2. The default settings should be OK for most deployments, but please check before entering the field.
 
 This is the minimum required to operate with the Standalone Android application.
-
-<!-- <LinkButton href="/guide/editions/online">Find Out More</LinkButton> -->
-
-<!-- <div>
-<span>Home</span>
-<el-divider direction="vertical"></el-divider>
-<span>Grass</span>
-</div> -->
-
-<!-- <el-row>
-<el-col :span="11">
-    Titan
-    asd
-    asd
-    as
-    da
-    s
-    asd
-</el-col>
-<el-col :span="2"><el-divider direction="vertical"></el-divider></el-col>
-<el-col :span="11">Online</el-col>
-</el-row> -->

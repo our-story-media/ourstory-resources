@@ -1,4 +1,0 @@
-Our Story has been built for NGOs and organisations who want to use participatory video to tell community stories. This has been built for International Development contexts where limited internet connectivity needs to be taken into account. 
-All you need is a Web browser, head to ourstory.video and start a new shoot. You will get a unique code for your shoot, which you can share with your participants. The participants can then enter the code into the Our Story app on their phone or tablet. You are ready to go! 
-A version developed with Red Cross for monitoring and evaluation of programmes in the field. Designed for use in situations with limited (but available 3G). Reduced access to social media, social login for safety and ethical reasons, and reduced bandwidth needs. Designed to be supported by team of facilitators on the ground.
-TODO: Click here for a tutorial on how to setup a shoot and invite participants to join

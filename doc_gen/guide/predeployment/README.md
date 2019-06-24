@@ -7,7 +7,7 @@ title: "Pre Deployment"
 
 <Leader>
 
-Our Story consists of 5 distinct steps. These steps are described in detail in the following sections. However before you enter a deployment, you might need to consider the following things.
+Our Story consists of some simple preparation and then 4 distinct steps in the field. These steps are described in detail in the following sections. However before you enter a deployment, you might need to consider the following things.
 
 </Leader> 
 

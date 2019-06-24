@@ -22,17 +22,17 @@ All you need is a Web browser, head to [app.ourstory.video](https://app.ourstory
 
 A version developed with Red Cross for monitoring and evaluation of programmes in the field. Designed for use in situations with limited \(but available 3G\). Reduced access to social media, social login for safety and ethical reasons, and reduced bandwidth needs. Designed to be supported by team of facilitators on the ground.
 
-<LinkButton href="/guide/editions/online">Find Out More</LinkButton>
+<LinkButton url="/quickstart/online/">Find Out More</LinkButton>
 
 </el-tab-pane> 
 
 <el-tab-pane label="Our Story Titan" name="1">
 
-_Our Story: Titan_ does everything _Our Story: Online_ version does, except it is a fully offline solution. This is ideal for regions where there is no internet connectivity. To use this version, you will need a computer and a WiFi adaptor. You will also need to install the [Titan Application](/quickstart/titan/) on this computer. Then the mobile phones/tablets will be able to connect to this computer and we can replicate the Our Story experience, totally offline. 
+_Our Story: Titan_ does everything _Our Story: Online_ version does, except it is a fully offline solution. This is ideal for regions where there is no internet connectivity. To use this version, you will need a computer and a WiFi router. You will also need to install the [Titan Application](/quickstart/titan/) on this computer. Then the mobile phones/tablets will be able to connect to this computer and we can replicate the Our Story experience, totally offline.
 
 A version developed for situations where no 3G or WiFi is available, this version can be deployed by facilitators on their own computer to provide the full Our Story workflow in remote or inaccessible locations.
 
-<LinkButton href="/guide/editions/titan">Find Out More</LinkButton>
+<LinkButton url="/quickstart/titan/">Find Out More</LinkButton>
 
 </el-tab-pane>
 
@@ -46,7 +46,8 @@ A feature comparison might help understand some of the differences:
 | :--- | :---: | :---: |
 | Dashboard to create and manage shoots | ✔ | ✔ |
 | Contributors can upload videos to shoot | ✔ | ✔ |
-| Requires Internet?  | ✔ |  |
 | Optimised for Limited Connectivity areas |  ✔ | ✔ |
-| Optimised for Zero Connectivity areas |  | ✔ |
 | Recommended for Monitoring and Evaluation |  ✔ |  ✔ |
+| Requires Internet (upsteam connection)?  | ✔ |  |
+| Optimised for Zero Connectivity areas |  | ✔ |
+| Recommended for Co-located communities | | ✔ |

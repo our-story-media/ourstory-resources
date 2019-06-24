@@ -92,11 +92,47 @@ iframe
 
 table
 {
+    
     width:100%;
-    display: table;
+    // display: table;
+    overflow: scroll;
 }
 
 .page-edit
 {
     margin:0 !important;
+}
+
+.repo-link
+{
+    display: none !important;
+}
+
+.herocard
+{
+    min-height:240px;
+}
+
+.herocard button
+{
+    position: absolute;
+    bottom: 20px;
+}
+
+.home
+{
+    .el-card
+    {
+        // position: relative;
+        margin-top: 1em;
+
+        img
+        {
+            display: block;
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            max-height: 200px;
+        }
+    }
 }

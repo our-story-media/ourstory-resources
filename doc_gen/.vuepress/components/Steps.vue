@@ -1,14 +1,24 @@
 <template>
-<el-steps :active=step class="mysteps" align-center>
-    <!-- <el-step title="Preparation"></el-step> -->
+<el-steps  :active=step class="mysteps" align-center>
+    <el-step title="Prep." icon="el-icon-date">
+    </el-step>
 
-    <el-step title="Ideation"></el-step>
+    <el-step title="Ideation">
+        <strong  slot="icon">1</strong>
+    </el-step>
 
-    <el-step title="Capture/Review"></el-step>
+    <el-step title="Capture">
+    <strong  slot="icon">2</strong></el-step>
 
-    <el-step title="Creation"></el-step>
+    <el-step title="Creation">
+        <strong  slot="icon">3</strong>
+    </el-step>
 
-    <el-step title="Presentation"></el-step>
+    <el-step title="Feedback">
+        <strong  slot="icon">4</strong>
+    </el-step>
+     <el-step title="Use" icon="el-icon-share">
+    </el-step>
 </el-steps>
 </template>
 

@@ -4,9 +4,22 @@ title: "Using the Content"
 
 <ReadTime />
 
-# Post-Deployment: Maximising the impact
+<Steps step="6"/>
+
+# Using the Content
+
+<Leader>
+
+Community content can be captured for a variety of reasons. Most often the content needs to become available outside of the local context, and therefore requires transcription, translation and distribution, to maximise impact.
+
+</Leader>
 
 ## Translation / Transcription
+
+Our Story does not currently have a built in workflow for transcribing and translating content, however through our extensive use with partners we have developed a set of guiding principles which will help you make the most of your community content:
+
+- **Only transcribe content that you will distribute:** This sounds simple, but dont waste resources getting content transcribed that will not be shared. Only transcribe the final stories produced by the communities.
+- **Get transcription in the field:** Wherever possible, make sure to build in time with your partners in the field to transcribe content. Use trusted, well educated and informed people where possible, and at least try and leave the field with the transcription in a single language.
 
 
 ## Subtitling (Closed Captions)
