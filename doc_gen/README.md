@@ -2,7 +2,7 @@
 title: Our Story
 home: true
 heroText: 
-description: Our Story is an easy to implement process that supports your organisation in capturing rich, meaninful video stories from communities.
+description: Our Story is an easy to implement participatory video process that supports your organisation in capturing rich, meaninful video stories from communities.
 heroImage: /platform.svg
 # actionText: Get Started →
 actionLink: /introduction/

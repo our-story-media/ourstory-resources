@@ -60,7 +60,8 @@ module.exports = {
         '/quickstart/',
         '/quickstart/titan/',
         '/quickstart/online/',
-        '/quickstart/app/'
+        '/quickstart/app/',
+        '/quickstart/dashboard/'
       ],
       '/guide/':[
         '/guide/',

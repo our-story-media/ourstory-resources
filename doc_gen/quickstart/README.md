@@ -6,7 +6,7 @@ title: Quick Start
 
 <Leader>
 
-It's highly recommended to read the [Guide](/guide/), but if you are happy with how Our Story works then go ahead and follow the instructions below to get started.
+It's highly recommended to read the [Guide](/guide/), but if you are happy with the Our Story process then go ahead and follow the instructions below to get started.
 
 </Leader>
 
@@ -55,13 +55,8 @@ Every Our Story deployment requires devices with the Android Application install
 
 <Leader>
 
-Each deployment in Our Story (video activity group of participants) is represented as a `Shoot`. Through a Shoot you mange what should be captured, how to tag the content and Who and when the process can be used.
+Each deployment in Our Story (video activity group of participants) is represented as a `Shoot`. Through a Shoot you mange what should be captured, how to tag the content and Who and when the process can be used. Shoots are managed through the Dashboard.
 
 </Leader>
 
-Visit the Dashboard, and `Start New Shoot`.
-
-1. Create a new shoot for your deployment, making sure to fill in the date range and name.
-2. The default settings should be OK for most deployments, but please check before entering the field.
-
-This is the minimum required to operate with the Standalone Android application.
+<LinkButton type="danger" url="/quickstart/dashboard">Using the Dashboard</LinkButton>
