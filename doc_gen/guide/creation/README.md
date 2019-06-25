@@ -10,7 +10,7 @@ title: "Step 3: Creation"
 
 <Leader>
 
-The creation step draws out rich narratives from the video captured by each group. Once a group has tagged their content, they 
+The creation step draws out rich narratives from the video captured by each group. Once a group has tagged their content, they can use this content to build a video Story using the simple editor.
 
 DIAGRAM - CAPTURE / REVIEW
 
@@ -22,38 +22,40 @@ Each group should have produced a Story within the tablet application which repr
 
 :::
 
+<TimeGuide time="3-4 hours">
+
+## Create Story
+
+</TimeGuide>
+
+Each group should use their videos (and any others from the community that they feel help tell their narrative) 
+
 <Materials>
 
 - Tagged Flipcharts
-- Tablets
+- Android Tablet
 
 </Materials>
 
-<TimeGuide>3-4 hours</TimeGuide>
-
-<AdminRole title="Facilitator Task - Processing Stories">
+<AdminRole title="Processing Stories">
 
 ### Tutorial: Managing Stories
 
 On the Shoot Manager, you can configure many details of the shoot and it's contents. You can also download stories and change the user that a story is assigned to. 
 
-**Uploading Content: Requires WiFi connection to computer**
 
-Uploading should be initiated when each device is connected to the WiFi and the application is running on the computer. In some cases, uploading a single device at a time may be faster than attempting to sync all simultaneously.
 
-Depending on the participants, this upload process could be built into 'pitstops' during the filming process.
 
-**Reviewing Content: Requires WiFi connection to computer**
-
-Once content is uploaded from a device it is available to all participants to view and use in making stories.
 
 </AdminRole>
 
-## Selecting Content for the Timeline
+### Selecting Content for the Timeline
 
-## Adding Titles
+### Adding Titles
 
-## Adding Audio
+### Adding Music
+
+### Adding Community Names (Credits)
 
 
 ::: tip WiFi / 3G Connection Required
@@ -78,11 +80,7 @@ Stories will continue to process without the Android device being available.
 
 Low resolution published content can be played directly from the Android devices that created the content, however you can open the upload directory located on the computer and play high quality versions directly.
 
-**Using Content**
 
-All content produced during the process is stored on the computer running the Our Story application.
-
-These files are stored as mp4 video files in the ./upload folder. Lower resolution files are stored within the upload/transcode/upload folder.
 
 Tutorial: How do i make the final story? (How to use the timeline? 
 
@@ -94,15 +92,13 @@ Tutorial: How do i make the final story? (How to use the timeline?
 
 **Trimming Videos **
 
-1. To trim the beginning or end of a video, just click on the ‘Trim’ icon (Scissors), and drag the blue slider to the range of the video that you want to keep. As you adjust the sliders, the video will playback to reveal what the new video will look like. Once you are happy with the trim, just tap on the ‘Trim’ button again to exit trimming mode. 
 
-2. It is not possible to make multiple trims within the same video so if you want to remove the middle of a video or if you want to use two small subsections of the video, then you should add the same video multiple times to the timeline and then edit each of those videos to reflect the desired changes. 
 
 Click here to learn how to add a soundtrack to your story. 
 
 Click here to learn how to add text/credits to your story
 
-**Publishing **
+### Publishing
 
 1. To publish your story, click on the ‘Save’ button and then tap ‘Publish now’
 

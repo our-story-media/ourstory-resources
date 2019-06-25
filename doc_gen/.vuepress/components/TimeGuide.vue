@@ -1,11 +1,11 @@
 <template lang="pug">
-h2
-    slot
-    //- el-divider(content-position="right")
+//- h2(id="time")
+div
     .timeguide
         i(class="el-icon-timer")
         b &nbsp;Time Guide&nbsp;
         span {{time}}
+    slot
     div(style="clear:both")
 </template>
 
@@ -20,13 +20,13 @@ module.exports = {
 {
     font-size:14px;
     float:right;
-    line-height: 3em;
+    line-height: 2.4em;
     color: $accentColor;
 }
 
 h2
 {
-    clear:both;
+    // clear:both;
 }
 
 </style>

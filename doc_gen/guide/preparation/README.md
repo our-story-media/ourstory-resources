@@ -19,7 +19,11 @@ You should have a clear plan for working with the community, have setup and test
 
 :::
 
-<TimeGuide time="Up to 6 months prior">Planning and Buy-in Process</TimeGuide>
+<TimeGuide time="Up to 6 months prior">
+
+## Planning and Buy-in Process
+
+</TimeGuide>
 
 As Our Story is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
 

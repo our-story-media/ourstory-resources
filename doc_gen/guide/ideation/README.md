@@ -23,7 +23,11 @@ Each group in the community you are working with should have a flipchart sheet w
 
 :::
 
-<TimeGuide time="1 hour">Familiarisation</TimeGuide> 
+<TimeGuide time="1 hour">
+
+## Familiarisation
+
+</TimeGuide> 
 
 <Materials>
 
@@ -40,12 +44,20 @@ Working with the whole community, we provide them with prompts about the issues 
 
 </StepOptions>
 
-<TimeGuide time="30 mins">Group Selection</TimeGuide>
+<TimeGuide time="30 mins">
+
+## Group Selection
+
+</TimeGuide>
 
 The community are organized into pre-organised groups (e.g. Men, Women, Youth, Elderly) 
 
 
-<TimeGuide time="1-2 hours">Scoping</TimeGuide>
+<TimeGuide time="1-2 hours">
+
+## Scoping
+
+</TimeGuide>
 
 <Materials>
 
@@ -66,7 +78,11 @@ They are given cards which help them think about key questions to answer for the
 
 </StepOptions>
 
-<TimeGuide time="1-2 hours">Story Building</TimeGuide>
+<TimeGuide time="1-2 hours">
+
+## Story Building
+
+</TimeGuide>
 
 <Materials>
 
