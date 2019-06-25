@@ -42,10 +42,10 @@ module.exports = {
     },
     
     displayAllHeaders: false,
-    lastUpdated: 'Last Updated',
+    lastUpdated: 'Updated',
     repo: 'our-story-media/ourstory-guide',
     docsDir: 'docs',
-    editLinks: true,
+    editLinks: false,
     editLinkText: 'Edit in GitHub',
     repoLabel: 'Contribute!',
     logo: '/platform.svg',

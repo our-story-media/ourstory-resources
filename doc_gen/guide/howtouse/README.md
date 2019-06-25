@@ -13,13 +13,20 @@ This guide is written so that you can take the Our Story process and apply it to
 
 </Leader>
 
-<!-- ::: tip How to Use this Guide
-This guide is written for anyone who is interested in deploying Our Story in the field.
-:::  -->
+## Terminology
 
-# Terminology
+Throughout this guide, the following terminology will be used:
 
-TODO
+| Term | Context |
+|------|---------|
+|Shoot| A single instance of Our Story being used in a single deployment context. Shoots are managed from the Dashboard.|
+|Story| The resulting video created at the end of the process. Shoots usually produce 4-5 Stories, one from each group and one from the community as a whole.|
+|Participant|A member of the community who is engaged in the Our Story process.|
+|Facilitator|A member of the organisation who is running the Our Story process, and has been trained in the use of Our Story tools and materials.|
+|Volunteer|A member of the community or local organisation who is transiantly assisting the facilitator in the field.|
+|Dashboard|The application (website) used to control various aspects of the digital Our Story process.|
+
+## Flyouts
 
 ::: warning Training Materials
 If you are responsible for training others in performing aspects of the Our Story process, these additional materials are available.
@@ -66,11 +73,6 @@ If field materails are required (e.g. tablets, cards) these will be indicated he
 The following item helps guide how long each stage in the process should take, or at least how much time we advise you should leave to give groups appropriate time to complete each task.
 :::
 
-<TimeGuide>2-3 hours</TimeGuide>
+<TimeGuide time="2-3 hours">Time Guide</TimeGuide>
 
-
-<!-- **NEED** -->
-
-<!-- - 'what red cross uses' sidebar
-- 'how to train your organisation' sidebar
-- case study highlight -->
+*The title above demonstrates the time guide.*

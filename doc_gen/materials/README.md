@@ -1,4 +1,5 @@
 ---
+title: Materials
 sidebar: auto
 sidebarDepth: 1
 ---

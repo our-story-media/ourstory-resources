@@ -10,7 +10,7 @@ title: "Step 3: Creation"
 
 <Leader>
 
-This is where 
+The creation step draws out rich narratives from the video captured by each group. Once a group has tagged their content, they 
 
 DIAGRAM - CAPTURE / REVIEW
 
@@ -18,7 +18,7 @@ DIAGRAM - CAPTURE / REVIEW
 
 ::: tip Outcome of Step
 
-Each group should have produced a Story within the tablet application which represents their narrative.
+Each group should have produced a Story within the tablet application which represents their narrative. A community video should also have been created by representives from each group.
 
 :::
 

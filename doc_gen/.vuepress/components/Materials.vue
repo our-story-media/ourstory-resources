@@ -13,6 +13,12 @@ module.exports = {
 }
 </script>
 
-<style>
-
+<style lang="stylus">
+.el-card
+{
+    ul
+    {
+        margin: 0;
+    }
+}
 </style>

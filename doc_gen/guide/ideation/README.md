@@ -23,9 +23,7 @@ Each group in the community you are working with should have a flipchart sheet w
 
 :::
 
-
-
-## Familiarisation
+<TimeGuide time="1 hour">Familiarisation</TimeGuide> 
 
 <Materials>
 
@@ -33,19 +31,21 @@ Prompt materials (photos) to help the community contextualise what you are askin
 
 </Materials>
 
-<TimeGuide>1 hour</TimeGuide>
 
 Working with the whole community, we provide them with prompts about the issues they are talking about (e.g. photos from the project they are providing feedback for). Using the flipchart paper, a scribe writes down the views of the community.
 
+<StepOptions title="Familiarisation">
 
-## Group Selection
+**Example: Photo Walks**
 
+</StepOptions>
 
+<TimeGuide time="30 mins">Group Selection</TimeGuide>
 
 The community are organized into pre-organised groups (e.g. Men, Women, Youth, Elderly) 
 
 
-## Scoping
+<TimeGuide time="1-2 hours">Scoping</TimeGuide>
 
 <Materials>
 
@@ -54,10 +54,6 @@ The community are organized into pre-organised groups (e.g. Men, Women, Youth, E
 - Story Cards
 
 </Materials>
-
-<TimeGuide>1-2 hours</TimeGuide>
-
-
 
 <StepOptions title="Scoping Excercise">
 
@@ -70,8 +66,7 @@ They are given cards which help them think about key questions to answer for the
 
 </StepOptions>
 
-
-## Story Building
+<TimeGuide time="1-2 hours">Story Building</TimeGuide>
 
 <Materials>
 
@@ -81,7 +76,6 @@ They are given cards which help them think about key questions to answer for the
 
 </Materials>
 
-<TimeGuide>1-2 hours</TimeGuide>
 
 In each group, based on the flipchart paper from the previous activity, they write down 2 or 3 stories that they want to tell.
 

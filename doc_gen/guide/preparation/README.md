@@ -19,15 +19,13 @@ You should have a clear plan for working with the community, have setup and test
 
 :::
 
-<TimeGuide>Up to 6 months prior</TimeGuide>
-
-## Planning and Buy-in Process
+<TimeGuide time="Up to 6 months prior">Planning and Buy-in Process</TimeGuide>
 
 As Our Story is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
 
-Offsite Planning: This would consist of all the things the team should plan before arriving on location ****(estimated budget**** ****(see Annex for an example budget)****, equipment (android phones and/or tablets), facilitation material,  local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc).
+Offsite Planning: This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
 
-Onsite Planning: Introduction meetings with the National Society (HQ, Branches, Volunteers); community leaders and at times government representatives.
+Onsite Planning: Introduction meetings with the local organisation; community leaders and at times government representatives.
 
 ## Community Selection
 

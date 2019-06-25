@@ -14,6 +14,10 @@ Community content can be captured for a variety of reasons. Most often the conte
 
 </Leader>
 
+## Tagged Stories
+
+Stories can be exported from the Dashboard with the Tags `burned` onto the video. This is useful for sharing within your organisation and for reporting or monitoring. To change the language that the tags are `burnt` using, visit the `Settings` screen of the Dashboard before Publishing each story.
+
 ## Translation / Transcription
 
 Our Story does not currently have a built in workflow for transcribing and translating content, however through our extensive use with partners we have developed a set of guiding principles which will help you make the most of your community content:
@@ -21,19 +25,22 @@ Our Story does not currently have a built in workflow for transcribing and trans
 - **Only transcribe content that you will distribute:** This sounds simple, but dont waste resources getting content transcribed that will not be shared. Only transcribe the final stories produced by the communities.
 - **Get transcription in the field:** Wherever possible, make sure to build in time with your partners in the field to transcribe content. Use trusted, well educated and informed people where possible, and at least try and leave the field with the transcription in a single language.
 
-
 ## Subtitling (Closed Captions)
 
 <Materials>
 
-[https://www.nikse.dk/subtitleedit](https://www.nikse.dk/subtitleedit)
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit)
+- [Adobe Rush](https://www.nikse.dk/subtitleedit)
 
 </Materials>
+
+Once transcription has been obtained in the appropriate language for your content, videos may need to be `burned` with Subtitles.
+
+
 
 
 **Working with people on the ground to enable good translations**
 
-On this page, we present some guidelines for producing good subtitles that can then be loaded into the group stories so that they are accessible to a wider audience. 
 
 ## Open source software for subtitling videos
 
@@ -55,3 +62,4 @@ Currently Our Story doesn't support the editing of the community published video
 
 
 
+## Tagged Content (For Reporting)

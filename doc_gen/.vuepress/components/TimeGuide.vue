@@ -1,14 +1,32 @@
 <template lang="pug">
-el-divider(content-position="right")
+h2
+    slot
+    //- el-divider(content-position="right")
     .timeguide
         i(class="el-icon-timer")
         b &nbsp;Time Guide&nbsp;
-        slot
+        span {{time}}
+    div(style="clear:both")
 </template>
 
-<style>
+<script>
+module.exports = {
+    props: ['time']
+}
+</script>
+
+<style lang="stylus" scoped>
 .timeguide
 {
-    font-size:18px;
+    font-size:14px;
+    float:right;
+    line-height: 3em;
+    color: $accentColor;
 }
+
+h2
+{
+    clear:both;
+}
+
 </style>

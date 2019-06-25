@@ -10,8 +10,6 @@ Our Story and Our Story: Titan have been developed in association with the Inter
 
 </Leader>
 
-_Our Story_ and _Our Story: Titan_ have been developed in association with the International Federation of Red Cross and Red Crescent. These variants contain features that are useful for International Development contexts.
-
 <el-tabs>
 
 <el-tab-pane label="Our Story Online">

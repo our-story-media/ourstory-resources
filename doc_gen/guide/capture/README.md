@@ -6,7 +6,7 @@ title: "Step 2: Capture/Review"
 
 <Steps step="3"/>
 
-# Capture
+# Capture and Review
 
 <Leader>
 
@@ -24,15 +24,63 @@ Each group should have a set of individual videos which have been tagged.
 
 :::
 
-<TimeGuide>3-4 hours (over 2 days)</TimeGuide>
+
+<TimeGuide time="3-4 hours (over ~2 days)">Capture</TimeGuide>
 
 <Materials>
 
-- 
+- Connection to Our Story Dashboard (for first use)
+- Android Tablet
+- Microphone
+- Sheet with Tagged narrative
 
 </Materials>
 
-## Joining the Shoot
+### Community On-Boarding (once)
+
+We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example 'interviews' between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
+
+<AdminRole title="Run the Dashboard">
+
+If using Titan Edition, make sure the Dashboard is running and WiFi is running and connected before attempting to `Join` a device to a shoot. If using Online Edition, this will require Internet connectivity.
+
+</AdminRole>
+
+### Group On-Boarding (once)
+
+This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
+
+1. Make sure each group has an Android device and any additional equipment (microphone etc.).
+1. Connect the device to the WiFi or Internet service and open the Our Story application.
+1. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
+1. Get the group to select the shoot you want them to participate in.
+1. Let the group login, select a Theme and open the camera screen.
+
+As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without any WiFi or Internet connection.
+
+### Recording Video
+
+Each group is now given the opportunity to capture the videos described in the paper plan. Often these groups will travel across their locale, interview other members of their group or members of the community. As much effort as possible should be made to support them in doing these things without controlling their access to potential content.
+
+<TimeGuide time="30 mins for each hour of capture ">Review and Tag</TimeGuide>
+
+At regular intervals (such as twice a day), each group should stop capturing content and 
+
+<Materials>
+
+- Connection to Our Story Dashboard (for first use)
+- Android Tablet
+- Microphone
+- Sheet with Tagged narrative
+
+</Materials>
+
+
+---
+
+
+
+### Joining the Shoot
 
 *Initial Device Connection*
 
@@ -48,7 +96,7 @@ This initial step needs to take place with your participants in range of the WiF
 
 As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without connection to the WiFi.
 
-## Capturing Content
+### Capturing Content
 
 This process can be accomplished offline, i.e. the computer and WiFi connection does not have to be available.
 
