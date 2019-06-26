@@ -17,7 +17,7 @@ module.exports = {
       lang: 'fr'
     }
   },
-  title: 'Our Story',
+  title: 'Guide',
   dest: 'docs',
   base: '/',
   description: 'Our Story Deployment Guide',

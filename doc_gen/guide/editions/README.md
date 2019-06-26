@@ -2,6 +2,8 @@
 title: Which Edition?
 ---
 
+<ReadTime />
+
 # Which edition is right for me? 
 
 <Leader>

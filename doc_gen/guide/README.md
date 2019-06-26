@@ -8,15 +8,21 @@ title: What is Our Story?
 
 <Leader>
 
-Our Story is a process to support collaborative film-making by non-professionals. It supports the entire process from commissioning content, helping contributors capture high value content, to creating edits \(stories\) representing their narratives.
+Our Story is an innovative approach to supporting local communities share their stories using video. Traditionally,  video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a group/community/organisation can collaboratively shoot, edit and publish videos. 
+
+<!-- Our Story is a process to support collaborative film-making by non-professionals. It supports the entire process from commissioning content, helping contributors capture high value content, to creating edits \(stories\) representing their narratives. -->
+
+Our Story uses innovative features within a digitally augmented process to allow non-professionals to support community delivered media. The Our Story process works very much like a 5 day 'film school'. It takes a community through the key stages of making a video to tell their stroy, from ideation to production, allowing them to perform all steps along the way without content intervention by the Facilitator.
+
+<!-- Its features provide participants with different templates for video shots; options to access, view and incorporate videos from other members; and  opportunities to manage/edit videos; add music; and publish from a video timeline with or without internet connectivity.   -->
 
 </Leader>
 
-Our Story is an innovative approach to supporting local communities share their stories using video. Traditionally,  video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a group/community/organisation can collaboratively shoot, edit and publish videos.
+<!-- Our Story is an innovative approach to supporting local communities share their stories using video. Traditionally,  video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a group/community/organisation can collaboratively shoot, edit and publish videos. -->
 
-Our Story is a innovative approach which supports local communities to share their stories using a mobile video application. Traditionally, video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a community/group/organisation can manage their own storytelling process from beginning to end in one application.
+<!-- Our Story is a innovative approach which supports local communities to share their stories using a mobile video application. Traditionally, video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a community/group/organisation can manage their own storytelling process from beginning to end in one application. -->
 
-Essentially, it  is a tool to support collaborative film-making by non-professionals. Its features provide users with different templates for video shots; options to access, view and incorporate videos from other members; and  opportunities to manage/edit videos; add music; and publish from a video timeline with or without internet connectivity.  
+
 
 ## Our Story in Practice
 
@@ -43,32 +49,26 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 <el-timeline>
 <el-timeline-item timestamp="Day 1" placement="top">
 
-<h4>Update Github template</h4>
-<p>Tom committed 2018/4/12 20:46</p>
+<h4>Ideation & Planning</h4>
+<p>The community selects representitive groups, working through a set of design tasks to develop structured narrative ideas for videos.</p>
 
 </el-timeline-item>
-<el-timeline-item timestamp="Day 2" placement="top">
+<el-timeline-item timestamp="Day 2-3" placement="top">
 
-<h4>Update Github template</h4>
-<p>Tom committed 2018/4/3 20:46</p>
-
-</el-timeline-item>
-<el-timeline-item timestamp="Day 3" placement="top">
-
-<h4>Update Github template</h4>
-<p>Tom committed 2018/4/2 20:46</p>
+<h4>Capture & Review</h4>
+<p>Each group uses the Android application to capture their own videos, adding labels to match them against their plan.</p>
 
 </el-timeline-item>
 <el-timeline-item timestamp="Day 4" placement="top">
 
-<h4>Update Github template</h4>
-<p>Tom committed 2018/4/2 20:46</p>
+<h4>Creation</h4>
+<p>Each group uses tagged videos to produce a Story (edit) which includes titles and music.</p>
 
 </el-timeline-item>
 <el-timeline-item timestamp="Day 5" placement="top">
 
-<h4>Update Github template</h4>
-<p>Tom committed 2018/4/2 20:46</p>
+<h4>Community Feedback</h4>
+<p>Each of the videos produced by the groups is played back to the community, and copies of the content are left with community representitives.</p>
 
 </el-timeline-item>
 </el-timeline>
@@ -84,18 +84,15 @@ The Our Story process is supported by three parts:
 
 ### Workflow and Paper-Based Materials
 
-TODO
-
+Our Story is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Taggin which can be used or adjusted as required.
 
 ### Android Mobile Application
 
-The Our Story app helps you participate in film shoots. Just download the app and follow the instructions to get involved. Upload footage using WiFi when you're done.
+The Our Story App enables participants to directly contribute to the film making process. This application is provided on Android devices to the community during the deployment to record, tag and edit videos.
 
 ### Management Dashboard
 
-The Our Story website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved.
-
-Our Story acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.
+The Our Story website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved. Our Story acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.
 
 ## Technology Considerations
 

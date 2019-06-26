@@ -9,7 +9,7 @@ title: How to Use this Guide
 
 <Leader>
 
-This guide is written so that you can take the Our Story process and apply it to your context. Watch out for the  following flyouts for more information:
+This guide is written so that you (a Facilitator) can take the Our Story process and apply it to your context. Watch out for the  following flyouts for more information:
 
 </Leader>
 
@@ -19,12 +19,14 @@ Throughout this guide, the following terminology will be used:
 
 | Term | Context |
 |------|---------|
+|Facilitator|A member of the organisation who is running the Our Story process, and has been trained in the use of Our Story tools and materials.|
+|Deployment|A field-visit with Our Story lasting ~5 days to a single community.|
 |Shoot| A single instance of Our Story being used in a single deployment context. Shoots are managed from the Dashboard.|
 |Story| The resulting video created at the end of the process. Shoots usually produce 4-5 Stories, one from each group and one from the community as a whole.|
 |Participant|A member of the community who is engaged in the Our Story process.|
-|Facilitator|A member of the organisation who is running the Our Story process, and has been trained in the use of Our Story tools and materials.|
 |Volunteer|A member of the community or local organisation who is transiantly assisting the facilitator in the field.|
 |Dashboard|The application (website) used to control various aspects of the digital Our Story process.|
+|Group|A group of participants who are engaged in the process as a team, usually within a demographic (i.e. Elderly).| 
 
 ## Flyouts
 

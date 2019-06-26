@@ -83,21 +83,22 @@ As soon as a device has joined the camera screen and has downloaded the necessar
 
 Each group is now given the opportunity to capture the videos described in the paper plan. Often these groups will travel across their locale, interview other members of their group or members of the community. As much effort as possible should be made to support them in doing these things without controlling their access to potential content.
 
-#### 5 tips for a good quality videos
+::: warning 5 tips for a good quality videos
 
 1. Tap to focus
 2. Make sure your fingers are not on the screen! 
 3. Use lighting to your advantage
 4. Take a variety of shot footage
 5. Review as you go! 
+:::
 
-#### Ensuring good audio quality
-
+::: warning Ensuring good audio quality
 1. Is the microphone plugged in properly? 
 2. Make sure only one person is talking at a time 
 3. If possible, work in quiet areas 
 4. Encourage quiet participants to speak loudly 
-5. Review as you go! 
+5. Review as you go!
+:::
 
 <TimeGuide time="varies depending on content">
 
@@ -127,16 +128,20 @@ Once content is uploaded from a device it is available to all participants to vi
 
 <Materials>
 
-- Connection to Our Story Dashboard (for first use)
+- Connection to Our Story Dashboard
 - Android Tablet
-- Microphone
 - Sheet with Tagged narrative
 
 </Materials>
 
-Before each Capture sessions (or more regularly if it seems nessesary, each group should stop capturing new content and review whats has already been taken. This review 
+Key to building content and production value within the community is making sure they Review (playback) their content and that of other groups. Once uploaded, all content is available to them through the `Tagging` screen in the App.
 
+Each group should be supported in watching what they have captured in relation to the plan they made, following some basic principles:
 
+- Does the video capture what I wanted to say in the plan?
+- If it does, then apply a `Tag` to that video (this tag may be indicate on the planning sheet from the [Ideation](/guide/ideation/) step).
+- Using notions of 'Introduction' and 'Background', help the group identify missing elements of video to tell their story.
+- Add these videos to the group plan, and then resume the `Capture` part of the process.
 
 
 
@@ -168,7 +173,8 @@ This step in the process requires that the tablets have a connection to the Our 
 ::: -->
 
 <!-- ### Tutorial: How to review videos?  -->
-
+::: warning
 1. Click on the ‘Tagged Videos’ screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
 2. To tag a video, just press on the ‘Tick’ button on the bottom right corner of the ‘Tagged Videos’ tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
 3. Just tap on any video to play it. While you are playing the video, you can tag the videos using the tags displayed on the top left area. You can tap to toggle the tags.
+:::

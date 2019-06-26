@@ -4,8 +4,6 @@ sidebar: auto
 sidebarDepth: 1
 ---
 
-<ReadTime />
-
 # Materials
 
 <Leader>
@@ -47,9 +45,9 @@ They can be printed on standard layout printer label sheets for easy use.
 
 <DownloadLink url="//stickers.docx">Stickers Template (Word Doc)</DownloadLink>
 
-## Pocket Manual
+## Pocket Guide
 
-The field guide is a pocket-size booklet designed to be given to facilitators in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activites that need to be performed.
+The field guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activites that need to be performed.
 
 <DownloadLink type="danger" url="//fieldguide.pdf">Field Guide PDF</DownloadLink>
 
