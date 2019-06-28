@@ -19,7 +19,7 @@ The Dashboard is the software that powers your Our Story deployment. There are t
 </Leader>
 
 <el-row :gutter="12">
-<el-col :span="12">
+<el-col :xs="24" :sm="12">
 <el-card class="herocard">
 
 
@@ -30,7 +30,7 @@ The Dashboard is the software that powers your Our Story deployment. There are t
 </el-card>
 </el-col>
 
-<el-col :span="12">
+<el-col :xs="24" :sm="12">
 <el-card class="herocard">
 
 **Online Edition is for using in scenarios where you have distributed participants, or are not co-located and there is adaquate internet connectivity.**

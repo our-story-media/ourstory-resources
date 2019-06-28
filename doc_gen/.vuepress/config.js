@@ -75,7 +75,8 @@ module.exports = {
         '/guide/presentation/',
         '/guide/postproduction/',
         '/guide/tips',
-        '/guide/faq'
+        '/guide/faq',
+        '/guide/pubs/'
       ],
       '/Materials/':[
         '/materials/'

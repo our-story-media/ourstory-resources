@@ -9,7 +9,13 @@ title: How to Use this Guide
 
 <Leader>
 
-This guide is written so that you (a Facilitator) can take the Our Story process and apply it to your context. Watch out for the  following flyouts for more information:
+This guide is written so that you (a Facilitator within your organisation) can take the Our Story process and apply it to your context. We have made a few assumptions about the configuration of your context to make the guide easier to understand:
+
+- We assume that you are part of an organisation/group wanting to capture video from a community with which you have direct access.
+- We assume that you do not have professional video or production experience.
+- We assume that you have a set of themes (criteria) to which you want the community to express their voice.
+
+ Watch out for the following flyouts for more information:
 
 </Leader>
 

@@ -14,15 +14,21 @@ Our Story is an innovative approach to supporting local communities share their 
 
 Our Story uses innovative features within a digitally augmented process to allow non-professionals to support community delivered media. The Our Story process works very much like a 5 day 'film school'. It takes a community through the key stages of making a video to tell their stroy, from ideation to production, allowing them to perform all steps along the way without content intervention by the Facilitator.
 
-<!-- Its features provide participants with different templates for video shots; options to access, view and incorporate videos from other members; and  opportunities to manage/edit videos; add music; and publish from a video timeline with or without internet connectivity.   -->
+<el-divider content-position="left"><i class="el-icon-user"/> Who Are We?</el-divider>
+
+Our Story has been developed through a long-term partnership between Newcastle University (UK), Monash University (Australia) and the International Federation of Red Cross and Red Cresent Societies (Geneva).
+
+The process has been developed itterativly through real deployments in field settings across the world. See our [Publications and Press](/guide/pubs/) section for related reading.
+
+<el-divider content-position="left"><i class="el-icon-trophy"/> Core Values</el-divider>
+
+Our Story was developed within a set of core values and design principles:
+
+- To empower the use of video as a means to support **community voice**.
+- To support **sustainable and practical** use of video with communities in field contexts.
+- To be **Open Source**, and Creative Commons in everything we do so that knowledge is shared.
 
 </Leader>
-
-<!-- Our Story is an innovative approach to supporting local communities share their stories using video. Traditionally,  video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a group/community/organisation can collaboratively shoot, edit and publish videos. -->
-
-<!-- Our Story is a innovative approach which supports local communities to share their stories using a mobile video application. Traditionally, video production has been seen as a highly skilled endeavour and was limited to those with high media literacy. Using Our Story, a community/group/organisation can manage their own storytelling process from beginning to end in one application. -->
-
-
 
 ## Our Story in Practice
 
@@ -82,15 +88,15 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 
 The Our Story process is supported by three parts:
 
-### Workflow and Paper-Based Materials
+### 1. Workflow and Paper-Based Materials
 
 Our Story is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Taggin which can be used or adjusted as required.
 
-### Android Mobile Application
+### 2. Android Mobile Application
 
 The Our Story App enables participants to directly contribute to the film making process. This application is provided on Android devices to the community during the deployment to record, tag and edit videos.
 
-### Management Dashboard
+### 3. Management Dashboard
 
 The Our Story website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved. Our Story acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.
 

@@ -39,9 +39,11 @@ Each group should use their videos (and any others from the community that they 
 
 </Materials>
 
-<AdminRole title="Processing Stories">
+::: warning
+The editor screen auto-saves edits every few minutes. If a group does not want to keep their changes, selecting `Discard` when closing the screen will revert them back to their original Story.
+:::
 
-### Tutorial: Managing Stories
+<AdminRole title="Processing Stories">
 
 On the Shoot Manager, you can configure many details of the shoot and it's contents. You can also download stories and change the user that a story is assigned to. 
 
@@ -49,11 +51,21 @@ On the Shoot Manager, you can configure many details of the shoot and it's conte
 
 ## Selecting Content for the Timeline
 
+//length of video...
+
 ## Adding Titles & Credits
+
+//make sure to get names of everyone involved
 
 ## Adding Music
 
+Music can be 
+
+
+
 ## Community Story
+
+Once each group has made significant progress on their individual stories, each should elect ~2 representitives to come together and 
 
 ## Publishing
 

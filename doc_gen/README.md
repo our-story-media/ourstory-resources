@@ -2,7 +2,7 @@
 title: Our Story
 home: true
 heroText: 
-description: Our Story is an easy to implement participatory video process that supports your organisation in capturing rich, meaninful video stories from communities.
+description: Our Story is an easy to implement participatory video process that empowers community voice to support your organisation in capturing rich, meaninful video stories from communities.
 heroImage: /platform.svg
 # actionText: Get Started →
 actionLink: /introduction/
@@ -13,38 +13,39 @@ actionLink: /introduction/
 #   details: For setting up a deployment
 # - title: Field Guide
 #   details: For support workers, volunteers and field facilitators
-footer: MIT Licensed | Copyright © 2018-present Our Story
+# footer: MIT Licensed | Copyright © 2018-present Our Story
 ---
 
 
 <div style="text-align:center">
 
+<a href="/guide/"><el-button type="danger" style="font-size:150%;margin-bottom:2em;" plain>Find Out More <i class="el-icon-right"></i></el-button></a>
+
 <YouTube id="howitworks" />
-
-
 
 # Case Studies
 
 <el-row :gutter="12">
-<CaseStudy title="Monitoring" date="July 2017" place="Berau, Indonesia" img="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png">
+
+<CaseStudy title="Monitoring" date="July 2017" place="Berau, Indonesia" img="/imgs/indonesia.jpg">
 
 Monitoring an ongoing PMER (Indonesian Red Cross) Water and Sanitation project in rural Kalimentan.
 
 </CaseStudy>
 
-<CaseStudy title="Evaluation" date="June 2018" place="Grootfontein, Namibia" img="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png">
+<CaseStudy title="Evaluation" date="June 2018" place="Grootfontein, Namibia" img="/imgs/namibia.jpg">
 
 Performing an evaluation of a HIV/AIDS programme with Namibian Red Cross.
 
 </CaseStudy>
 
-<CaseStudy title="Baseline" date="August 2018" place="Cario, Egypt" img="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png">
+<CaseStudy title="Baseline" date="August 2018" place="Cario, Egypt" img="/imgs/egypt.jpg">
 
 Capturing a baseline with members of the Deaf Community with regards to educational opportunities.
 
 </CaseStudy>
 
-<CaseStudy title="Community Ideation" date="April 2019" place="Bangladesh" img="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png">
+<CaseStudy title="Community Ideation" date="April 2019" place="Bangladesh" img="/imgs/bagladesh.jpg">
 
 Capturing lived eperience of nutrician and agriculture issues from communities to inform programme planning.
 

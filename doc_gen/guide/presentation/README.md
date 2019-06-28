@@ -31,6 +31,8 @@ Each video should have been presented back to the community in a presentation se
 
 The easiest (and most time efficient) method of playing videos to the community is to connect one of the Android devices to a TV or projector directly, and then play each video directly from the Stories Timeline screen.
 
+<AdminRole title="Present Videos">
+
 The following steps demonstrate this:
 
 1. Make sure the Dashboard is running and available to your device.
@@ -40,6 +42,8 @@ The following steps demonstrate this:
 1. Open the Story you want to present in the Editor on the first Android device.
 1. Press the `Fullscreen` button in the top-right, and then select `Play`.
 1. Repeat for each Story that requires presentation.
+
+</AdminRole>
 
 ## Exporting Videos
 
