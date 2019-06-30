@@ -4,7 +4,7 @@ title: "Step 3: Creation"
 
 <ReadTime />
 
-<Steps step="4"/>
+<Steps :step="3"/>
 
 # Creation
 

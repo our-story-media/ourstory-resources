@@ -1,5 +1,5 @@
 <template lang="pug">
-.citation
+.citation(:if="citation")
     .title {{citation.title}}
     .authors
         span.author(v-for="a in citation.author")
@@ -8,21 +8,38 @@
         strong
             i {{citation.issued["date-parts"][0][0]}}
     a.doi(:href="citation.URL") {{citation.URL}}
+        OutboundLink
 </template>
 
 <script>
-// const Cite = require('citation-js');
 import 'babel-polyfill';
-import Cite from 'citation-js';
+// import Cite from 'citation-js';
 
 export default {
-    computed:{
-        citation: function(){
+    // props:['citation'],
+    data() {
+        return {citation:false}
+    },
+    mounted () {
+        import('citation-js').then(module => {
+            // console.log(module);
             let slot = this.$slots.default;
-            var citation = new Cite(slot[0].children[0].text);
-            return citation.get()[0];
-        }
+            // console.log(module.default);
+            var citation = module.default(slot[0].children[0].text);
+            this.citation = citation.get()[0];
+            // console.log(citation);
+        }).catch((err)=>
+        {
+            console.log(err);
+        })
     }
+    // computed:{
+    //     citation: function(){
+    //         let slot = this.$slots.default;
+    //         var citation = new Cite(slot[0].children[0].text);
+    //         return citation.get()[0];
+    //     }
+    // }
 }
 </script>
 

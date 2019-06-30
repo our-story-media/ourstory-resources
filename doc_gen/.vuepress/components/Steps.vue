@@ -1,5 +1,5 @@
 <template>
-<el-steps  :active=step class="mysteps" align-center>
+<el-steps  :active="step" process-status="finish" class="mysteps" align-center>
     <el-step title="Prep." icon="el-icon-date">
     </el-step>
 

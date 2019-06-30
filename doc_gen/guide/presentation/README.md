@@ -4,7 +4,7 @@ title: "Step 4: Feedback"
 
 <ReadTime />
 
-<Steps step="5"/>
+<Steps :step="4"/>
 
 # Community Feedback
 

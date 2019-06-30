@@ -21,6 +21,8 @@ TODO
 
 ## Research Publications
 
+<ClientOnly>
+
 <Citation>
 
 @inproceedings{Bartindale:2019:OSA:3290605.3300667,
@@ -109,3 +111,5 @@ TODO
 }
 
 </Citation>
+
+</ClientOnly>

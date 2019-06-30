@@ -4,7 +4,7 @@ title: "Using the Content"
 
 <ReadTime />
 
-<Steps step="6"/>
+<Steps :step="5"/>
 
 # Using the Content
 

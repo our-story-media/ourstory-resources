@@ -5,7 +5,7 @@ title: "Step 1: Ideation"
 <ReadTime />
 
 
-<Steps step="2"/>
+<Steps :step="1"/>
 
 # Ideation
 

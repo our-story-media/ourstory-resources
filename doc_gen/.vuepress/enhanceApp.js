@@ -5,6 +5,7 @@
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import './styles/style.css';
+// import Cite from 'citation-js';
 
 // import 'fish-ui/styles/button.less'
 // import FishUI from 'fish-ui'
@@ -18,6 +19,7 @@ export default ({
     // Vue.component('BackToTop', BackToTop);
     // Vue.use(Card);
     Vue.use(ElementUI);
+    // Vue.use(Cite);
     
     Vue.prototype.$ourstory = 'Our Story';
 

@@ -4,7 +4,7 @@ title: "Step 2: Capture/Review"
 
 <ReadTime />
 
-<Steps step="3"/>
+<Steps :step="2"/>
 
 # Capture and Review
 

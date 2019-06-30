@@ -3,7 +3,7 @@ title: "Preparation"
 ---
 <ReadTime />
 
-<Steps step="1"/>
+<Steps :step="0"/>
 
 # Preparation
 
