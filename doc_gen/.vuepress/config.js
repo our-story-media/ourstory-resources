@@ -65,6 +65,7 @@ module.exports = {
       ],
       '/guide/':[
         '/guide/',
+        '/guide/process/',
         '/guide/editions/',
         '/guide/howtouse/',
         '/guide/predeployment/',

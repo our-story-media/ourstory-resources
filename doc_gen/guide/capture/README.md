@@ -34,12 +34,15 @@ Each group should have a set of individual videos which have been tagged.
 
 <Materials>
 
-- Connection to Our Story Dashboard (for first use)
+- Connection to Our Story Dashboard
 - Android Tablet
 
 </Materials>
 
+
 ### Community On-Boarding (once)
+
+<App />
 
 We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example 'interviews' between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
 
@@ -50,6 +53,8 @@ If using Titan Edition, make sure the Dashboard is running and WiFi is running a
 </AdminRole>
 
 ### Group On-Boarding (once)
+
+<App />
 
 This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
 
@@ -71,15 +76,15 @@ As soon as a device has joined the camera screen and has downloaded the necessar
 
 <Materials>
 
-- Connection to Our Story Dashboard (for first use)
+- Connection to Our Story Dashboard
 - Android Tablet
 - Microphone
 - Sheet with Tagged narrative
 
 </Materials>
 
-
-### Recording Video
+<App />
+<Paper />
 
 Each group is now given the opportunity to capture the videos described in the paper plan. Often these groups will travel across their locale, interview other members of their group or members of the community. As much effort as possible should be made to support them in doing these things without controlling their access to potential content.
 
@@ -105,6 +110,9 @@ Each group is now given the opportunity to capture the videos described in the p
 ## Upload
 
 </TimeGuide>
+
+<App />
+<Dashboard />
 
 Videos need to be uploaded from each Android device before they can be Reviewed or Tagged. This process is best performed by the Facilitator during breaks with the community.
 
@@ -133,6 +141,10 @@ Once content is uploaded from a device it is available to all participants to vi
 - Sheet with Tagged narrative
 
 </Materials>
+
+<App />
+<Dashboard />
+<Paper />
 
 Key to building content and production value within the community is making sure they Review (playback) their content and that of other groups. Once uploaded, all content is available to them through the `Tagging` screen in the App.
 

@@ -12,12 +12,8 @@ Our Story and it's precursor Bootlegger have informed a number of academic resea
 
 ## Reports and Blogs
 
-TODO
-
-
-**A Participatory Video Monitoring Process Using "Our Story" in Indonesia and Namibia**
-
-[https://www.ifrc.org/en/publications-and-reports/evaluations/?c=&co=&fy=&mo=&mr=1&or=&r=&ti=a%20participatory%20video%20monitoring&ty=&tyr=&z=](https://www.ifrc.org/en/publications-and-reports/evaluations/?c=&co=&fy=&mo=&mr=1&or=&r=&ti=a%20participatory%20video%20monitoring&ty=&tyr=&z=)
+**A Participatory Video Monitoring Process Using "Our Story" in Indonesia and Namibia** \
+[https://www.ifrc.org/en/publications-and-reports/evaluations/](https://www.ifrc.org/en/publications-and-reports/evaluations/?c=&co=&fy=&mo=&mr=1&or=&r=&ti=a%20participatory%20video%20monitoring&ty=&tyr=&z=)
 
 ## Research Publications
 

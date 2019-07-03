@@ -30,8 +30,6 @@ Each group should have produced a Story within the tablet application which repr
 
 </TimeGuide>
 
-Each group should use their videos (and any others from the community that they feel help tell their narrative) 
-
 <Materials>
 
 - Tagged Flipcharts
@@ -39,29 +37,36 @@ Each group should use their videos (and any others from the community that they 
 
 </Materials>
 
+
+<App />
+<Dashboard />
+<Paper />
+
+Each group should use their videos (and any others from the community that they feel help tell their narrative) 
+
 ::: warning
-The editor screen auto-saves edits every few minutes. If a group does not want to keep their changes, selecting `Discard` when closing the screen will revert them back to their original Story.
+The editor screen auto-saves edits every few minutes allowing groups to stop at any point during the process. If a group does not want to keep their changes, selecting `Discard` when closing the screen will revert them back to their original Story.
 :::
 
-<AdminRole title="Processing Stories">
+## Story Creation Steps
 
-On the Shoot Manager, you can configure many details of the shoot and it's contents. You can also download stories and change the user that a story is assigned to. 
+The story creation process can be facilitated in many ways, however our experience suggests the following steps to be good practice:
 
-</AdminRole>
+### Selecting Content for the Timeline
 
-## Selecting Content for the Timeline
+While advising that the video should fall below a specific length (e.g. 8 minutes), participants select videos that have been tagged and place them on the timeline. Often this will involve referring back to the plan, aggregating `Introduction` and `Background` elements into one place on the timeline and arranging videos to properly construct a narrative.
 
-//length of video...
+One placed on the timeline, videos should be `Trimmed` to the right length that keeps the part of the video that tells the story. Often videos start and end with 'useless' content, such as microphones being setup.
 
-## Adding Titles & Credits
+### Adding Titles & Credits
 
-//make sure to get names of everyone involved
+Next, groups should add `Titles` to introduce the video and sub-sections of content.
 
-## Adding Music
+Make sure that the group also places a `Title` at the end of the timeline which contains all the names of the group (e.g. anyone who participated), not just the people captured in videos.
 
-Music can be 
+### Adding Music
 
-
+Next, groups should decide if they want to underpin their video with music. There is a wide selection of music included in the editor which can be added.
 
 ## Community Story
 
@@ -69,7 +74,10 @@ Once each group has made significant progress on their individual stories, each 
 
 ## Publishing
 
-The ability to 
+<App />
+<Dashboard />
+
+The ability to...
 
 <AdminRole title="Publishing Stories">
 

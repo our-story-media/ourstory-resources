@@ -20,7 +20,11 @@ Each video should have been presented back to the community in a presentation se
 
 :::
 
+<TimeGuide time="~3 hours">
+
 ## Playing Videos
+
+</TimeGuide>
 
 <Materials>
 
@@ -28,6 +32,9 @@ Each video should have been presented back to the community in a presentation se
 - Means of amplifying audio (speakers)
 
 </Materials>
+
+<App />
+<Dashboard />
 
 The easiest (and most time efficient) method of playing videos to the community is to connect one of the Android devices to a TV or projector directly, and then play each video directly from the Stories Timeline screen.
 
@@ -45,13 +52,19 @@ The following steps demonstrate this:
 
 </AdminRole>
 
+<TimeGuide time="1 hour">
+
 ## Exporting Videos
+
+</TimeGuide>
 
 <Materials>
 
 - 2 USB Drives
 
 </Materials>
+
+<Dashboard />
 
 Each of the Stories produced by the community should be left with them before leaving the field.
 

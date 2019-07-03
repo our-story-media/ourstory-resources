@@ -22,24 +22,14 @@ export default {
     },
     mounted () {
         import('citation-js').then(module => {
-            // console.log(module);
             let slot = this.$slots.default;
-            // console.log(module.default);
             var citation = module.default(slot[0].children[0].text);
             this.citation = citation.get()[0];
-            // console.log(citation);
         }).catch((err)=>
         {
             console.log(err);
         })
     }
-    // computed:{
-    //     citation: function(){
-    //         let slot = this.$slots.default;
-    //         var citation = new Cite(slot[0].children[0].text);
-    //         return citation.get()[0];
-    //     }
-    // }
 }
 </script>
 

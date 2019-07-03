@@ -5,6 +5,16 @@
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import './styles/style.css';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { far } from '@fortawesome/free-regular-svg-icons'
+import { FontAwesomeIcon, FontAwesomeLayers } from '@fortawesome/vue-fontawesome'
+
+library.add(fas)
+library.add(far)
+
+
+
 // import Cite from 'citation-js';
 
 // import 'fish-ui/styles/button.less'
@@ -19,6 +29,8 @@ export default ({
     // Vue.component('BackToTop', BackToTop);
     // Vue.use(Card);
     Vue.use(ElementUI);
+    Vue.component('font-awesome-icon', FontAwesomeIcon)
+    Vue.component('font-awesome-layers', FontAwesomeLayers)
     // Vue.use(Cite);
     
     Vue.prototype.$ourstory = 'Our Story';

@@ -13,6 +13,10 @@ Our Story Titan is an installable Windows application which creates a fully oper
 
 </Leader>
 
+<div style="text-align:center">
+<img src="/imgs/titan.svg" style="width:80%;" />
+</div>
+
 ::: tip
 Our Story depends on a technology called Virtualisation on Windows. If you are unsure whether your computer supports the never version (Called HyperV), download the `Toolbox` installer.
 

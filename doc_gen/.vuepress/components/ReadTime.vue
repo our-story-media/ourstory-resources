@@ -8,10 +8,7 @@
 <style>
 .readingtime
 {   
-    /* display:inline-block; */
     text-align: right;
-    margin-bottom:-4em;;
-    /* float:right; */
-    /* clear:both; */
+    margin-bottom:-4em;
 }
 </style>    

@@ -27,82 +27,83 @@ You should have a clear plan for working with the community, have setup and test
 
 As Our Story is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
 
-Offsite Planning: This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
+**Offsite Planning** This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
 
-Onsite Planning: Introduction meetings with the local organisation; community leaders and at times government representatives.
+**Onsite Planning** Introduction meetings with the local organisation; community leaders and at times government representatives.
 
 ## Community Selection
 
-As this is an initiative which requires the presence of community representatives on a daily basis, it is recommended that the agreement of the selected community to the initiative be secured prior to arrival of the team to the field. The target groups you will work with will depend upon your project/programme and the sampling process used to best ensure representation and the feedback needs of your initiative.
+The Our Story process requires the presence of community representatives on a daily basis, it is recommended that the agreement of the selected community be secured prior to arrival of the team to the field. The target groups you will work with will depend upon your project/programme and the sampling process used to best ensure representation and the feedback needs of your initiative.
 
-Therefore in this initiative, you would:
+Therefore you would:
 
-Identify a community that is a recipient of the project/programme using a fair and unbiased approach. 
-Select the target groups which are most relevant for feedback to the project/programme in a fair and unbiased manner. The number of available Android devices (Tablets) in the project/programme may also limit the number/size of groups which can be formed. 
+- Identify a community that is a recipient of the project/programme/ideation using a fair and unbiased approach. 
+- Select the target groups which are most relevant for feedback to the project/programme in a fair and unbiased manner. The number of available Android devices (Tablets) in the project/programme may also limit the number/size of groups which can be formed (as each group will need access to at least one device).
 
 <StepOptions title="Community Selection Method">
 
-> Sampling methods: To limit biais we would recommend that probability sampling methods be used. For the Our Story process, stratified sampling has been frequently used, whereby the facilitator has divided the entire community into specific groups and then individuals have self-selected themselves from the group on a voluntary basis. 
+**Stratified Sampling**
 
-> As it is important for the selected group to be able to work together on 1 Android device (tablet), if the number of self-selected community members is too large, the stratified sampling method can be used with other sampling approaches to reach the objective of the Our Story initiative.
+To limit bias we would recommend that probability sampling methods be used. For the Our Story process, stratified sampling has been frequently used, whereby the facilitator has divided the entire community into specific groups and then individuals have self-selected themselves from the group on a voluntary basis.
 
-> Other types of tools/documents which can help facilitate the selection of the community and/or target groups:
-Vulnerability Capacity Assessment: Community-led assessment which measures people exposure to and capacity to resist natural hazards. It is complementary to national and sub-national risk, hazard, vulnerability and capacity mapping exercises and can be used to identify communities most-at-risk. Go to: http://vcarepository.info/
+As it is important for the selected group to be able to work together on 1 Android device (tablet), if the number of self-selected community members is too large, the stratified sampling method can be used with other sampling approaches to reach the objective of the Our Story initiative.
 
-> Online Sample Calculators: There are numerous type of online sampling calculators which can be used, such as: https://www.surveysystem.com/sscalc.htm or www.raosoft.com/samplesize.html. There are also  excel versions of sample calculators.
+**Tools to Sample**
+
+Other types of tools/documents which can help facilitate the selection of the community and/or target groups:
+
+- Vulnerability Capacity Assessment: Community-led assessment which measures people exposure to and capacity to resist natural hazards. It is complementary to national and sub-national risk, hazard, vulnerability and capacity mapping exercises and can be used to identify communities most-at-risk. Go to: [http://vcarepository.info/](http://vcarepository.info/)
+
+- Online Sample Calculators: There are numerous type of online sampling calculators which can be used, such as: [https://www.surveysystem.com/sscalc.htm](https://www.surveysystem.com/sscalc.htm) or [https://www.raosoft.com/samplesize.html](https://www.raosoft.com/samplesize.html). There are also  excel versions of sample calculators.
 
 </StepOptions>
 
 ## Setup Shoot
 
-Make sure you have followed the [Quick Start](/quickstart/) guide and setup a new shoot.
+<Dashboard />
+
+Make sure you have followed the [Quick Start](/quickstart/) guide and setup the Dashboard and a new Shoot.
 
 ## Prepare Tags
 
-TODO
+<Dashboard />
 
-<StepOptions title="Select Tags">
+A default set of tags that participants apply to their videos come with each shoot in the Our Story dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of genric tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
 
-A default set of tags exist for each shoot in the Our Story dashboard. These are based on the OECD DAC critera, however you may wish to use alternative tags whihc better relate to your outcomes.
+<StepOptions title="Tags">
 
-This setting is available in ``
+You can change these Tags in the `Settings` page of the Dashboard. We recommend that you do not change these terms during a deployment, so as to maintain consistency with participants.
+
+Each Tag has a color, which is used in the field to differentiate tags in multi-lingual contexts, and also is applied to the final video.
+
+Remember to update your [Stickers](/materials/#stickers) with your new Tags and colors. 
 
 </StepOptions>
 
-## Localisation
+## Localisation (Translation)
 
-The Our Story process does not reply on communities communicating in a particular language, however you may wish to translate written materials into a relevant local language or dialect. See the Internationalization guide for more information.
+<Dashboard />
 
-## Ethical considerations  - Do No Harm
+The Our Story process does not reply on communities communicating in a particular language, however you may wish to translate written materials into a relevant local language or dialect. See the [materials](/materials/) page for more information.
 
+## Consent and Ethics
 
+<Paper />
 
-As per the 
+It is of up-most importance that we take our responsibility as facilitators seriously to ensure that communities are aware of their rights around the content they produce.
 
-**How do I consent participants?**
+### How do I Consent Participants?
 
-Click here for a standard consent script that we use when we have done deployments previously. Not that this is a script: you will need to customise this to your preferences in conversation with local NGO partners (if appropriate). You can use this consent script to inform your debrief with the community at the start. It is essential that adults and minors are consented properly, taking into account local laws that legislate this matter. 
+We have provided an [example consent script](/materials/#example-consent-form) used in previous deployments. 
 
+You will need to customise this to your specific context and preferences in conversation with local partners (if appropriate). You can use this consent script to inform your debrief with the community at the start. It is essential that adults and minors are consented properly, taking into account local laws that legislate this matter, and the laws and guidelines of any juristictions you will be storing or sharing the resulting videos within.
 
+Participants need to be informed about how their data will be used, that their participation is voluntary and that they can withdraw at any time without giving reasons.
 
-Participants need to be informed about how their data will be used, that their participation is voluntary and that they can withdraw at any time without giving reasons. 
+### Do I Give Out Devices to the Participants?
 
-**Does Our Story share my details?**
+**Yes!** When used in a co-located context (where you are directly facilitating the participants) we recommend that you assign one tablet/phone to each group e.g. one device each for men, women, youth, elderly etc. 
 
-No, Our Story is provided as is, without warranty and does not share any details with third parties. 
-
-We collect anonymised statistics about the Our Story: Online platform’s use. 
-
-**Do I give out devices to the participants?**
-
-We recommend that you assign one tablet/phone per sub-group within the set of participants you are working with e.g. one device each for men, women, youth, elderly etc. 
-
-The group is encouraged to work together and share access to the tablet to capture and review footage. We recommend that you label each device (using writeable plaster tape) with the name of the group (e.g. men) and on the first day before handing the device to the group to sign-in with the name of the group on the sign-in screen of the app. More instructions on how to join a project and sign-in are provided here. 
+The group is encouraged to work together and share access to the tablet to capture and review footage. We recommend that you label each device (using writeable plaster tape) with the name of the group (e.g. men) and on the first day before handing the device to the group to sign-in with the name of the group on the sign-in screen of the app following the [Onboarding Procedure](/guide/capture/#onboarding).
 
 After the groups have been trained on using basic features of the app, they can be given the device for the Capture, Review and Editing stage. Be aware of where the devices are at all times and be sure to collect the devices at the end of each day to backup the data.
-
-<StepOptions title="Community Consent Process">
-
-**_MIKI to include Sphere standards here (as everybody within Movement can relate to this).. _**
-
-</StepOptions>

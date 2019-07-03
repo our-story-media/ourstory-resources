@@ -20,7 +20,7 @@ Remember that Our Story keeps a high-quality (HD) version of each story for down
 
 ## Tagged Stories
 
-Stories can be exported from the Dashboard with the Tags `burned` onto the video. This is useful for sharing within your organisation and for reporting or monitoring. To change the language that the tags are `burnt` using, visit the `Settings` screen of the Dashboard before Publishing each story.
+Stories can be exported from the Dashboard with the Tags `burned` onto the video. This is useful for sharing within your organisation and for reporting or monitoring. To change the language that the tags are `burnt` using, visit the `Settings` screen of the Dashboard before Publishing each story. Tags can also be enabled or disabled from appearing the final video (i.e. including DAC Criteria, but not `Introduction` and `Background` tags).
 
 ## Translation / Transcription
 
