@@ -27,9 +27,7 @@ Each group in the community you are working with should have a flipchart sheet w
 
 ## Familiarisation
 
-</TimeGuide> 
-
-
+</TimeGuide>
 
 <Materials>
 
@@ -39,7 +37,6 @@ Prompt materials (photos) to help the community contextualise what you are askin
 
 <Paper />
 
-
 Working with the whole community, provide them with prompts about the issues they are talking about (e.g. photos from the project they are providing feedback for). Using the flip-chart paper, a scribe writes down the views of the community.
 
 <StepOptions title="Familiarisation">
@@ -47,6 +44,13 @@ Working with the whole community, provide them with prompts about the issues the
 **Example: Photo Walks**
 
 Start with a set of photos taken of the community before you arrived at various points in the project. Place these up in the space and get the community to walk around them and discuss amongst themselves what was happening around the time the photo was taken. Use these as discussion pointers to draw out a timeline of what has happened over the duration of the project and how it impacted the community.
+
+<figure>
+
+![Example of a photo walk](/imgs/photowalk.jpg)
+
+<figcaption>Example of using Photo Walk technique for Familiarisation</figcaption>
+</figure>
 
 </StepOptions>
 
@@ -64,7 +68,7 @@ It is important to support the community self-selecting these groups, as well as
 
 ## Scoping
 
-DELVIN TODO
+DELVIN TODO - WHY DO WE DO SCOPING, WHATS THE PURPOSE (DIAMOND?)
 
 </TimeGuide>
 
@@ -78,14 +82,15 @@ DELVIN TODO
 
 <Paper />
 
-<StepOptions title="Scoping Excercise">
+<StepOptions title="Scoping Exercise">
 
-**Story-cards**
+**Option: Story-cards**
 
+Each group are given cards which help them think about key questions to answer for the project and then. Cards are selected based on reporting criteria for the project, and values related to the community. Groups write down responses to the cards on flip chart paper.
 
-They are given cards which help them think about key questions to answer for the project and then. They write down the responses to the cards on flipchart paper.
+**Option: Facilitated Discussion**
 
-**Facilitated Discussion**
+Each group is facilitated in discussion about the issues raised in the previous activities and the impact on their own lives. They are encouraged to locate specific examples in their own or the communities lives. These are recording by a scribe for the group.
 
 </StepOptions>
 
@@ -105,20 +110,28 @@ They are given cards which help them think about key questions to answer for the
 
 <Paper />
 
-In each group, based on the flipchart paper from the previous activity, they write down 2 or 3 stories that they want to tell.
+Each group now selects and refines 2-3 stories based on their flip chart paper from the previous activity. As a first step they should write down a narrative account of the story as a group.
 
-We use the following questions to structure this discussion:
+**Go Deeper**
 
+During this activity you can use the following prompts to facilitate going deeper into each story:
 
-* Who: who is the issue about or affecting? 
+* Who: who is the issue about or affecting?
+* What: what is the issue?
+* Where: where is this happening?
+* When: the timeline for this issue.
+* Recommendation: what is your recommendation going forward?
 
-* What: what is the issue? 
+**Apply Tags**
 
-* Where: where is this happening? 
+To maintain continuity for participants between different stages in the process, we encourage use of `Stickers` to tag each element of the story as it is represented on paper. These tags are used later to help capture these elements with video and create a story.
 
-* When: the timeline for this issue.. 
+<figure>
 
-* Recommendation: what is your recommendation going forward? 
+![Example of a photo walk](/imgs/stickers.jpg)
+
+<figcaption>Sheet of Tag stickers used with groups to facilitate their narrative.</figcaption>
+</figure>
 
 <!-- ---- -->
 

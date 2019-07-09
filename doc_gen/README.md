@@ -19,7 +19,8 @@ actionLink: /introduction/
 
 <div style="text-align:center">
 
-<a href="/guide/"><el-button type="danger" style="font-size:150%;margin-bottom:2em;" plain>Find Out More <i class="el-icon-right"></i></el-button></a>
+<a href="/guide/"><el-button type="danger" style="font-size:150%;margin-bottom:1.2em;" plain>Find Out More <i class="el-icon-right"></i></el-button></a>
+<!-- <img src="/imgs/titan.svg" style="width:80%;margin-bottom:2em;" /> -->
 
 <YouTube id="howitworks" />
 
@@ -45,113 +46,19 @@ Capturing a baseline with members of the Deaf Community with regards to educatio
 
 </CaseStudy>
 
-<CaseStudy title="Community Ideation" date="April 2019" place="Bangladesh" img="/imgs/bagladesh.jpg">
+<CaseStudy title="Community Ideation" date="April 2019" place="Bangladesh" img="/imgs/bangladesh.jpg">
 
-Capturing lived eperience of nutrician and agriculture issues from communities to inform programme planning.
+Capturing lived experience of nutrition and agriculture issues from communities to inform programme planning.
+
+</CaseStudy>
+
+<CaseStudy title="Monitoring" date="February 2019" place="Columbia &amp; Honduras" img="/imgs/honduras.jpg">
+
+Monitoring Zika project outcomes in Columbia and Honduras by empowering voice in the local population.
 
 </CaseStudy>
 
 </el-row>
-
-
-<!-- <br><br> -->
-<!-- <el-steps :active="2" align-center>
-  <el-step title="Plan &amp; Capture" description="Define what type, style and content you want the community to contribute. Support them in producing
-high-quality, production
-ready videos."></el-step>
-  <el-step title="Review &amp; Tag" description="Some description"></el-step>
-  <el-step title="Step 3" description="Some description"></el-step>
-</el-steps> -->
-
-<!-- <el-col :span="8">
-<el-card :body-style="{ padding: '0px' }">
-<img src="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png" class="image">
-
-
-</el-card>
-</el-col>
-
-<el-col :span="8">
-<el-card :body-style="{ padding: '0px' }">
-<img src="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png" class="image">
-
-
-</el-card>
-</el-col>
-<el-col :span="8">
-<el-card :body-style="{ padding: '0px' }">
-<img src="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png" class="image">
-
-
-</el-card>
-</el-col> -->
-
-<!-- # The Process
-
-<section class="section">
-<div class="container">
-<div class="columns">
-<div class="column is-two-thirds">
-<h1 class="title">Plan &amp; Capture</h1>
-<h2 class="subtitle">
-Define what type, style and content you want the community to contribute. Support them in producing
-high-quality, production
-ready videos.
-</h2>
-
-<div class="phone">
-<img src="/images/capture.png" />
-<img src="/images/singlephone.svg" />
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="section">
-<div class="container has-text-right">
-<div class="columns">
-<div class="column is-one-third">&nbsp;</div>
-<div class="column is-two-thirds">
-<h1 class="title">Review &amp; Tag</h1>
-<h2 class="subtitle">
-Collaborate and improve content through community review. Tag content for use in your stories.
-</h2>
-
-<div class="phone">
-<img src="/images/tagging.png" />
-<img src="/images/singlephone.svg" />
-</div>
-</div>
-</div>
-
-</div>
-</section>
-
-<section class="section">
-<div class="container">
-<div class="columns">
-<div class="column is-two-thirds">
-<h1 class="title">Build &amp; Share</h1>
-<h2 class="subtitle">
-Build a story using the simple editor. Add titles and music to enhance your production. Share with your
-community.
-</h2>
-
-<div class="phone">
-<img src="/images/editing.png" />
-<img src="/images/singlephone.svg" />
-</div>
-</div>
-</div>
-
-</div>
-</section> -->
-
-<!-- ![](working.png) -->
-
-
-<!-- <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a> -->
 
 </div>
 

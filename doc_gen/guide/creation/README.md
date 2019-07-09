@@ -70,6 +70,8 @@ Next, groups should decide if they want to underpin their video with music. Ther
 
 ## Community Story
 
+TODO
+
 Once each group has made significant progress on their individual stories, each should elect ~2 representitives to come together and 
 
 ## Publishing

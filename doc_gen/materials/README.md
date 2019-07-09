@@ -66,7 +66,7 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you may require shaped dice to help configure the cards with the community.
 
 
-They are availble at a number of online retailers such as:
+They are available at a number of online retailers such as:
 
 [https://www.teaching.com.au/product/TFC10241](https://www.teaching.com.au/product/TFC10241)
 
@@ -116,3 +116,9 @@ _Prices are estimates, other brands and suppliers exist, this is meant only as a
 | 1 | Battery Projector | 412 GBP | [https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as\_at?slotNum=7&linkCode=g14&imprToken=N29..iMjijff7TCKcSbaww&creativeASIN=B01FSPZCDG&tag=dotdash21-21&th=1](https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as_at?slotNum=7&linkCode=g14&imprToken=N29..iMjijff7TCKcSbaww&creativeASIN=B01FSPZCDG&tag=dotdash21-21&th=1) |
 | 1 | Charging Station | 22 GBP | [https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr\_1\_20?s=electronics&ie=UTF8&qid=1530862198&sr=1-20&keywords=anker+charger](https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr_1_20?s=electronics&ie=UTF8&qid=1530862198&sr=1-20&keywords=anker+charger) |
 
+
+## Branding
+
+You are free to use the Our Story branding however you wish.
+
+<DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding">GitHub Folder of Resources</DownloadLink>
