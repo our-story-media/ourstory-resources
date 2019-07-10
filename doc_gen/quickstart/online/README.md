@@ -16,11 +16,12 @@ If you are interested in using this in the field. please [contact us](mailto:inf
 
 <div style="text-align:center">
 
+<img src="/imgs/online.svg" style="width:80%;" />
+
 <a href="//app.ourstory.video">
     <el-button type="danger" style="font-size:150%;margin-top:2em;" plain>
         <i class="el-icon-download"/>
         Login to Dashboard
     </el-button>
 </a>
-<img src="/imgs/online.svg" style="width:80%;" />
 </div>

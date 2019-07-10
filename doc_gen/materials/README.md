@@ -12,7 +12,7 @@ To deploy Our Story in the field, you will require a variety of physical materia
 
 </Leader>
 
-In some circumstances you might want to adjust these using the provided templates, in situations such as:
+Some of these documents are provided as templates so that you can adjust to your own context, or in some circumstances you might want to adjust existing resources, in situations such as:
 
 - Translation of content into a new language
 - Refinement of tags used to match your workflow
@@ -23,17 +23,32 @@ In some circumstances you might want to adjust these using the provided template
 
 The guide is available as a PDF. You can share this in the field.
 
-<DownloadLink type="danger" url="//guide.pdf">Guide PDF</DownloadLink>
+<DownloadLink type="danger" url="//guide.pdf" disabled>Guide PDF</DownloadLink>
 
-<DownloadLink url="//guide.docx">Guide Template (Word Doc)</DownloadLink>
+<!-- <DownloadLink url="//guide.docx" disabled>Guide Template (Word Doc)</DownloadLink> -->
 
-<RedCross example="true">IFRC Official Guide</RedCross>
+<!-- <RedCross example="true" disabled>IFRC Official Guide</RedCross> -->
+
+## Information Pamphlet
+
+This `tri-fold` pamphlet is designed to give an outline of the Our Story process for high-level information only. To be printed on A4 and folded into a booklet.
+
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-en.pdf">Information Pamphlet (en)</a>
+<el-dropdown-menu slot="dropdown">
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-ar.pdf">Information Pamphlet (ar)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-bn.pdf">Information Pamphlet (bn)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-es.pdf">Information Pamphlet (es)</a></el-dropdown-item>
+</el-dropdown-menu>
+</el-dropdown>
+
+
+<DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink>
 
 ## Example Consent Form
 
 Consent forms need to be adjusted to any specific deployment. Never just use these without first adjusting them you both your requirements and your community.
 
-<DownloadLink url="//conssent.docx">Consent Example (Word Doc)</DownloadLink>
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/consent/consent-template.docx" disabled>Consent Example (Word Docx)</DownloadLink>
 
 ## Stickers
 
@@ -41,25 +56,44 @@ Stickers are used to link together paper based activities with digital processes
 
 They can be printed on standard layout printer label sheets for easy use.
 
-<DownloadLink type="danger" url="//stickers.pdf">Stickers PDF</DownloadLink>
+<!-- <DownloadLink type="danger" url="//stickers.pdf">Stickers PDF</DownloadLink> -->
 
-<DownloadLink url="//stickers.docx">Stickers Template (Word Doc)</DownloadLink>
+
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">Stickers Template (Word Docx) (en)</a>
+<el-dropdown-menu slot="dropdown">
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">Stickers Template (Word Docx) (ar)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-bn.docx">Stickers Template (Word Docx) (bn)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Stickers Template (Word Docx) (es)</a></el-dropdown-item>
+</el-dropdown-menu>
+</el-dropdown>
+
+<!-- <DownloadLink url="">Stickers Template (Word Docx)</DownloadLink> -->
 
 ## Pocket Guide
 
-The field guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activites that need to be performed.
+The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
-<DownloadLink type="danger" url="//fieldguide.pdf">Field Guide PDF</DownloadLink>
+<DownloadLink type="danger" url="//fieldguide.pdf" disabled>Field Guide PDF</DownloadLink>
 
-<DownloadLink url="//fieldguide.indd">Field Guide Template (InDesign)</DownloadLink>
+<DownloadLink url="//fieldguide.indd" disabled>Field Guide Template (InDesign)</DownloadLink>
 
 ## Cards
 
 Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you may wish to use the Ideation cards with the community.
 
-<DownloadLink type="danger" url="//cards.pdf">Cards PDF</DownloadLink>
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/cards/cards-en.pdf">Cards (PDF) (en)</a>
+<el-dropdown-menu slot="dropdown">
+<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">Stickers Template (Word Docx) (ar)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-bn.docx">Stickers Template (Word Docx) (bn)</a></el-dropdown-item>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Stickers Template (Word Docx) (es)</a></el-dropdown-item> -->
+</el-dropdown-menu>
+</el-dropdown>
 
-<DownloadLink url="//fieldguide.indd">Cards (InDesign)</DownloadLink>
+<DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink>
+
+<!-- <DownloadLink type="danger" url="//cards.pdf" disabled>Cards PDF</DownloadLink>
+
+<DownloadLink url="//fieldguide.indd" disabled>Cards (InDesign)</DownloadLink> -->
 
 ## Dice
 
@@ -80,7 +114,7 @@ You are welcome to use any equipment that you can source, however we provide thi
 Although the Our Story infrastructure is flexible and can be used in many contexts, you will need a minimum amount of technology to start a deployment.
 :::
 
-### Minimum Equipment Required for Hosted
+### Minimum Equipment Required for Online
 
 * Minimum of 4 Android devices \(either phones or tablets\)
   * Android version &gt; 5.0

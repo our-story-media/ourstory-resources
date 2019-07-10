@@ -22,9 +22,7 @@ Visit the Dashboard (either Online or by starting the Titan Application on your 
 
 ::: tip
 The default access and permissions settings for Online Edition only allow contribution to your shoot using a 4 digit `code`. Take not of this code to give to participants. Contribution in Titan Edition is open to everyone.
-:::
 
-::: tip
 **Take note of the Name or Code for your shoot to share with facilitators or participants. \
 This is the minimum configuration required to deploy Our Story.**
 :::

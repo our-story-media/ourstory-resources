@@ -40,8 +40,6 @@ The easiest (and most time efficient) method of playing videos to the community 
 
 <AdminRole title="Present Videos">
 
-The following steps demonstrate this:
-
 1. Make sure the Dashboard is running and available to your device.
 1. Select one of the Android devices to use for your presentation. Take note of which Group is logged in.
 1. For each Story in the Dashboard that you want to present select the `Clone` option, and then with the clone, select the `Reassign to User` option and reassign to the above group.
@@ -53,6 +51,27 @@ The following steps demonstrate this:
 </AdminRole>
 
 <TimeGuide time="1 hour">
+
+## Publishing
+
+<App />
+<Dashboard />
+
+Before you leave the field it is important to `Publish` each story, allowing you to leave the final version of each with the community. The process of turning individual videos selected by them in the Creation process into a single video file is called `Publishing`.
+
+<AdminRole title="Publishing Stories">
+
+Editing and producing the final story files takes a lot of CPU power and battery (when using Titan), hence we recommend that administrators disable publishing using the Dashboard until all the groups have finished creating their stories to prevent unnecessary resource use. You can re-enable publishing once you are sure that no more groups are working on their videos or you are at the end of the story creation stage for all the groups. This is done via the `Dashboard` option `Enable Publishing`.
+
+Usually by this point you have already copied each final story into a single user account so that you can access them all on one mobile device. IF this is not yet the case, follow the steps above.
+
+Open each story in the App and select `Publish Now`. This will add the story to a queue for processing by the Dashboard.
+
+**WARNING: THIS PROCESS IS VERY TIME CONSUMING AND WILL REQUIRE YOUR LAPTOP TO BE PLUGGED INTO MAINS POWER**
+
+Stories will continue to process without the Android device being available.
+
+</AdminRole>
 
 ## Exporting Videos
 
