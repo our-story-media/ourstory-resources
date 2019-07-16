@@ -77,6 +77,7 @@ module.exports = {
         '/guide/postproduction/',
         '/guide/tips',
         '/guide/faq',
+        '/guide/troubleshooting',
         '/guide/pubs/'
       ],
       '/Materials/':[
