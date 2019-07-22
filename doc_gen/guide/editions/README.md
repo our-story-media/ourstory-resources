@@ -30,7 +30,7 @@ The mobile phones/tablets will be able to connect to this computer and we can de
 
 The *Online* edition of Our Story is best suited for use in situations with limited (but available 3G/Internet).
 
-All you need is a Web browser, head to [app.ourstory.video](https://app.ourstory.video) and start a new shoot. You will get a unique code for your shoot, which you can share with your participants. The participants can then enter the code into the [Our Story](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.ifrc) app on their phone or tablet. You are ready to go! 
+All you need is a Web browser, head to [app.ourstory.dev](https://app.ourstory.dev) and start a new shoot. You will get a unique code for your shoot, which you can share with your participants. The participants can then enter the code into the [Our Story](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.ifrc) app on their phone or tablet. You are ready to go! 
 
 
 

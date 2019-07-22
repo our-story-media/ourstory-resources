@@ -4,7 +4,34 @@ title: Troubleshooting
 
 # Troubleshooting
 
+## Titan Dashboard
+
+### Network Wont Reconnect After Closing Dashboard
+
+Run the `Fix Network` tool installed alongside Our Story Dashboard.
+
 ## Android Application
+
+If you try the following steps and still have trouble connecting to the Our Story Dashboard, try disabling the Windows Firewall. This often can fix these issues, but is not recommended as a first step.
+
+### Errors
+
+**Error 1: No network connection**
+This error signifies that the device does not have a WiFi (or 3G) connection.
+
+**Error 2: Cannot connect to application**
+
+**Error 3: Invalid API Key**
+
+**Error 4: We are having trouble retrieving your information. Login again to continue**
+
+**Error 5: Please try logging in again**
+
+**Error 6: Request cancelled by participant**
+
+**Error 7: Server error**
+
+**Error 8: Unknown Network Error**
 
 ### Connection Screen
 

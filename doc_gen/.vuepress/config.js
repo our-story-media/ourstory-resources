@@ -53,7 +53,7 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Quick Start', link: '/quickstart/' },
       { text: 'Materials', link: '/materials/' },
-      { text: 'Dashboard', link: 'https://app.ourstory.video' }
+      { text: 'Dashboard', link: 'https://app.ourstory.dev' }
     ],
     sidebar: {
       '/quickstart/':[
