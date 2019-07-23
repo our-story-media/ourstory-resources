@@ -29,8 +29,8 @@ Download the following files in this directory onto your machine or USB stick:
 
 > Tip: `Right Click` and then `Save Link As` to download the following files:
 
-- [images.tar](https://s3-eu-west-1.amazonaws.com/bootleggerlive/titan/images.tar)
-- [For Windows 7, 8.1, 10 Home (Toolbox)](https://github.com/our-story-media/ourstory-titan/releases/download/v0.1-beta/OurStoryToolbox.exe) or [For Windows 10 Pro (HyperV)](https://github.com/our-story-media/ourstory-titan/releases/download/v0.1-beta/OurStoryHyperV.exe)
+- [images.tar](http://d2co3wsaqlrb1k.cloudfront.net/images.tar)
+- [For Windows 7, 8.1, 10 Home (Toolbox)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/OurStoryToolbox.exe) or [For Windows 10 Pro (HyperV)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/OurStoryHyperV.exe)
 
 ----
 
@@ -72,6 +72,9 @@ Once this initial step has completed, you are presented with a check. At this po
 
 ![](/imgs/1.png)
 
-The Our Story application will then start. When the status shows as `Running` you can select the `OPEN DASHBOARD` button to configure the Application for deployment.
 
-![](/imgs/2.png)
+The Our Story application will then start. When the light in the top left goes green, the `Dashboard` will appear in the window. You can then configured your shoots.
+
+Buttons down the side of the window provide extra functionality such as backup and opening the folder where the videos are located.
+
+![](imgs/2.png)
