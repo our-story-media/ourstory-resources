@@ -16,4 +16,4 @@ Download from [GitHub Releases](https://github.com/our-story-media/ourstory-desk
 
 ## Windows
 
-Download from [GitHub Releases](https://github.com/our-story-media/ourstory-desktop/releases/latest/download/WindowsOnlineInstaller.exe)
+Run from [ClickOnce](https://raw.githubusercontent.com/our-story-media/ourstory-desktop/master/installs/setup.exe)
