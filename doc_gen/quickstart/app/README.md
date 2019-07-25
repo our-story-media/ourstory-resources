@@ -29,4 +29,5 @@ For Online:
 
 For Titan:
 
-* Install from the Play Story from [Our Story Titan](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.offline).
+* Download and manually install from [GitHub Releases](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.ourstory.offline.apk).
+<!-- * Install from the Play Story from [Our Story Titan](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.offline). -->
