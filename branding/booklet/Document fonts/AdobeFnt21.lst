@@ -1,0 +1,111 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/AdobeFnt20.lst
+FileLength:2107
+FileModTime:578157900
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vrinda-Bold
+FamilyName:Vrinda
+StyleName:Bold
+MenuName:Vrinda
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Vrinda Bold
+WritingScript:Bengali
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/vrindab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:257672
+FileModTime:578157900
+NameArray:0,Mac,4,Vrinda Bold
+NameArray:0,Win,1,Vrinda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/AdobeFnt21.lst
+FileLength:2301
+FileModTime:585793170
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+MenuName:Lato
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lato Regular
+WritingScript:Roman
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:120196
+FileModTime:578157900
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vrinda
+FamilyName:Vrinda
+StyleName:Regular
+MenuName:Vrinda
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Vrinda
+WritingScript:Bengali
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/vrinda.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259520
+FileModTime:578157900
+NameArray:0,Mac,4,Vrinda
+NameArray:0,Win,1,Vrinda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat-Regular
+WritingScript:Roman
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/branding/booklet/Document fonts/Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29016
+FileModTime:578157900
+NameArray:0,Mac,4,Montserrat-Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
