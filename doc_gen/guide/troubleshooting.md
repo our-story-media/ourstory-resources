@@ -6,6 +6,14 @@ title: Troubleshooting
 
 ## Titan Dashboard
 
+### Installation Hangs / Not doing anything
+
+When using the `Toolbox` version of Our Story Titan (which is backed by Docker Toolbox), there are sometimes issues where Docker fails to start. Often the easiest method of getting it going again is to:
+
+- Reboot the machine
+- Changing the network whilst docker is 'hung' often triggers it to continue.
+- Trying to start Our Story Titan for the first time whilst connect to the internet (in theory it does not need to download anything but this sometimes makes it work).
+
 ### Network Wont Reconnect After Closing Dashboard
 
 Run the `Fix Network` tool installed alongside Our Story Dashboard.
