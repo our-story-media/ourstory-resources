@@ -25,7 +25,7 @@ You will be prompted to enable Unknown Sources when installing this application,
 **Option 2. Install it from the Google Play Store**, if your devices have Google accounts already and are connected to the internet:\
 For Online:
 
-* Install from the Play Story from [Our Story](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger).
+* Install from the Play Story from [GitHub Release](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.ourstory.apk).
 
 For Titan:
 

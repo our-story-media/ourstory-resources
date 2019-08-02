@@ -18,6 +18,17 @@ When using the `Toolbox` version of Our Story Titan (which is backed by Docker T
 
 Run the `Fix Network` tool installed alongside Our Story Dashboard.
 
+## Story Publishing
+
+### Videos are not the right Length
+
+Sometimes the device that recorded the original video does not report the length correctly, and this causes issues with the story publishing step. This can be easily rectified by following these steps:
+
+- Clone the story that has the issues
+- Open the story in editor the Android application
+- Press the `Trim` and then `Back` button for each video in the story in turn. (this overrides the reported length)
+- Save the story and publish again
+
 ## Android Application
 
 If you try the following steps and still have trouble connecting to the Our Story Dashboard, try disabling the Windows Firewall. This often can fix these issues, but is not recommended as a first step.
