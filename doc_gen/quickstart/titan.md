@@ -48,7 +48,7 @@ Multiple stories can be edited simultaneously, however processing of each is per
 Only one story is processed \(published\) at a time, so there may be a delay for participants waiting for their story to complete processing.
 
 {% hint style="info" %}
-Our Story consumes lots of battery, particularly when performing story publishing. Keep an eye on your laptop battery and control power consumption where necessary.
+Indaba consumes lots of battery, particularly when performing story publishing. Keep an eye on your laptop battery and control power consumption where necessary.
 
 Stories will continue to process without the Android device being available.
 {% endhint %}

@@ -8,7 +8,7 @@ sidebarDepth: 1
 
 <Leader>
 
-To deploy Our Story in the field, you will require a variety of physical materials. Below are ready-to-download versions which you can print yourself.
+To deploy Indaba in the field, you will require a variety of physical materials. Below are ready-to-download versions which you can print yourself.
 
 </Leader>
 
@@ -31,7 +31,7 @@ The guide is available as a PDF. You can share this in the field.
 
 ## Information Pamphlet
 
-This `tri-fold` pamphlet is designed to give an outline of the Our Story process for high-level information only. To be printed on A4 and folded into a booklet.
+This `tri-fold` pamphlet is designed to give an outline of the Indaba process for high-level information only. To be printed on A4 and folded into a booklet.
 
 <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-en.pdf">Information Pamphlet (en)</a>
 <el-dropdown-menu slot="dropdown">
@@ -113,7 +113,7 @@ They are available at a number of online retailers such as:
 You are welcome to use any equipment that you can source, however we provide this list as a reference of a kit that we have used and know performs well in the field.
 
 ::: tip
-Although the Our Story infrastructure is flexible and can be used in many contexts, you will need a minimum amount of technology to start a deployment.
+Although the Indaba infrastructure is flexible and can be used in many contexts, you will need a minimum amount of technology to start a deployment.
 :::
 
 ### Minimum Equipment Required for Online
@@ -155,6 +155,6 @@ _Prices are estimates, other brands and suppliers exist, this is meant only as a
 
 ## Branding
 
-You are free to use the Our Story branding however you wish.
+You are free to use the Indaba branding however you wish.
 
 <DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding">GitHub Folder of Resources</DownloadLink>

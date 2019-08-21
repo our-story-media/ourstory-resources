@@ -1,19 +1,19 @@
 ---
-title: Our Story
+title: Indaba
 home: true
 heroText: 
-description: Our Story is an easy to implement participatory video process that empowers community voice to support your organisation in capturing rich, meaninful video stories from communities.
+description: Indaba is an easy to implement participatory video process that empowers community voice to support your organisation in capturing rich, meaninful video stories from communities.
 heroImage: /platform.svg
 # actionText: Get Started →
 actionLink: /introduction/
 # features:
 # - title: Material for Training
-#   details: For training in the use of Our Story
+#   details: For training in the use of Indaba
 # - title: Setup & Configuration
 #   details: For setting up a deployment
 # - title: Field Guide
 #   details: For support workers, volunteers and field facilitators
-# footer: MIT Licensed | Copyright © 2018-present Our Story
+# footer: MIT Licensed | Copyright © 2018-present Indaba
 ---
 
 

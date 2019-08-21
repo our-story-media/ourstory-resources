@@ -7,31 +7,31 @@ title: "Pre Deployment"
 
 <Leader>
 
-Our Story consists of some simple preparation and then 4 distinct steps in the field. These steps are described in detail in the following sections. However before you enter a deployment, you might need to consider the following things.
+Indaba consists of some simple preparation and then 4 distinct steps in the field. These steps are described in detail in the following sections. However before you enter a deployment, you might need to consider the following things.
 
 </Leader> 
 
 ## Context
 
-Our Story has been tested  in a number of different locations and for different project/programme initiatives (participatory baseline, monitoring and evaluation), some examples highlighted in the previous section. When using Our Story for a project/programme, consider:
+Indaba has been tested  in a number of different locations and for different project/programme initiatives (participatory baseline, monitoring and evaluation), some examples highlighted in the previous section. When using Indaba for a project/programme, consider:
 
-- At what stage in the programme/project should you use the Our Story process?
+- At what stage in the programme/project should you use the Indaba process?
 - What would be the best method to use (assessment, baseline, monitoring, evaluation etc) to capture this information from the communities?
-- What is the sampling method (chosing who participates) that would be most suitable for your Our Story initiative? This will affect location and community selection.
-- In order to ensure buy in and sustainability of Our Story, who are the stakeholders that should be involved  in the process, at the community, regional, national and global level?  It is recommended that the deployment team be kept small at the field level, in order to respect community space.
+- What is the sampling method (chosing who participates) that would be most suitable for your Indaba initiative? This will affect location and community selection.
+- In order to ensure buy in and sustainability of Indaba, who are the stakeholders that should be involved  in the process, at the community, regional, national and global level?  It is recommended that the deployment team be kept small at the field level, in order to respect community space.
 - How many days will be allocated for your initiative and what are the logistics on the ground which need to be planned?
 
-The Our Story facilitation methods (photowalk, MSC, storycards) can be adapted depending upon what is to be measured in the project/programme and is a participatory approach. Our Story works with the community from beginning to the end of the initiative, as such it is important to have the buy in from the community leader and the community before rolling out the Our Story process in the field.
+The Indaba facilitation methods (photowalk, MSC, storycards) can be adapted depending upon what is to be measured in the project/programme and is a participatory approach. Indaba works with the community from beginning to the end of the initiative, as such it is important to have the buy in from the community leader and the community before rolling out the Indaba process in the field.
 
 ## Equipment
 
 ::: warning Before Entering The Field
-You need to setup and install the Our Story application before entering the field!
+You need to setup and install the Indaba application before entering the field!
 :::
 
-Although the Our Story infrastructure is flexible and can be used in many contexts, you will need a minimum amount of technology and materials to start a deployment.
+Although the Indaba infrastructure is flexible and can be used in many contexts, you will need a minimum amount of technology and materials to start a deployment.
 
-Use the table below to determine which version of Our Story you will need to use and what you need to have as a minimum to run the deployment you need. 
+Use the table below to determine which version of Indaba you will need to use and what you need to have as a minimum to run the deployment you need. 
 
 <table>
 <thead>
@@ -56,8 +56,8 @@ Minimum of 4 Android (version > 5.0) devices for each contributor/contributing g
 </tr>
 <tr>
 <td>App Download</td>
-<td>Our Story app (Play Store)</td>
-<td>Our Story Titan app (Play Store)</td>
+<td>Indaba app (Play Store)</td>
+<td>Indaba Titan app (Play Store)</td>
 </tr>
 <tr>
 <td>Local Infrastructure</td>
@@ -66,7 +66,7 @@ Minimum of 4 Android (version > 5.0) devices for each contributor/contributing g
 
 - laptop/computer with minimum RAM of 2GB and 10GB free disk space
 - WiFi Adaptor to enable computer and Android devices to connect to each other
-- install Our Story titan software on laptop/computer
+- install Indaba titan software on laptop/computer
 
 [More information about configuring this on your laptop can be found here.](/quickstart/titan/)
 

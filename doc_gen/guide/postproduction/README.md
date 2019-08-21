@@ -15,7 +15,7 @@ Community content can be captured for a variety of reasons. Most often the conte
 </Leader>
 
 ::: tip Where Are My Videos?
-Remember that Our Story keeps a high-quality (HD) version of each story for download. From the Dashboard, locate the Story and select the `Download` or `Download (Tags)` option to get the final `.mp4` file.
+Remember that Indaba keeps a high-quality (HD) version of each story for download. From the Dashboard, locate the Story and select the `Download` or `Download (Tags)` option to get the final `.mp4` file.
 :::
 
 ## Tagged Stories
@@ -24,14 +24,14 @@ Stories can be exported from the Dashboard with the Tags `burned` onto the video
 
 ## Translation / Transcription
 
-Our Story does not currently have a built in workflow for transcribing and translating content, however through our extensive use with partners we have developed a set of guiding principles which will help you make the most of your community content:
+Indaba does not currently have a built in workflow for transcribing and translating content, however through our extensive use with partners we have developed a set of guiding principles which will help you make the most of your community content:
 
 - **Only transcribe content that you will distribute:** This sounds simple, but dont waste resources getting content transcribed that will not be shared. Only transcribe the final stories produced by the communities.
 - **Get transcription in the field:** Wherever possible, make sure to build in time with your partners in the field to transcribe content. Use trusted, well educated and informed people where possible, and at least try and leave the field with the transcription in a single language.
 
 ## Branding / Credits
 
-Our Story automatically adds credits for any music used for a Story, however if you want to add additional logos, credits or branding to your videos before releasing them you should use an off-the-shelf vide editor. There are many easy to use editors available for free online and on mobile.
+Indaba automatically adds credits for any music used for a Story, however if you want to add additional logos, credits or branding to your videos before releasing them you should use an off-the-shelf vide editor. There are many easy to use editors available for free online and on mobile.
 
 Examples include:
 
@@ -42,7 +42,7 @@ Examples include:
 
 <!-- Software for adding logos to videos  -->
 
-<!-- Currently Our Story doesn't support the editing of the community published videos. If you want to add organisation logos, we suggest you use one of the many freely available tools (e.g. WIndows Movie Maker) to do this.  -->
+<!-- Currently Indaba doesn't support the editing of the community published videos. If you want to add organisation logos, we suggest you use one of the many freely available tools (e.g. WIndows Movie Maker) to do this.  -->
 
 ## Subtitling (Closed Captions)
 

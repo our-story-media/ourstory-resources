@@ -34,7 +34,7 @@ Each group should have a set of individual videos which have been tagged.
 
 <Materials>
 
-- Connection to Our Story Dashboard
+- Connection to Indaba Dashboard
 - Android Tablet
 
 </Materials>
@@ -59,7 +59,7 @@ If using Titan Edition, make sure the Dashboard is running and WiFi is running a
 This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
 
 1. Make sure each group has an Android device and any additional equipment (microphone etc.).
-1. Connect the device to the WiFi or Internet service and open the Our Story application.
+1. Connect the device to the WiFi or Internet service and open the Indaba application.
 1. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
 1. Get the group to select the shoot you want them to participate in.
 1. Let the group login, select a Theme and open the camera screen.
@@ -76,7 +76,7 @@ As soon as a device has joined the camera screen and has downloaded the necessar
 
 <Materials>
 
-- Connection to Our Story Dashboard
+- Connection to Indaba Dashboard
 - Android Tablet
 - Microphone
 - Sheet with Tagged narrative
@@ -136,7 +136,7 @@ Once content is uploaded from a device it is available to all participants to vi
 
 <Materials>
 
-- Connection to Our Story Dashboard
+- Connection to Indaba Dashboard
 - Android Tablet
 - Sheet with Tagged narrative
 
@@ -163,7 +163,7 @@ Each group should be supported in watching what they have captured in relation t
 
 <!-- ### Tutorial: How to capture videos? 
 
-1. Open the Our Story app
+1. Open the Indaba app
 
 2. Click on the project name to which you want to contribute videos
 
@@ -180,7 +180,7 @@ Each group should be supported in watching what they have captured in relation t
 
 <!-- ::: tip WiFi / 3G Connection Required
 
-This step in the process requires that the tablets have a connection to the Our Story Dashboard. With Titan this means making sure your local WiFi is turned on, and the Our Story Titan application is running.
+This step in the process requires that the tablets have a connection to the Indaba Dashboard. With Titan this means making sure your local WiFi is turned on, and the Indaba Titan application is running.
 
 ::: -->
 

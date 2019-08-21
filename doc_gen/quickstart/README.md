@@ -6,7 +6,7 @@ title: Quick Start
 
 <Leader>
 
-It's highly recommended to read the [Guide](/guide/), but if you are happy with the Our Story process then go ahead and follow the instructions below to get started.
+It's highly recommended to read the [Guide](/guide/), but if you are happy with the Indaba process then go ahead and follow the instructions below to get started.
 
 </Leader>
 
@@ -14,7 +14,7 @@ It's highly recommended to read the [Guide](/guide/), but if you are happy with 
 
 <Leader>
 
-The Dashboard is the software that powers your Our Story deployment. There are two choices when it comes to the Dashboard, find out more by reading [Which Edition is For Me?](/guide/editions)
+The Dashboard is the software that powers your Indaba deployment. There are two choices when it comes to the Dashboard, find out more by reading [Which Edition is For Me?](/guide/editions)
 
 </Leader>
 
@@ -45,7 +45,7 @@ The Dashboard is the software that powers your Our Story deployment. There are t
 
 <Leader>
 
-Every Our Story deployment requires devices with the Android Application installed. It's in the Play Store, and also as a download if you are using Titan.
+Every Indaba deployment requires devices with the Android Application installed. It's in the Play Store, and also as a download if you are using Titan.
 
 </Leader>
 
@@ -55,7 +55,7 @@ Every Our Story deployment requires devices with the Android Application install
 
 <Leader>
 
-Each deployment in Our Story (video activity group of participants) is represented as a `Shoot`. Through a Shoot you mange what should be captured, how to tag the content and Who and when the process can be used. Shoots are managed through the Dashboard.
+Each deployment in Indaba (video activity group of participants) is represented as a `Shoot`. Through a Shoot you mange what should be captured, how to tag the content and Who and when the process can be used. Shoots are managed through the Dashboard.
 
 </Leader>
 

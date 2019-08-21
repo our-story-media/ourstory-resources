@@ -2,7 +2,7 @@
 title: Tips
 ---
 
-# Tips for a successful Our Story field deployment 
+# Tips for a successful Indaba field deployment 
 
 <Leader>
 
@@ -10,13 +10,13 @@ You might be experienced field workers or this might be your first time doing a 
 
 </Leader>
 
-1. **Be organised**: Create a schedule before you arrive so that you know what you are doing on each day and how you will be using your time with community and/or community representatives. As it is a participatory process involving technology, it is important to allow enough time so that the community and/or community representatives can go through the main Our Story phases (ideation, capture, editing and community feedback). As much as possible, keep buffer zones in your timetable in case processes overrun or unforeseen circumstances.  Click here for an example Schedule which you can adapt for your deployment. 
+1. **Be organised**: Create a schedule before you arrive so that you know what you are doing on each day and how you will be using your time with community and/or community representatives. As it is a participatory process involving technology, it is important to allow enough time so that the community and/or community representatives can go through the main Indaba phases (ideation, capture, editing and community feedback). As much as possible, keep buffer zones in your timetable in case processes overrun or unforeseen circumstances.  Click here for an example Schedule which you can adapt for your deployment. 
 
 2. **Teamwork:** Each morning keep your team informed of the daily developments and what each person is expected to do. At the end of the day,, do debriefs with the volunteers and co-facilitators about the day and/or any lessons learned/preparations needed for the team/community for the following day.
 
 3. **Daily review**: At the end of each day, gather the team and  reflect together ont how the day went. What were the challenges? What went well? What can be done differently tomorrow or in future deployments?
 
-4. **Stay safe**: Always stay safe. If you notice or come to know anything suspicious or something that might jeopardize the your team and/or your personal safety, immediately notify your lead facilitator who will be able to take this issue with the appropriate persons. As Our Story is a deployment which requires equipment (e.g. devices, laptops), be mindful of them. 
+4. **Stay safe**: Always stay safe. If you notice or come to know anything suspicious or something that might jeopardize the your team and/or your personal safety, immediately notify your lead facilitator who will be able to take this issue with the appropriate persons. As Indaba is a deployment which requires equipment (e.g. devices, laptops), be mindful of them. 
 
 5. **Backup**: This is crucial. As the adage goes, "better safe than sorry". At the end of each day, backup the following:
 

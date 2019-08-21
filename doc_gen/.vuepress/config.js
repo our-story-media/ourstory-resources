@@ -7,7 +7,7 @@ module.exports = {
     },
     '/es/': {
       lang: 'es',
-      title: 'Spanish Title',
+      // title: 'Spanish Title',
       // description: 'Vue 驱动的静态网站生成器'
     },
     '/ar/': {
@@ -20,7 +20,7 @@ module.exports = {
   title: 'Guide',
   dest: 'docs',
   base: '/',
-  description: 'Our Story Deployment Guide',
+  description: 'Indaba Deployment Guide',
   home: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
@@ -53,7 +53,7 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Quick Start', link: '/quickstart/' },
       { text: 'Materials', link: '/materials/' },
-      { text: 'Dashboard', link: 'https://app.ourstory.dev' }
+      { text: 'Dashboard', link: 'https://app.indaba.dev' }
     ],
     sidebar: {
       '/quickstart/':[

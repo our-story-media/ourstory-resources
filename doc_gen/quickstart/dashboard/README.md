@@ -8,7 +8,7 @@ title: Dashboard
 
 <Leader>
 
-The Dashboard is where you configure all settings, workflows and content with regards to Our Story. Only `Shoot Administrators` have access to the Dashboard, either by using Titan Edition directly on a computer or via a Google login using the Online Edition.
+The Dashboard is where you configure all settings, workflows and content with regards to Indaba. Only `Shoot Administrators` have access to the Dashboard, either by using Titan Edition directly on a computer or via a Google login using the Online Edition.
 
 </Leader>
 
@@ -24,7 +24,7 @@ Visit the Dashboard (either Online or by starting the Titan Application on your 
 The default access and permissions settings for Online Edition only allow contribution to your shoot using a 4 digit `code`. Take not of this code to give to participants. Contribution in Titan Edition is open to everyone.
 
 **Take note of the Name or Code for your shoot to share with facilitators or participants. \
-This is the minimum configuration required to deploy Our Story.**
+This is the minimum configuration required to deploy Indaba.**
 :::
 
 ## Optional Configuration
@@ -37,4 +37,4 @@ Tags are the labels participants use to select and aggregate videos into stories
 
 ### Template
 
-To align better with your deployment context you can adjust the `Template` - the set of suggested shots and decriptions for participatns. There are infinite options for creating these templates, or you can use one of the existing ones in Our Story. We also provide a large archive of shot suggestions to build your own.
+To align better with your deployment context you can adjust the `Template` - the set of suggested shots and decriptions for participatns. There are infinite options for creating these templates, or you can use one of the existing ones in Indaba. We also provide a large archive of shot suggestions to build your own.

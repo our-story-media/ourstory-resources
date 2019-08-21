@@ -10,7 +10,7 @@ title: "Step 4: Feedback"
 
 <Leader>
 
-Key to the Our Story process is presentation of the produced stories back to the wider community. Often this is accompanied with a meal or other communal gathering.
+Key to the Indaba process is presentation of the produced stories back to the wider community. Often this is accompanied with a meal or other communal gathering.
 
 </Leader>
 
@@ -87,7 +87,7 @@ Stories will continue to process without the Android device being available.
 
 Each of the Stories produced by the community should be left with them before leaving the field.
 
-All content produced during the process is stored on the computer running the Our Story Dashboard. To obtain these files, the easiest method is to locate the Story in the Dashboard and select the `Download` option via the options menu.
+All content produced during the process is stored on the computer running the Indaba Dashboard. To obtain these files, the easiest method is to locate the Story in the Dashboard and select the `Download` option via the options menu.
 
 ::: tip
 We recommend that you handover files safely to local community representatives so they can determine the most appropriate way to share the videos with interested parties. We have previously done this by using USB flash drives that we take with us to the field. 

@@ -33,7 +33,7 @@ export default ({
     Vue.component('font-awesome-layers', FontAwesomeLayers)
     // Vue.use(Cite);
     
-    Vue.prototype.$ourstory = 'Our Story';
+    Vue.prototype.$ourstory = 'Indaba';
 
     // Vue.use(FishUI)
     

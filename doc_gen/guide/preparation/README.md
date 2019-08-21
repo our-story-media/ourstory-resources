@@ -9,7 +9,7 @@ title: "Preparation"
 
 <Leader>
 
-Before deploying to a community, you need to consider how the Our Story process will work within the specific context, and work with the community or other organisations to understand the expectations and process goals.
+Before deploying to a community, you need to consider how the Indaba process will work within the specific context, and work with the community or other organisations to understand the expectations and process goals.
 
 </Leader>
 
@@ -25,7 +25,7 @@ You should have a clear plan for working with the community, have setup and test
 
 </TimeGuide>
 
-As Our Story is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
+As Indaba is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
 
 **Offsite Planning** This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
 
@@ -33,7 +33,7 @@ As Our Story is a community-led approach, it is first important to ensure there 
 
 ## Community Selection
 
-The Our Story process requires the presence of community representatives on a daily basis, it is recommended that the agreement of the selected community be secured prior to arrival of the team to the field. The target groups you will work with will depend upon your project/programme and the sampling process used to best ensure representation and the feedback needs of your initiative.
+The Indaba process requires the presence of community representatives on a daily basis, it is recommended that the agreement of the selected community be secured prior to arrival of the team to the field. The target groups you will work with will depend upon your project/programme and the sampling process used to best ensure representation and the feedback needs of your initiative.
 
 Therefore you would:
 
@@ -44,9 +44,9 @@ Therefore you would:
 
 **Stratified Sampling**
 
-To limit bias we would recommend that probability sampling methods be used. For the Our Story process, stratified sampling has been frequently used, whereby the facilitator has divided the entire community into specific groups and then individuals have self-selected themselves from the group on a voluntary basis.
+To limit bias we would recommend that probability sampling methods be used. For the Indaba process, stratified sampling has been frequently used, whereby the facilitator has divided the entire community into specific groups and then individuals have self-selected themselves from the group on a voluntary basis.
 
-As it is important for the selected group to be able to work together on 1 Android device (tablet), if the number of self-selected community members is too large, the stratified sampling method can be used with other sampling approaches to reach the objective of the Our Story initiative.
+As it is important for the selected group to be able to work together on 1 Android device (tablet), if the number of self-selected community members is too large, the stratified sampling method can be used with other sampling approaches to reach the objective of the Indaba initiative.
 
 **Tools to Sample**
 
@@ -68,7 +68,7 @@ Make sure you have followed the [Quick Start](/quickstart/) guide and setup the 
 
 <Dashboard />
 
-A default set of tags that participants apply to their videos come with each shoot in the Our Story dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of genric tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
+A default set of tags that participants apply to their videos come with each shoot in the Indaba dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of genric tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
 
 <StepOptions title="Tags">
 
@@ -84,7 +84,7 @@ Remember to update your [Stickers](/materials/#stickers) with your new Tags and 
 
 <Dashboard />
 
-The Our Story process does not reply on communities communicating in a particular language, however you may wish to translate written materials into a relevant local language or dialect. See the [materials](/materials/) page for more information.
+The Indaba process does not reply on communities communicating in a particular language, however you may wish to translate written materials into a relevant local language or dialect. See the [materials](/materials/) page for more information.
 
 ## Consent and Ethics
 

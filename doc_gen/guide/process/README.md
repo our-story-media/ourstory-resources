@@ -49,16 +49,16 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 
 ## Three Tools
 
-The Our Story process is supported by three parts:
+The Indaba process is supported by three parts:
 
 ### 1. Ideation and Design Activites
 
-Our Story is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Taggin which can be used or adjusted as required.
+Indaba is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Taggin which can be used or adjusted as required.
 
 ### 2. Android Mobile Application
 
-The Our Story App enables participants to directly contribute to the film making process. This application is provided on Android devices to the community during the deployment to record, tag and edit videos.
+The Indaba App enables participants to directly contribute to the film making process. This application is provided on Android devices to the community during the deployment to record, tag and edit videos.
 
 ### 3. Management Dashboard
 
-The Our Story website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved. Our Story acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.
+The Indaba website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved. Indaba acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.

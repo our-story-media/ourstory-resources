@@ -11,9 +11,9 @@ title: "Step 1: Ideation"
 
 <Leader>
 
-The ideation step in the process is designed to introduce the community to the Our Story process, and to support them creating their stories that they will then record onto video later in the process. 
+The ideation step in the process is designed to introduce the community to the Indaba process, and to support them creating their stories that they will then record onto video later in the process. 
 
-The Our Story process includes spaces for group design excercises. You might already have established methods for scaffolding this process bu if not, ours can be easily applied to most contexts.
+The Indaba process includes spaces for group design excercises. You might already have established methods for scaffolding this process bu if not, ours can be easily applied to most contexts.
 
 </Leader>
 
@@ -60,7 +60,7 @@ Start with a set of photos taken of the community before you arrived at various 
 
 </TimeGuide>
 
-Our Story is designed to work within a community which is organised into smaller, representitive groups. This grouping is context and project dependent. In line with the reporting process used across the organisation, we have used gender and age as primary groupings, thus groups may be; men, women, elderly and youth.
+Indaba is designed to work within a community which is organised into smaller, representitive groups. This grouping is context and project dependent. In line with the reporting process used across the organisation, we have used gender and age as primary groupings, thus groups may be; men, women, elderly and youth.
 
 It is important to support the community self-selecting these groups, as well as making clear the time commitment required by participants to engage in the process.
 
@@ -143,7 +143,7 @@ In previous deployments, we have found that using paper materials helps us engag
 
 ## How to use the paper materials? 
 
-Look at the methodology section for an example use of the materials as the Our Story team have previously used them. You are advised to do at least one deployment drawing on this methodology before you create your own process, to ensure that you walk through the process properly once. 
+Look at the methodology section for an example use of the materials as the Indaba team have previously used them. You are advised to do at least one deployment drawing on this methodology before you create your own process, to ensure that you walk through the process properly once. 
 
 ## Story Cards
 

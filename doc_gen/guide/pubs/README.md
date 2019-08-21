@@ -6,7 +6,7 @@ title: Publications and Press
 
 <Leader>
 
-Our Story and it's precursor Bootlegger have informed a number of academic research outputs and organisation reports which report key findings in both the design and application of participatory video.
+Indaba and it's precursor Bootlegger have informed a number of academic research outputs and organisation reports which report key findings in both the design and application of participatory video.
 
 </Leader>
 
