@@ -30,7 +30,7 @@ The mobile phones/tablets will be able to connect to this computer and we can de
 
 The *Online* edition of Indaba is best suited for use in situations with limited (but available 3G/Internet).
 
-All you need is a Web browser, head to [app.ourstory.dev](https://app.ourstory.dev) and start a new shoot. You will get a unique code for your shoot, which you can share with your participants. The participants can then enter the code into the [Indaba](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.ifrc) app on their phone or tablet. You are ready to go! 
+All you need is a Web browser, head to [app.indaba.dev](https://app.indaba.dev) and start a new shoot. You will get a unique code for your shoot, which you can share with your participants. The participants can then enter the code into the [Indaba](https://play.google.com/store/apps/details?id=dev.indaba.app) app on their phone or tablet. You are ready to go! 
 
 
 
