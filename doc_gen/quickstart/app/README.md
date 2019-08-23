@@ -20,9 +20,9 @@ You will be prompted to enable Unknown Sources when installing this application,
 
 For Online:
 
-* Download and manually install from [GitHub Release](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.ourstory.apk).
+* Download and manually install from [GitHub Release](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.indaba.apk).
 
 For Titan:
 
-* Download and manually install from [GitHub Releases](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.ourstory.offline.apk).
+* Download and manually install from [GitHub Releases](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.indaba.offline.apk).
 <!-- * Install from the Play Story from [Indaba Titan](https://play.google.com/store/apps/details?id=uk.ac.ncl.di.bootlegger.offline). -->

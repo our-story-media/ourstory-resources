@@ -30,7 +30,7 @@ Download the following files in this directory onto your machine or USB stick:
 > Tip: `Right Click` and then `Save Link As` to download the following files:
 
 - [images.tar](http://d2co3wsaqlrb1k.cloudfront.net/images.tar)
-- [For Windows 7, 8.1, 10 Home (Toolbox)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/OurStoryToolbox.exe) or [For Windows 10 Pro (HyperV)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/OurStoryHyperV.exe)
+- [For Windows 7, 8.1, 10 Home (Toolbox)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/IndabaToolbox.exe) or [For Windows 10 Pro (HyperV)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/IndabaHyperV.exe)
 
 ----
 
