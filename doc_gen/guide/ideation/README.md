@@ -134,23 +134,3 @@ To maintain continuity for participants between different stages in the process,
 
 <figcaption>Sheet of Tag stickers used with groups to facilitate their narrative.</figcaption>
 </figure>
-
-<!-- ---- -->
-
-<!-- ## Preparing Hands-on materials 
-
-In previous deployments, we have found that using paper materials helps us engage the communities to think about their stories more effectively. This way even before they are using the app to capture their videos, they are thinking about their stories and experiences.
-
-## How to use the paper materials? 
-
-Look at the methodology section for an example use of the materials as the Indaba team have previously used them. You are advised to do at least one deployment drawing on this methodology before you create your own process, to ensure that you walk through the process properly once. 
-
-## Story Cards
-
-These are colour coordinated cards (A7 size) that contain key questions for each sector/theme  that the project organisers want the community to think about as they brainstorm for the video content. We suggest that you keep a maximum limit of  3 or 4 sectors and 5 questions per sector, to prevent the groups from being overwhelmed with questions. 
-
-These sectors will also be used as tags for the videos produced so it is important to use the same wording and colours for the story cards and the video tags for consistency. 
-
-## Labels (Stickers)
-
-(Optional) Additionally, you might find it beneficial to print some stickers that contain the names of the sectors. These can then be used to stick to the flipchart paper that each group is producing.  -->

@@ -23,7 +23,8 @@ module.exports = {
   description: 'Indaba Deployment Guide',
   home: true,
   head: [
-    ['link', { rel: 'icon', href: '/favicon.png' }]
+    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['link', { rel: 'alternate machine-translated-from', hreflang: 'en' , href: 'https://indaba.dev'}]
   ],
   themeConfig: {
     locales:{

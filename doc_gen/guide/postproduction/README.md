@@ -40,10 +40,6 @@ Examples include:
 - Windows Movie Maker (Windows)
 - iMovie (OSX)
 
-<!-- Software for adding logos to videos  -->
-
-<!-- Currently Indaba doesn't support the editing of the community published videos. If you want to add organisation logos, we suggest you use one of the many freely available tools (e.g. WIndows Movie Maker) to do this.  -->
-
 ## Subtitling (Closed Captions)
 
 <Materials>
@@ -61,7 +57,7 @@ There are anumber of options for doing this process depending on your scenario a
 
 We recommend using YouTube Studio (studio.youtube.com) which has a good transcription feature. If your video is in one of the international languages supported by their platform, about 30 mins after uploading your content it will contain a 'good guess' transcription of your video which you can adjust using their online editor.
 
-**Optiopn 2: Subtitle Edit Software**
+**Option 2: Subtitle Edit Software**
 
 If you cannot distribute your content via YouTube, another option is Subtitle Edit, which is a free (open source) editor for video subtitles. 
 

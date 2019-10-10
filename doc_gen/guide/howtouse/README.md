@@ -82,18 +82,6 @@ At various points in the Indaba process, we support the use of various different
 
 <StepOptions title="Bring Your Own Process" />
 
-<!-- ::: warning IFRC Content
-If you are reading this guide and are affiliated with the International Federation of Red Cross and Red Cresent Societies, specific additional content has been developed to support IFRC processes. 
-:::
-
-<RedCross example="true" href="#" /> -->
-
-<!-- ::: warning Example in Context
-We might provide examples of something in action, these are to help explain the process but might not directly relate to your context.
-:::
-
-<Context example="true" /> -->
-
 ::: warning Field Time Advice
 The following item helps guide how long each stage in the process should take, or at least how much time we advise you should leave to give groups appropriate time to complete each task.
 :::

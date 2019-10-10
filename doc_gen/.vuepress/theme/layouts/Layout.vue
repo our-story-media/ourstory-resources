@@ -1,8 +1,6 @@
 <template>
   <Layout>
-    <!-- <footer slot="page-bottom">
-      My page footer
-    </footer> -->
+
   </Layout>
 </template>
 

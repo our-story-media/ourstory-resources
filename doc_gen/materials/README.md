@@ -58,8 +58,6 @@ Stickers are used to link together paper based activities with digital processes
 
 They can be printed on standard layout printer label sheets for easy use.
 
-<!-- <DownloadLink type="danger" url="//stickers.pdf">Stickers PDF</DownloadLink> -->
-
 
 <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">Stickers Template (Word Docx) (en)</a>
 <el-dropdown-menu slot="dropdown">
@@ -68,8 +66,6 @@ They can be printed on standard layout printer label sheets for easy use.
 <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Stickers Template (Word Docx) (es)</a></el-dropdown-item>
 </el-dropdown-menu>
 </el-dropdown>
-
-<!-- <DownloadLink url="">Stickers Template (Word Docx)</DownloadLink> -->
 
 ## Pocket Guide
 
@@ -85,17 +81,10 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/cards/cards-en.pdf">Cards (PDF) (en)</a>
 <el-dropdown-menu slot="dropdown">
-<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">Stickers Template (Word Docx) (ar)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-bn.docx">Stickers Template (Word Docx) (bn)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Stickers Template (Word Docx) (es)</a></el-dropdown-item> -->
 </el-dropdown-menu>
 </el-dropdown>
 
 <DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink>
-
-<!-- <DownloadLink type="danger" url="//cards.pdf" disabled>Cards PDF</DownloadLink>
-
-<DownloadLink url="//fieldguide.indd" disabled>Cards (InDesign)</DownloadLink> -->
 
 ## Dice
 

@@ -1,1 +1,0 @@
-موجه واي فاي بواسطة Creative Stall من الهاتف الذكي Noun Project بواسطة Saeful Muslim من مشروع Noun

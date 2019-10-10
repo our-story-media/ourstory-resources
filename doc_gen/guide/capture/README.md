@@ -155,36 +155,6 @@ Each group should be supported in watching what they have captured in relation t
 - Using notions of 'Introduction' and 'Background', help the group identify missing elements of video to tell their story.
 - Add these videos to the group plan, and then resume the `Capture` part of the process.
 
-
-
-
-
-
-
-<!-- ### Tutorial: How to capture videos? 
-
-1. Open the Indaba app
-
-2. Click on the project name to which you want to contribute videos
-
-3. Click on the ‘Camera’ button on the bottom right corner of the Captured Videos tab (first tab) 
-
-4. Select a theme for your video
-
-5. Select a template that best represents the shot type you want to use 
-
-6. Capture your video by pressing the red record button on the right side. See this article for tips on capturing good quality video.
-
-7. After you finish, you can review the video you just took in the ‘Captured Videos’ tab.  -->
-
-
-<!-- ::: tip WiFi / 3G Connection Required
-
-This step in the process requires that the tablets have a connection to the Indaba Dashboard. With Titan this means making sure your local WiFi is turned on, and the Indaba Titan application is running.
-
-::: -->
-
-<!-- ### Tutorial: How to review videos?  -->
 ::: warning
 1. Click on the ‘Tagged Videos’ screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
 2. To tag a video, just press on the ‘Tick’ button on the bottom right corner of the ‘Tagged Videos’ tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 

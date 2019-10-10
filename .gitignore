@@ -2,3 +2,4 @@
 node_modules
 *.idlk
 google-services.json
+azure-key.env
