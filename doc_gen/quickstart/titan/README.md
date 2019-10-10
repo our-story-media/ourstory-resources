@@ -44,7 +44,7 @@ When opening the installer, please read the introduction text and agree. Then cl
 
 ![](/imgs/3.png)
 
-Depending on your system, Indaba will run additional installations which may pop up their own dialogs. Please do not close any of these.
+Depending on your system, Indaba will run additional installations which may pop up their own dialogues. Please do not close any of these.
 
 ![](/imgs/4.png)
 

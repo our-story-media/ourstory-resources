@@ -32,7 +32,7 @@ Each group should have produced a Story within the tablet application which repr
 
 <Materials>
 
-- Tagged Flipcharts
+- Tagged Flip-charts
 - Android Tablet
 
 </Materials>

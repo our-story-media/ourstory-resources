@@ -50,6 +50,6 @@ A feature comparison might help understand some of the differences:
 | Contributors can upload videos to shoot | ✔ | ✔ |
 | Optimised for Limited Connectivity areas |  ✔ | ✔ |
 | Recommended for Monitoring and Evaluation |  ✔ |  ✔ |
-| Requires Internet (upsteam connection)?  | ✔ |  |
+| Requires Internet (upstream connection)?  | ✔ |  |
 | Optimised for Zero Connectivity areas |  | ✔ |
 | Recommended for Co-located communities | | ✔ |

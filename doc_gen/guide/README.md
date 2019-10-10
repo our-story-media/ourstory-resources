@@ -12,7 +12,7 @@ Indaba is an innovative approach to supporting local communities share their sto
 
 <!-- Indaba is a process to support collaborative film-making by non-professionals. It supports the entire process from commissioning content, helping contributors capture high value content, to creating edits \(stories\) representing their narratives. -->
 
-Indaba uses innovative features within a digitally augmented process to allow non-professionals to support community delivered media. The Indaba process works very much like a 5 day 'film school'. It takes a community through the key stages of making a video to tell their stroy, from ideation to production, allowing them to perform all steps along the way without content intervention by the Facilitator.
+Indaba uses innovative features within a digitally augmented process to allow non-professionals to support community delivered media. The Indaba process works very much like a 5 day 'film school'. It takes a community through the key stages of making a video to tell their story, from ideation to production, allowing them to perform all steps along the way without content intervention by the Facilitator.
 
 <el-divider content-position="left"><i class="el-icon-user"/> Who Are We?</el-divider>
 

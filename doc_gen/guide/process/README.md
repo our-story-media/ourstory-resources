@@ -12,14 +12,14 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 </Leader>
 
 ::: tip
-<i class="el-icon-bottom large" /> The input to the process is flexible, but is at the level of criteria to which the community should be responding with content. Examples include **a monitoring excercise**, **an ideation process** or **an ethnographic study**.
+<i class="el-icon-bottom large" /> The input to the process is flexible, but is at the level of criteria to which the community should be responding with content. Examples include **a monitoring exercise**, **an ideation process** or **an ethnographic study**.
 :::
 
 <el-timeline>
 <el-timeline-item timestamp="Day 1" placement="top">
 
 <h4>Ideation & Planning</h4>
-<p>The community selects representitive groups, working through a set of design tasks to develop structured narrative ideas for videos.</p>
+<p>The community selects representative groups, working through a set of design tasks to develop structured narrative ideas for videos.</p>
 
 </el-timeline-item>
 <el-timeline-item timestamp="Day 2-3" placement="top">
@@ -37,13 +37,13 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 <el-timeline-item timestamp="Day 5" placement="top">
 
 <h4>Community Feedback</h4>
-<p>Each of the videos produced by the groups is played back to the community, and copies of the content are left with community representitives.</p>
+<p>Each of the videos produced by the groups is played back to the community, and copies of the content are left with community representatives.</p>
 
 </el-timeline-item>
 </el-timeline>
 
 ::: tip
-<i class="el-icon-bottom large" /> The output of the process is a set of curated videos from representitive groups within the community. These videos are tagged with labels related to the input criteria.
+<i class="el-icon-bottom large" /> The output of the process is a set of curated videos from representative groups within the community. These videos are tagged with labels related to the input criteria.
 :::
 
 
@@ -53,7 +53,7 @@ The Indaba process is supported by three parts:
 
 ### 1. Ideation and Design Activites
 
-Indaba is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Taggin which can be used or adjusted as required.
+Indaba is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Tagging which can be used or adjusted as required.
 
 ### 2. Android Mobile Application
 

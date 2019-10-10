@@ -25,11 +25,11 @@ You should have a clear plan for working with the community, have setup and test
 
 </TimeGuide>
 
-As Indaba is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating onsite and offsite planning.
+As Indaba is a community-led approach, it is first important to ensure there is buy-in from the community, project/programme stakeholders, country/regional/HQ offices for the initiative before initiating on-site and off-site planning.
 
-**Offsite Planning** This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
+**Off-site Planning** This would consist of all the things the team should plan before arriving on location, equipment (Android devices), facilitation materials, local participating teams for capacity building and sustainability of the approach, volunteers needed, interpreters, transportation needed for the team and for transporting community groups to filming locations (should it be needed), etc.
 
-**Onsite Planning** Introduction meetings with the local organisation; community leaders and at times government representatives.
+**On-site Planning** Introduction meetings with the local organisation; community leaders and at times government representatives.
 
 ## Community Selection
 
@@ -68,7 +68,7 @@ Make sure you have followed the [Quick Start](/quickstart/) guide and setup the 
 
 <Dashboard />
 
-A default set of tags that participants apply to their videos come with each shoot in the Indaba dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of genric tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
+A default set of tags that participants apply to their videos come with each shoot in the Indaba dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of generic tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
 
 <StepOptions title="Tags">
 
@@ -96,7 +96,7 @@ It is of up-most importance that we take our responsibility as facilitators seri
 
 We have provided an [example consent script](/materials/#example-consent-form) used in previous deployments. 
 
-You will need to customise this to your specific context and preferences in conversation with local partners (if appropriate). You can use this consent script to inform your debrief with the community at the start. It is essential that adults and minors are consented properly, taking into account local laws that legislate this matter, and the laws and guidelines of any juristictions you will be storing or sharing the resulting videos within.
+You will need to customise this to your specific context and preferences in conversation with local partners (if appropriate). You can use this consent script to inform your debrief with the community at the start. It is essential that adults and minors are consented properly, taking into account local laws that legislate this matter, and the laws and guidelines of any jurisdictions you will be storing or sharing the resulting videos within.
 
 Participants need to be informed about how their data will be used, that their participation is voluntary and that they can withdraw at any time without giving reasons.
 

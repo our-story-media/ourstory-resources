@@ -13,13 +13,13 @@ title: "Step 1: Ideation"
 
 The ideation step in the process is designed to introduce the community to the Indaba process, and to support them creating their stories that they will then record onto video later in the process. 
 
-The Indaba process includes spaces for group design excercises. You might already have established methods for scaffolding this process bu if not, ours can be easily applied to most contexts.
+The Indaba process includes spaces for group design exercises. You might already have established methods for scaffolding this process but if not, ours can be easily applied to most contexts.
 
 </Leader>
 
 ::: tip Outcome of Step
 
-Each group in the community you are working with should have a flipchart sheet with 2-3 stories they want to tell, tagged in terms of key labels which relate to your aims.
+Each group in the community you are working with should have a flip-chart sheet with 2-3 stories they want to tell, tagged in terms of key labels which relate to your aims.
 
 :::
 
@@ -60,7 +60,7 @@ Start with a set of photos taken of the community before you arrived at various 
 
 </TimeGuide>
 
-Indaba is designed to work within a community which is organised into smaller, representitive groups. This grouping is context and project dependent. In line with the reporting process used across the organisation, we have used gender and age as primary groupings, thus groups may be; men, women, elderly and youth.
+Indaba is designed to work within a community which is organised into smaller, representative groups. This grouping is context and project dependent. In line with the reporting process used across the organisation, we have used gender and age as primary groupings, thus groups may be; men, women, elderly and youth.
 
 It is important to support the community self-selecting these groups, as well as making clear the time commitment required by participants to engage in the process.
 
@@ -70,13 +70,13 @@ It is important to support the community self-selecting these groups, as well as
 
 Scoping is an important part of the process, allowing the community to explore the key elements of their lived experience that would be valuable to share in the context of your deployment. Scoping can be performed in a variety of ways depending on the purpose of the participatory process, however the end result should always be a small set of stories that have the potential as rich narratives.
 
-**In most cases, the output of the scoping exercise is that each group has exhaustively listed any relevant narrative from their own lives represented in some way on flipchart paper.**
+**In most cases, the output of the scoping exercise is that each group has exhaustively listed any relevant narrative from their own lives represented in some way on flip-chart paper.**
 
 </TimeGuide>
 
 <Materials>
 
-- Flipchart Paper
+- Flip-chart Paper
 - Marker Pens
 - Story Cards
 
@@ -104,7 +104,7 @@ Each group is facilitated in discussion about the issues raised in the previous 
 
 <Materials>
 
-- Flipchart
+- Flip-chart
 - Pens
 - Tag Stickers
 

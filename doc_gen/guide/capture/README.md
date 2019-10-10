@@ -122,7 +122,7 @@ It is important to build in time into the process to allow content to upload fro
 
 Uploading should be initiated when each device is connected to the WiFi and the Dashboard is running on the computer. In some cases, uploading a single device at a time may be faster than attempting to sync all simultaneously.
 
-Depending on the participants, this upload process could be built into 'pitstops' during the filming process rather than being left until the end of the session, or it could be performed back at base while the devices are charging overnight.
+Depending on the participants, this upload process could be built into 'pit-stops' during the filming process rather than being left until the end of the session, or it could be performed back at base while the devices are charging overnight.
 
 Once content is uploaded from a device it is available to all participants to view and use in making stories.
 

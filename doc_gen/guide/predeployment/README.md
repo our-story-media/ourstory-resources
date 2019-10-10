@@ -17,7 +17,7 @@ Indaba has been tested  in a number of different locations and for different pro
 
 - At what stage in the programme/project should you use the Indaba process?
 - What would be the best method to use (assessment, baseline, monitoring, evaluation etc) to capture this information from the communities?
-- What is the sampling method (chosing who participates) that would be most suitable for your Indaba initiative? This will affect location and community selection.
+- What is the sampling method (choosing who participates) that would be most suitable for your Indaba initiative? This will affect location and community selection.
 - In order to ensure buy in and sustainability of Indaba, who are the stakeholders that should be involved  in the process, at the community, regional, national and global level?  It is recommended that the deployment team be kept small at the field level, in order to respect community space.
 - How many days will be allocated for your initiative and what are the logistics on the ground which need to be planned?
 
@@ -88,7 +88,7 @@ Minimum of 4 Android (version > 5.0) devices for each contributor/contributing g
 <td colspan="2">
 
 - StoryCards
-- Post-it notes, Flipchart paper roll, Masking and/or duck tape, 
+- Post-it notes, Flip-chart paper roll, Masking and/or duck tape, 
 - Scissors, Marker pens, Ball point pens
 - More information about preparing paper-based materials can be found here
 

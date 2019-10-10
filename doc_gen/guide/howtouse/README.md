@@ -30,7 +30,7 @@ Throughout this guide, the following terminology will be used:
 |Shoot| A single instance of Indaba being used in a single deployment context. Shoots are managed from the Dashboard.|
 |Story| The resulting video created at the end of the process. Shoots usually produce 4-5 Stories, one from each group and one from the community as a whole.|
 |Participant|A member of the community who is engaged in the Indaba process.|
-|Volunteer|A member of the community or local organisation who is transiantly assisting the facilitator in the field.|
+|Volunteer|A member of the community or local organisation who is transiently assisting the facilitator in the field.|
 |Dashboard|The application (website) used to control various aspects of the digital Indaba process.|
 |Group|A group of participants who are engaged in the process as a team, usually within a demographic (i.e. Elderly).| 
 

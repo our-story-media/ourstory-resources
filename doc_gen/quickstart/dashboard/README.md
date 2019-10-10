@@ -37,4 +37,4 @@ Tags are the labels participants use to select and aggregate videos into stories
 
 ### Template
 
-To align better with your deployment context you can adjust the `Template` - the set of suggested shots and decriptions for participatns. There are infinite options for creating these templates, or you can use one of the existing ones in Indaba. We also provide a large archive of shot suggestions to build your own.
+To align better with your deployment context you can adjust the `Template` - the set of suggested shots and descriptions for participants. There are infinite options for creating these templates, or you can use one of the existing ones in Indaba. We also provide a large archive of shot suggestions to build your own.

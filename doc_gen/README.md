@@ -2,7 +2,7 @@
 title: Indaba
 home: true
 heroText: 
-description: Indaba is an easy to implement participatory video process that empowers community voice to support your organisation in capturing rich, meaninful video stories from communities.
+description: Indaba is an easy to implement participatory video process that empowers community voice to support your organisation in capturing rich, meaningful video stories from communities.
 heroImage: /platform.svg
 # actionText: Get Started →
 actionLink: /introduction/
