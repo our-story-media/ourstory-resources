@@ -25,6 +25,9 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
+  markdown:{
+    anchor: { permalink: false, permalinkBefore: true, permalinkSymbol: '%' }
+  },
   themeConfig: {
     locales:{
       '/':{
@@ -43,7 +46,7 @@ module.exports = {
     
     displayAllHeaders: false,
     lastUpdated: 'Updated',
-    repo: 'our-story-media/ourstory-guide',
+    repo: 'our-story-media/ourstory-resources',
     docsDir: 'docs',
     editLinks: false,
     editLinkText: 'Edit in GitHub',
@@ -114,12 +117,6 @@ module.exports = {
     'reading-progress',
     'reading-time',
     'element-tabs',
-    'export',
-    'flowchart'
+    'export'
     ]
 }
-
-// [(pluginOptions, context) => ({
-//   // name: 'read-time',
-//   globalUIComponents: 'ReadTime'
-// })]

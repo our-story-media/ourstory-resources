@@ -20,12 +20,14 @@ Visit the Dashboard (either Online or by starting the Titan Application on your 
 2. The default settings should be OK for most deployments, but please check before entering the field.
 3. Upload context appropriate images for each `Theme` in the `Template` screen.
 
-::: tip
+<Tip>
+
 The default access and permissions settings for Online Edition only allow contribution to your shoot using a 4 digit `code`. Take not of this code to give to participants. Contribution in Titan Edition is open to everyone.
 
 **Take note of the Name or Code for your shoot to share with facilitators or participants. \
 This is the minimum configuration required to deploy Indaba.**
-:::
+
+</Tip>
 
 ## Optional Configuration
 

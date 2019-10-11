@@ -18,11 +18,11 @@ The creation step draws out rich narratives from the video captured by each grou
 
 </Leader>
 
-::: tip Outcome of Step
+<Tip title="Outcome of Step">
 
 Each group should have produced a Story within the tablet application which represents their narrative. A community video should also have been created by representatives from each group.
 
-:::
+</Tip>
 
 <TimeGuide time="3-4 hours">
 
@@ -72,6 +72,8 @@ Next, groups should decide if they want to underpin their video with music. Ther
 
 Once each group has made significant progress on their individual stories, each should elect ~2 representatives to come together and produce another story which represents the communities overall narrative. This can contain elements of individual group stories, or can be composed of videos already captured but not yet used. Any use tablet can be used to create this content.
 
-::: tip
+<Tip>
+
 At the end of this process it is enough to have all `Stories` saved (not published), as the stories are in a state that can be presented back to the wider community during the next step.
-:::
+
+</Tip>

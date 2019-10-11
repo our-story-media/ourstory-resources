@@ -11,9 +11,11 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 
 </Leader>
 
-::: tip
+<Tip>
+
 <i class="el-icon-bottom large" /> The input to the process is flexible, but is at the level of criteria to which the community should be responding with content. Examples include **a monitoring exercise**, **an ideation process** or **an ethnographic study**.
-:::
+
+</Tip>
 
 <el-timeline>
 <el-timeline-item timestamp="Day 1" placement="top">
@@ -42,9 +44,11 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 </el-timeline-item>
 </el-timeline>
 
-::: tip
+<Tip>
+
 <i class="el-icon-bottom large" /> The output of the process is a set of curated videos from representative groups within the community. These videos are tagged with labels related to the input criteria.
-:::
+
+</Tip>
 
 
 ## Three Tools

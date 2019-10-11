@@ -13,11 +13,11 @@ Before deploying to a community, you need to consider how the Indaba process wil
 
 </Leader>
 
-::: tip Outcome of Step
+<Tip title="Outcome of Step">
 
 You should have a clear plan for working with the community, have setup and tested your deployment technology, identified how to group the target community and prepared 
 
-:::
+</Tip>
 
 <TimeGuide time="Up to 6 months prior">
 

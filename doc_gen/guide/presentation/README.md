@@ -14,11 +14,11 @@ Key to the Indaba process is presentation of the produced stories back to the wi
 
 </Leader>
 
-::: tip Outcome of Step
+<Tip title="Outcome of Step">
 
 Each video should have been presented back to the community in a presentation setting. Final versions of each video should be available to leave with the community on a USB stick or drive.
 
-:::
+</Tip>
 
 <TimeGuide time="~3 hours">
 
@@ -89,6 +89,8 @@ Each of the Stories produced by the community should be left with them before le
 
 All content produced during the process is stored on the computer running the Indaba Dashboard. To obtain these files, the easiest method is to locate the Story in the Dashboard and select the `Download` option via the options menu.
 
-::: tip
+<Tip>
+
 We recommend that you handover files safely to local community representatives so they can determine the most appropriate way to share the videos with interested parties. We have previously done this by using USB flash drives that we take with us to the field. 
-:::
+
+</Tip>

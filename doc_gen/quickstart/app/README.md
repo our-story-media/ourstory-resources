@@ -14,9 +14,11 @@ There are two options to install the App on your devices.
 
 </Leader>
 
-::: tip
+<Tip>
+
 You will be prompted to enable Unknown Sources when installing this application, this is normal for applications not from the Google Play Store and is OK to accept in this instance.
-:::
+
+</Tip>
 
 For Online:
 
