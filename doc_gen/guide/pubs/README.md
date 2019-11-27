@@ -13,13 +13,13 @@ Indaba and it's precursors Our Story and Bootlegger have informed a number of ac
 ## Reports and Blogs
 
 **Participatory Video Baseline Report for the School Children Training Programme “Health and Safety”** \
-http://adore.ifrc.org/Download.aspx?FileId=228136&.pdf
+[http://adore.ifrc.org/Download.aspx?FileId=228136&.pdf](http://adore.ifrc.org/Download.aspx?FileId=228136&.pdf)
 
 **Participatory Video Evaluation Report: Community Action on Zika Project in Honduras and Colombia** \
-http://adore.ifrc.org/Download.aspx?FileId=255283&.pdf
+[http://adore.ifrc.org/Download.aspx?FileId=255283&.pdf](http://adore.ifrc.org/Download.aspx?FileId=255283&.pdf)
 
 **A Participatory Video Monitoring Process Using "Our Story" in Indonesia and Namibia** \
-http://adore.ifrc.org/Download.aspx?FileId=240861&.pdf
+[http://adore.ifrc.org/Download.aspx?FileId=240861&.pdf](http://adore.ifrc.org/Download.aspx?FileId=240861&.pdf)
 
 ## Research Publications
 
