@@ -17,7 +17,7 @@ actionLink: /introduction/
 ---
 
 
-<div style="text-align:center">
+<div style="text-align:center;margin-bottom:4em;">
 
 <a href="/guide/"><el-button type="danger" style="font-size:150%;margin-bottom:1.2em;" plain>Find Out More <i class="el-icon-right"></i></el-button></a>
 <!-- <img src="/imgs/titan.svg" style="width:80%;margin-bottom:2em;" /> -->
@@ -61,4 +61,3 @@ Monitoring Zika project outcomes in Columbia and Honduras by empowering voice in
 </el-row>
 
 </div>
-

@@ -18,34 +18,28 @@ Some of these documents are provided as templates so that you can adjust to your
 
 </Leader>
 
-## This Guide
+## Training Manual
 
-The guide is available as a PDF. You can share this in the field.
+International Federation of Red Cross and Red Crescent have developed a training manual specifically aimed at monitoring and evaluation exercises within their global network. The online guide (what you are reading) is more generic, however the IFRC manual outlines a concrete M&E process.
 
-<!-- <DownloadLink type="danger" url="//guide.pdf" disabled>Guide PDF</DownloadLink> -->
-
-COMING SOON
-
-<!-- <DownloadLink url="//guide.docx" disabled>Guide Template (Word Doc)</DownloadLink> -->
-
-<!-- <RedCross example="true" disabled>IFRC Official Guide</RedCross> -->
+<RedCross example="false" href="/field-materials/manual/ifrc-manual.pdf">IFRC Training Manual</RedCross>
 
 ## Information Pamphlet
 
-This `tri-fold` pamphlet is designed to give an outline of the Indaba process for high-level information only. To be printed on A4 and folded into a booklet.
+This pamphlet is designed to give an outline of the Indaba process for high-level information only. To be printed on A4 and folded into a [tri-fold (1)](https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg) booklet.
 
-<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-en.pdf">Information Pamphlet (en)</a>
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (PDF) (en)</a>
 <el-dropdown-menu slot="dropdown">
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-ar.pdf">Information Pamphlet (ar)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-fr.pdf">Information Pamphlet (fr)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/branding/booklet/brochure-es.pdf">Information Pamphlet (es)</a></el-dropdown-item>
+<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (ar)</a></el-dropdown-item> -->
+<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-fr.pdf">Information Pamphlet (fr)</a></el-dropdown-item> -->
+<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-es.pdf">Information Pamphlet (es)</a></el-dropdown-item> -->
 </el-dropdown-menu>
-</el-dropdown> -->
+</el-dropdown>
 
 
 <!-- <DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink> -->
 
-COMING SOON
+<!-- COMING SOON -->
 
 ## Example Consent Form
 
@@ -107,10 +101,7 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 </el-dropdown-menu>
 </el-dropdown>
 
-To adjust the cards or add your own, use the InDesign files:
-
-
-<DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/">InDesign Files</DownloadLink>
+To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/)
 
 <!-- <DownloadLink type="danger" url="//cards.pdf" disabled>Cards PDF</DownloadLink>
 
@@ -176,6 +167,4 @@ _Prices are estimates, other brands and suppliers exist, this is meant only as a
 
 ## Branding
 
-You are free to use the Indaba branding however you wish.
-
-<DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding">GitHub Folder of Resources</DownloadLink>
+You are free to use the Indaba branding however you wish, download it from the [GitHub Folder of Resources](https://github.com/our-story-media/ourstory-resources/tree/master/branding)
