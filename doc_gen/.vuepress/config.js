@@ -115,8 +115,6 @@ module.exports = {
     '@vuepress/plugin-nprogress',
     '@vuepress/plugin-back-to-top',
     'reading-progress',
-    'reading-time',
-    'element-tabs',
-    'export'
+    'reading-time'
     ]
 }

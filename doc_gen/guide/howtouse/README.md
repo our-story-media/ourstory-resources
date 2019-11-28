@@ -7,6 +7,8 @@ title: How to Use this Guide
 
 # How to Use this Guide
 
+<ClientOnly>
+
 <Leader>
 
 This guide is written so that you (a Facilitator within your organisation) can take the Indaba process and apply it to your context. We have made a few assumptions about the configuration of your context to make the guide easier to understand:
@@ -18,6 +20,8 @@ This guide is written so that you (a Facilitator within your organisation) can t
  Watch out for the following flyouts for more information:
 
 </Leader>
+
+</ClientOnly>
 
 ## Terminology
 

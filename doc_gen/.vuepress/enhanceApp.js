@@ -9,8 +9,6 @@ import { FontAwesomeIcon, FontAwesomeLayers } from '@fortawesome/vue-fontawesome
 library.add(fas)
 library.add(far)
 
-
-
 // import Cite from 'citation-js';
 
 // import 'fish-ui/styles/button.less'
@@ -27,11 +25,8 @@ export default ({
     Vue.use(ElementUI);
     Vue.component('font-awesome-icon', FontAwesomeIcon)
     Vue.component('font-awesome-layers', FontAwesomeLayers)
-    // Vue.use(Cite);
     
     Vue.prototype.$ourstory = 'Indaba';
-
-    // Vue.use(FishUI)
     
     // Vue.component('ReadTime', ReadTime)
     // ...apply enhancements to the app

@@ -22,7 +22,7 @@ Some of these documents are provided as templates so that you can adjust to your
 
 International Federation of Red Cross and Red Crescent have developed a training manual specifically aimed at monitoring and evaluation exercises within their global network. The online guide (what you are reading) is more generic, however the IFRC manual outlines a concrete M&E process.
 
-<RedCross example="false" href="/field-materials/manual/ifrc-manual.pdf">IFRC Training Manual</RedCross>
+<RedCross example="false" href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual.pdf">IFRC Training Manual (PDF) (en)</RedCross>
 
 ## Information Pamphlet
 

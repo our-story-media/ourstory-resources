@@ -4,7 +4,7 @@
     .authors
         span.author(v-for="a in citation.author")
             span.name {{a.given}} {{a.family}}
-    .venue {{citation["container-title"]}} 
+    .venue {{citation["container-title"]}}
         strong
             i {{citation.issued["date-parts"][0][0]}}
     a.doi(:href="citation.URL") {{citation.URL}}
@@ -13,10 +13,8 @@
 
 <script>
 import 'babel-polyfill';
-// import Cite from 'citation-js';
 
 export default {
-    // props:['citation'],
     data() {
         return {citation:false}
     },
@@ -37,7 +35,7 @@ export default {
 
 .citation
 {
-    margin-top:2em;
+    margin-top:2em; 
     margin-bottom:2em;
 }
 
