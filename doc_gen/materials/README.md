@@ -20,7 +20,7 @@ Some of these documents are provided as templates so that you can adjust to your
 
 ## Training Manual
 
-International Federation of Red Cross and Red Crescent have developed a training manual specifically aimed at monitoring and evaluation exercises within their global network. The online guide (what you are reading) is more generic, however the IFRC manual outlines a concrete M&E process.
+The International Federation of Red Cross and Red Crescent Societies have developed the following training manual which explains the Indaba process, the various contexts where it has been carried out, its different phases, and the tools and resources needed to run an Indaba participatory video initiative for monitoring and evaluation and/or other contexts.
 
 <RedCross example="false" href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual.pdf">IFRC Training Manual (PDF) (en)</RedCross>
 
