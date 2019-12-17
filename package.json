@@ -23,6 +23,7 @@
   "homepage": "https://github.com/our-story-media/ourstory-guide#readme",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "eagle.js": "^0.6.1",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "vuepress": "1.2.0",

@@ -20,7 +20,10 @@ actionLink: /introduction/
 <div style="text-align:center;margin-bottom:4em;">
 
 <a href="/guide/"><el-button type="danger" style="font-size:150%;margin-bottom:1.2em;" plain>Find Out More <i class="el-icon-right"></i></el-button></a>
-<!-- <img src="/imgs/titan.svg" style="width:80%;margin-bottom:2em;" /> -->
+
+<div class="google-slides-container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyOXiUQkQxnjCEUKnHgFpYrKYhFAlA1i2wLVlmoofpBbOqEyg2HZNLbQXA-tx8b5ZGSbiS1n2lmRSP/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 <YouTube id="sLGnJQlsZSE" />
 

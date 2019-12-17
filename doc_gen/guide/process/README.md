@@ -55,14 +55,20 @@ The {{$ourstory}} process consists of a set of activities that you can deploy ov
 
 The Indaba process is supported by three parts:
 
-### 1. Ideation and Design Activites
+### 1. Ideation and Design Activities
 
 Indaba is responsive and configurable to your specific community context. We provide key paper-based materials to help facilitate key processes such as Ideation and Tagging which can be used or adjusted as required.
+
+![](/imgs/photowalk.jpg)
 
 ### 2. Android Mobile Application
 
 The Indaba App enables participants to directly contribute to the film making process. This application is provided on Android devices to the community during the deployment to record, tag and edit videos.
 
+![](/imgs/honduras.jpg)
+
 ### 3. Management Dashboard
 
 The Indaba website lets you organise and plan a film shoot. Easy to use settings allow you to tailor it to your needs, and then get participants involved. Indaba acts like your personal director. You can control what shots, how many, location and subject. This flexible structure supports any kind of shoot scenario.
+
+![](/imgs/dashboard.png)

@@ -71,7 +71,7 @@ They can be printed on standard layout printer label sheets for easy use.
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
-COMING SOON
+COMING EARLY 2020
 
 <!-- <DownloadLink type="danger" url="//fieldguide.pdf" disabled>Field Guide PDF</DownloadLink>
 
@@ -83,23 +83,25 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 *To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** to achieve the correct back-to-front results.*
 
-<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-en.pdf">A4 Print Cards (PDF) (en)</a>
-<el-dropdown-menu slot="dropdown">
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-ar.pdf">A4 Print Cards (PDF) (ar)</a></el-dropdown-item>
+COMING EARLY 2020
+
+<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-en.pdf">A4 Print Cards (PDF) (en)</a> -->
+<!-- <el-dropdown-menu slot="dropdown"> -->
+<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-ar.pdf">A4 Print Cards (PDF) (ar)</a></el-dropdown-item>
 <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-fr.pdf">A4 Print Cards (PDF) (fr)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-es.pdf">A4 Print Cards (PDF) (es)</a></el-dropdown-item>
-</el-dropdown-menu>
-</el-dropdown>
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-es.pdf">A4 Print Cards (PDF) (es)</a></el-dropdown-item> -->
+<!-- </el-dropdown-menu> -->
+<!-- </el-dropdown> -->
 
 *To send to a printer to get professionally printed playing cards, use the following:*
 
-<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-en.pdf">Print Marks Cards (PDF) (en)</a>
+<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-en.pdf">Print Marks Cards (PDF) (en)</a>
 <el-dropdown-menu slot="dropdown">
 <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-ar.pdf">Print Marks Cards (PDF) (ar)</a></el-dropdown-item>
 <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-fr.pdf">Print Marks Cards (PDF) (fr)</a></el-dropdown-item>
 <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-es.pdf">Print Marks Cards (PDF) (es)</a></el-dropdown-item>
 </el-dropdown-menu>
-</el-dropdown>
+</el-dropdown> -->
 
 To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/)
 
