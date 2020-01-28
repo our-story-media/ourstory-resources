@@ -71,7 +71,9 @@ They can be printed on standard layout printer label sheets for easy use.
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
-COMING EARLY 2020
+<!-- COMING EARLY 2020 -->
+
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/field-guide-en-web.pdf">Field Guide (PDF) (en)</DownloadLink>
 
 <!-- <DownloadLink type="danger" url="//fieldguide.pdf" disabled>Field Guide PDF</DownloadLink>
 
@@ -81,9 +83,11 @@ COMING EARLY 2020
 
 Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you may wish to use the Ideation cards with the community.
 
-*To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** to achieve the correct back-to-front results.*
+*To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** and **multipage** to achieve the correct back-to-front results.*
 
-COMING EARLY 2020
+WE WILL ADD TRANSLATIONS AS THEY BECOME AVAILABLE, ALONG WITH PRINT-FRIENDLY FILES FOR FIELD DEPLOYMENT.
+
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-original-en.pdf">Story Cards (PDF) (en)</DownloadLink>
 
 <!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-en.pdf">A4 Print Cards (PDF) (en)</a> -->
 <!-- <el-dropdown-menu slot="dropdown"> -->
@@ -93,7 +97,7 @@ COMING EARLY 2020
 <!-- </el-dropdown-menu> -->
 <!-- </el-dropdown> -->
 
-*To send to a printer to get professionally printed playing cards, use the following:*
+<!-- *To send to a printer to get professionally printed playing cards, use the following:* -->
 
 <!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-en.pdf">Print Marks Cards (PDF) (en)</a>
 <el-dropdown-menu slot="dropdown">
@@ -103,7 +107,7 @@ COMING EARLY 2020
 </el-dropdown-menu>
 </el-dropdown> -->
 
-To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/)
+<!-- To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/) -->
 
 <!-- <DownloadLink type="danger" url="//cards.pdf" disabled>Cards PDF</DownloadLink>
 
@@ -112,7 +116,6 @@ To adjust the cards or add your own, use the [InDesign Files](https://github.com
 ## Dice
 
 Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you may require shaped dice to help configure the cards with the community.
-
 
 They are available at a number of online retailers such as:
 
