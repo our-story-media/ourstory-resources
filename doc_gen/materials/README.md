@@ -28,13 +28,19 @@ The International Federation of Red Cross and Red Crescent Societies have develo
 
 This pamphlet is designed to give an outline of the Indaba process for high-level information only. To be printed on A4 and folded into a [tri-fold (1)](https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg) booklet.
 
-<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (PDF) (en)</a>
-<el-dropdown-menu slot="dropdown">
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Tri-fold (PDF) (en)</DownloadLink>
+
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/">Tri-fold (Professional Print Files)</DownloadLink>
+
+*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+
+<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (PDF) (en)</a> -->
+<!-- <el-dropdown-menu slot="dropdown"> -->
 <!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (ar)</a></el-dropdown-item> -->
 <!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-fr.pdf">Information Pamphlet (fr)</a></el-dropdown-item> -->
 <!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-es.pdf">Information Pamphlet (es)</a></el-dropdown-item> -->
-</el-dropdown-menu>
-</el-dropdown>
+<!-- </el-dropdown-menu> -->
+<!-- </el-dropdown> -->
 
 
 <!-- <DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink> -->
@@ -71,13 +77,12 @@ They can be printed on standard layout printer label sheets for easy use.
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
-<!-- COMING EARLY 2020 -->
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/field-guide-en-web.pdf">Field Guide (PDF) (en)</DownloadLink>
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/field-guide-selfprint-en.pdf">Pocket Guide (PDF) (en)</DownloadLink>
 
-<!-- <DownloadLink type="danger" url="//fieldguide.pdf" disabled>Field Guide PDF</DownloadLink>
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/">Pocket Guide (Professional Print Files)</DownloadLink>
 
-<DownloadLink url="//fieldguide.indd" disabled>Field Guide Template (InDesign)</DownloadLink> -->
+*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
 
 ## Story Cards
 
@@ -85,17 +90,12 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 *To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** and **multipage** to achieve the correct back-to-front results.*
 
-WE WILL ADD TRANSLATIONS AS THEY BECOME AVAILABLE, ALONG WITH PRINT-FRIENDLY FILES FOR FIELD DEPLOYMENT.
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (en)</DownloadLink>
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-original-en.pdf">Story Cards (PDF) (en)</DownloadLink>
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional">Story Cards (Professional Print Files)</DownloadLink>
 
-<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-en.pdf">A4 Print Cards (PDF) (en)</a> -->
-<!-- <el-dropdown-menu slot="dropdown"> -->
-<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-ar.pdf">A4 Print Cards (PDF) (ar)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-fr.pdf">A4 Print Cards (PDF) (fr)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-a4-es.pdf">A4 Print Cards (PDF) (es)</a></el-dropdown-item> -->
-<!-- </el-dropdown-menu> -->
-<!-- </el-dropdown> -->
+*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+
 
 <!-- *To send to a printer to get professionally printed playing cards, use the following:* -->
 
