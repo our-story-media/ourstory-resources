@@ -28,7 +28,7 @@ The International Federation of Red Cross and Red Crescent Societies have develo
 
 This pamphlet is designed to give an outline of the Indaba process for high-level information only. To be printed on A4 and folded into a [tri-fold (1)](https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg) booklet.
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Tri-fold (PDF) (en)</DownloadLink>
+<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf">Tri-fold (PDF) (en)</DownloadLink>
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/">Tri-fold (Professional Print Files)</DownloadLink>
 
