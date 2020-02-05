@@ -86,35 +86,15 @@ module.exports = {
       '/Materials/':[
         '/materials/'
       ]
-      // {
-      //   title: 'Introduction',
-      //   collapsable: false,
-      //   children: 
-      //   [
-      //     '/guide/',
-      //     '/guide/page2',
-      //     // '/guide/stage1/',
-      //     // '/stage2/',
-      //   ]
-      // },
-      // {
-      //   title: 'Preparation',
-      //   collapsable: false,
-      //   children: [ '/guide/preparation/' ]
-      // },
-      // {
-      //   title: 'Not in My Language',
-      //   collapsable: false,
-      //   children: [
-      //     '/'
-      //   ]
-      // },
     },
   },
-  plugins: [
-    '@vuepress/plugin-nprogress',
-    '@vuepress/plugin-back-to-top',
-    'reading-progress',
-    'reading-time'
-    ]
+  plugins: {
+    '@vuepress/plugin-nprogress':{},
+    '@vuepress/plugin-back-to-top':{},
+    'reading-progress':{},
+    'reading-time':{},
+    'sitemap': {
+      hostname: 'https://indaba.dev'
+    },
+  }
 }

@@ -27,6 +27,7 @@
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "vuepress": "1.2.0",
+    "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress.rtl": "1.0.2"
   },
   "devDependencies": {
