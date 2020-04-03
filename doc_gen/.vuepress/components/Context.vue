@@ -8,12 +8,12 @@ el-card(:body-style="{ padding: '0px' }" shadow="never")
     //- div(class="bottom clearfix")
     slot Content
     div(style="padding: 14px;")
-        span {{caption}}
+        span {{title}}
 </template>
 
 <script>
 module.exports = {
-    props: ['caption']
+    props: ['title']
 }
 </script>
 

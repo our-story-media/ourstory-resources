@@ -7,6 +7,10 @@ const googleservices = require('./google-services.json');
 const {TranslationServiceClient} = require('@google-cloud/translate').v3beta1;
 const gtranslate = new Translate();
 const translationClient = new TranslationServiceClient();
+const MarkdownIt = require('markdown-it');
+const md = new MarkdownIt({
+  html: true
+});
 
 // var key_var = 'TRANSLATOR_TEXT_SUBSCRIPTION_KEY';
 // if (!process.env[key_var]) {
@@ -24,13 +28,17 @@ const uuidv4 = require('uuid/v4');
 
 const yamlFront = require('hexo-front-matter-editor');
 
-let locales = ['es'];//, 'fr', 'ar'];
+let locales = ['es','fr'];//, 'fr', 'ar'];
 let words = ['Español', 'Français', 'عربى'];
 
 let dir = path.join(__dirname, '..', '..');
 
 // console.log(dir);
-let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+// let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+
+//FOR TESTING:
+let originalfiles = glob.sync('**/capture/README.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+
 // console.log(originalfiles)
 // return;
 
@@ -42,37 +50,37 @@ let loaded = [];
 //     return f.split('.')[0];
 // }));
 
-async function createGlossary() {
-    // console.log(googleservices['project_id'])
-    // Construct glossary
-    const glossary = {
-      languageCodesSet: {
-        languageCodes: ['en', 'es', 'fr', 'ar'],
-      },
-      inputConfig: {
-        gcsSource: {
-          inputUri: 'gs://integral-kiln-490.appspot.com/IndabaGlossary.csv',
-        },
-      },
-      name: translationClient.glossaryPath(googleservices['project_id'], 'global', 1),
-    };
+// async function createGlossary() {
+//     // console.log(googleservices['project_id'])
+//     // Construct glossary
+//     const glossary = {
+//       languageCodesSet: {
+//         languageCodes: ['en', 'es', 'fr', 'ar'],
+//       },
+//       inputConfig: {
+//         gcsSource: {
+//           inputUri: 'gs://integral-kiln-490.appspot.com/IndabaGlossary.csv',
+//         },
+//       },
+//       name: translationClient.glossaryPath(googleservices['project_id'], 'global', 1),
+//     };
   
-    // Construct request
-    const request = {
-      parent: translationClient.locationPath(projectId, location),
-      glossary: glossary,
-    };
+//     // Construct request
+//     const request = {
+//       parent: translationClient.locationPath(projectId, location),
+//       glossary: glossary,
+//     };
   
-    // Create glossary using a long-running operation.
-    // You can wait for now, or get results later.
-    const [operation] = await translationClient.createGlossary(request);
+//     // Create glossary using a long-running operation.
+//     // You can wait for now, or get results later.
+//     const [operation] = await translationClient.createGlossary(request);
   
-    // Wait for operation to complete.
-    await operation.promise();
+//     // Wait for operation to complete.
+//     await operation.promise();
   
-    console.log(`Created glossary:`);
-    console.log(`InputUri ${request.glossary.inputConfig.gcsSource.inputUri}`);
-  }
+//     console.log(`Created glossary:`);
+//     console.log(`InputUri ${request.glossary.inputConfig.gcsSource.inputUri}`);
+//   }
 
 async function translate(text,to)
 {
@@ -103,60 +111,16 @@ async function translate(text,to)
     //   }
 }
 
-// async function translate(text,to)
-// {
-//     let [translation] = await gtranslate.translate(text, {to:to,format:'html'});
-//     return translation;
-// }
-
-// function translate(text, to) {
-//     return new Promise((resolve, reject) => {
-
-//         // console.log(endpoint);
-//         // console.log(subscriptionKey);
-//         let options = {
-//             method: 'POST',
-//             baseUrl: endpoint,
-//             url: 'translate',
-//             qs: {
-//                 'api-version': '3.0',
-//                 'to': [to],
-//                 'textType': 'html'
-//             },
-//             headers: {
-//                 'Ocp-Apim-Subscription-Key': subscriptionKey,
-//                 'Content-type': 'application/json',
-//                 'X-ClientTraceId': uuidv4().toString()
-//             },
-//             body: [{
-//                 'text': text
-//             }],
-//             json: true,
-//         };
-
-//         request(options, function (err, res, body) {
-//             if (body.error) {
-//                 console.log(body.error);
-//                 return reject(body.error);
-//             }
-
-//             // console.log(body)
-
-//             if (body[0].translations)
-//                 return resolve(body[0].translations[0].text);
-//         });
-
-
-//     });
-// }
-
 async function main() {
 
 
     for (let i = 0; i < _.size(originalfiles); i++) {
+
+        console.log(`* File: ${originalfiles[i]}`)
         //for each lang:
         for (let loc of locales) {
             let newfile = path.join(dir, loc, originalfiles[i]);
+            
             // console.log(newfile);
             if (!fs.existsSync(newfile)) {
                 console.log(`Translating: ${newfile}`);
@@ -172,15 +136,46 @@ async function main() {
                 try {
 
                     let lines = data['_content'].split("\n");
+
+                    // console.log(lines)
+
                     let newtrans = "";
                     // console.log(line[0]);
+
                     for (let line in lines)
                     {
-                        console.log(`Translating line ${line}`);
-                        let translation = await translate(lines[line], loc);
-                        console.log(`Translation: ${translation}`);
-                        newtrans += translation + "\n"
+                      let string = lines[line];
+                      let prefix = '';
+                      // console.log(lines[line])
+                      if (lines[line]!='')
+                      {
+                        
+                        // let prefixes = ['::: tip',':::'];
+
+                        // if (_.startsWith(string,':::'))
+                        // {
+                        string = _.replace(string,/^(:::\s\w*)/,'<box mem="$1"/>');
+                        // }
+
+                        console.log(`Translating line ${line}: ${string}`);
+                        // console.log(`Markdown render: ${md.render(string)}`);
+                        let translation = await translate(string, loc);
+                        newtrans += `${translation} \n`;
+                        
+                        newtrans = _.replace(newtrans, '/ ','/');
+                        newtrans = _.replace(newtrans, ' /','/');
+                        newtrans = _.replace(newtrans, '] (','](');
+                        newtrans = _.replace(newtrans, /\s\*\*\s(\w*)\s\*\*\s/, " **$1** ");
+                        newtrans = _.replace(newtrans, /\<box mem="(.*)"\/\>/g, "$1");
+                        
+                        console.log(`Translation (${loc}): ${newtrans}`);
+                      }
+                      else
+                      {
+                        newtrans += "\n"
+                      }
                     }
+                    
 
                     data['_content'] = newtrans;
 
