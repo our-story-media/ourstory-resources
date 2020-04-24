@@ -10,7 +10,8 @@
     </el-step>
 
     <el-step :title="this.$site.themeConfig.locales[$localePath].steps[2]">
-    <strong  slot="icon">2</strong></el-step>
+    <strong  slot="icon">2</strong>
+    </el-step>
 
     <el-step :title="this.$site.themeConfig.locales[$localePath].steps[3]">
         <strong  slot="icon">3</strong>
@@ -19,9 +20,11 @@
     <el-step :title="this.$site.themeConfig.locales[$localePath].steps[4]">
         <strong  slot="icon">4</strong>
     </el-step>
+
      <el-step :title="this.$site.themeConfig.locales[$localePath].steps[5]" icon="el-icon-share">
     </el-step>
 </el-steps>
+
 </template>
 
 <script>

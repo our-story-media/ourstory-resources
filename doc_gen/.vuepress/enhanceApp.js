@@ -9,13 +9,12 @@ import { library, config } from '@fortawesome/fontawesome-svg-core'
 import { fas } from '@fortawesome/free-solid-svg-icons'
 import { far } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon, FontAwesomeLayers } from '@fortawesome/vue-fontawesome'
+import pageComponents from '@internal/page-components'
 
 library.add(fas)
 library.add(far)
 
 config.autoAddCss = false
-
-
 
 export default ({
     Vue, // the version of Vue being used in the VuePress app
@@ -23,9 +22,14 @@ export default ({
     router, // the router instance for the app
     siteData // site metadata
   }) => {
-    Vue.use(ElementUI);
+      
+    Vue.use(ElementUI,{ssr:true});
     Vue.component('font-awesome-icon', FontAwesomeIcon)
     Vue.component('font-awesome-layers', FontAwesomeLayers)
+
+    for (const [name, component] of Object.entries(pageComponents)) {
+        Vue.component(name, component)
+      }
     // Vue.use(Cite);
     
     // ...apply enhancements to the app

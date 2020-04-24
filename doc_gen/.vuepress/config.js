@@ -294,10 +294,9 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     'reading-progress',
     'reading-time',
-    'element-tabs',
     'export'
   ],
   configureWebpack:{
-    mode: 'development'
+    // mode: 'development'
   }
 }
