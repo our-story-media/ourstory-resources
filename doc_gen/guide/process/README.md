@@ -7,7 +7,7 @@ title: The Process
 # The Process
 
 <Leader>
-The {{$ourstory}} process consists of a set of activities that you can deploy over short period of time.
+The Indaba process consists of a set of activities that you can deploy over short period of time.
 
 </Leader>
 

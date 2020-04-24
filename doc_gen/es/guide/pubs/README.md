@@ -4,20 +4,39 @@ lang: es-x-mtfrom-en
 ---
 <h1> Publicaciones y prensa </h1> 
 
+<ClientOnly> 
+
 <Leader> 
 
- Indaba y su precursor Bootlegger han informado una serie de resultados de investigaciones académicas e informes de organizaciones que informan hallazgos clave tanto en el diseño como en la aplicación de video participativo.  
+ Indaba y sus precursores Nuestra historia y Bootlegger han informado una serie de resultados de investigaciones académicas e informes de organizaciones que informan hallazgos clave tanto en el diseño como en la aplicación de video participativo.  
 
 </Leader> 
 
+</ClientOnly> 
+
 <h2> Reportes y Blogs </h2> 
 
+ <strong>Lecciones aprendidas en video participativo Gambia: Mejorando el acceso de las mujeres más desfavorecidas a recursos productivos y sostenibles en Kiang West</strong> \  
+ <a href="http://adore.ifrc.org/Download.aspx?FileId=295874&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=295874&amp;.pdf</a>  
+
+ <strong>Informe de línea de base de video participativo para el programa de capacitación para niños en edad escolar “Salud y seguridad”</strong> \  
+ <a href="http://adore.ifrc.org/Download.aspx?FileId=228136&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=228136&amp;.pdf</a>  
+
+ <strong>Informe de evaluación de video participativo: Acción comunitaria sobre el proyecto Zika en Honduras y Colombia</strong> \  
+ <a href="http://adore.ifrc.org/Download.aspx?FileId=255283&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=255283&amp;.pdf</a>  
+
  <strong>Un proceso de monitoreo de video participativo usando &quot;Nuestra historia&quot; en Indonesia y Namibia</strong> \  
- <a href="https://www.ifrc.org/en/publications-and-reports/evaluations/?c=&amp;co=&amp;fy=&amp;mo=&amp;mr=1&amp;or=&amp;r=&amp;ti=a%20participatory%20video%20monitoring&amp;ty=&amp;tyr=&amp;z=">https://www.ifrc.org/en/publications-and-reports/evaluations/</a>  
+ <a href="http://adore.ifrc.org/Download.aspx?FileId=240861&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=240861&amp;.pdf</a>  
 
 <h2> Publicaciones de investigación </h2> 
 
 <ClientOnly> 
+
+<Citation> 
+
+@inproceedings{10.1145/3313831.3376694,author = {Varghese, Delvin and Olivier, Patrick and Bartindale, Tom},title = {Towards Participatory Video 2.0},year = {2020},isbn = {9781450367080},publisher = {Association for Computing Machinery},address = {New York, NY, USA},url = {https://doi.org/10.1145/3313831.3376694},doi = {10.1145/3313831.3376694},booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},pages = {1–13},numpages = {13},keywords = {ICTD, participatory video, international development, participatory film-making, iDocs, HCI4D, object based media},location = {Honolulu, HI, USA},series = {CHI ’20}}   
+
+</Citation> 
 
 <Citation> 
 

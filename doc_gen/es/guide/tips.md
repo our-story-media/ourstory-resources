@@ -20,8 +20,8 @@ lang: es-x-mtfrom-en
 
 <ol start="5"><li> <strong>Copia de seguridad</strong> : esto es crucial. Como dice el dicho, &quot;más vale prevenir que curar&quot;. Al final de cada día, haga una copia de seguridad de lo siguiente: </li></ol> 
 
-<pre> <span class="code">1. Videos: cualquier metraje que quede en los dispositivos debe cargarse en el administrador/tablero de rodaje.</span> </pre> 
+ 5.1 Videos: cualquier metraje que quede en los dispositivos debe cargarse en el administrador/tablero de rodaje.  
 
-<pre> <span class="code">2. Rotafolios/material escrito: tome fotografías de cualquier material escrito (consentimientos, rotafolios, etc.) generado por la comunidad para que haya una copia digital.</span> </pre> 
+ 5.2. Rotafolios/material escrito: tome fotografías de cualquier material escrito (consentimientos, rotafolios, etc.) generado por la comunidad para que haya una copia digital.  
 
-<pre> <span class="code">3. Copia externa: guarde una copia duplicada de los datos anteriores en una unidad / computadora portátil separada en caso de que la primera computadora portátil sea robada o deje de funcionar.</span> </pre> 
+ 5.3. Copia externa: guarde una copia duplicada de los datos anteriores en una unidad / computadora portátil separada en caso de que la primera computadora portátil sea robada o deje de funcionar.  

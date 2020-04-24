@@ -16,6 +16,9 @@ Indaba and it's precursors Our Story and Bootlegger have informed a number of ac
 
 ## Reports and Blogs
 
+**Participatory Video Lessons Learned Gambia: Enhancing the most disadvantaged women's access to productive and sustainable resources in Kiang West** \
+[http://adore.ifrc.org/Download.aspx?FileId=295874&.pdf](http://adore.ifrc.org/Download.aspx?FileId=295874&.pdf)
+
 **Participatory Video Baseline Report for the School Children Training Programme “Health and Safety”** \
 [http://adore.ifrc.org/Download.aspx?FileId=228136&.pdf](http://adore.ifrc.org/Download.aspx?FileId=228136&.pdf)
 
@@ -28,6 +31,12 @@ Indaba and it's precursors Our Story and Bootlegger have informed a number of ac
 ## Research Publications
 
 <ClientOnly>
+
+<Citation>
+
+@inproceedings{10.1145/3313831.3376694,author = {Varghese, Delvin and Olivier, Patrick and Bartindale, Tom},title = {Towards Participatory Video 2.0},year = {2020},isbn = {9781450367080},publisher = {Association for Computing Machinery},address = {New York, NY, USA},url = {https://doi.org/10.1145/3313831.3376694},doi = {10.1145/3313831.3376694},booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},pages = {1–13},numpages = {13},keywords = {ICTD, participatory video, international development, participatory film-making, iDocs, HCI4D, object based media},location = {Honolulu, HI, USA},series = {CHI ’20}}  
+
+</Citation>
 
 <Citation>
 

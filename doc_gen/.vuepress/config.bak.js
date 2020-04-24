@@ -38,6 +38,13 @@ module.exports = {
       }
     ]
   ],
+  markdown: {
+    anchor: {
+      permalink: false,
+      permalinkBefore: true,
+      permalinkSymbol: '%'
+    }
+  },
   themeConfig: {
     locales: {
       '/': {
@@ -235,7 +242,7 @@ module.exports = {
     },
     displayAllHeaders: false,
     lastUpdated: 'Updated',
-    repo: 'our-story-media/ourstory-guide',
+    repo: 'our-story-media/ourstory-resources',
     docsDir: 'docs',
     editLinks: false,
     editLinkText: 'Edit in GitHub',
@@ -289,12 +296,13 @@ module.exports = {
       ]
     }
   },
-  plugins: [
-    '@vuepress/plugin-nprogress',
-    '@vuepress/plugin-back-to-top',
-    'reading-progress',
-    'reading-time',
-    'export'
-  ],
-  configureWebpack: {}
+  plugins: {
+    '@vuepress/plugin-nprogress': {},
+    '@vuepress/plugin-back-to-top': {},
+    'reading-progress': {},
+    'reading-time': {},
+    sitemap: {
+      hostname: 'https://indaba.dev'
+    }
+  }
 }

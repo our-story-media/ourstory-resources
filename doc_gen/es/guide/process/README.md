@@ -7,7 +7,7 @@ lang: es-x-mtfrom-en
 <h1> El proceso </h1> 
 
 <Leader> 
- El proceso {{$ ourstory}} consiste en un conjunto de actividades que puede implementar en un período corto de tiempo.  
+ El proceso Indaba consiste en un conjunto de actividades que puede implementar en un período corto de tiempo.  
 
 </Leader> 
 

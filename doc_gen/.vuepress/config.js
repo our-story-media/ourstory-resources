@@ -38,8 +38,12 @@ module.exports = {
       }
     ]
   ],
-  markdown:{
-    anchor: { permalink: false, permalinkBefore: true, permalinkSymbol: '%' }
+  markdown: {
+    anchor: {
+      permalink: false,
+      permalinkBefore: true,
+      permalinkSymbol: '%'
+    }
   },
   themeConfig: {
     locales: {
@@ -290,15 +294,15 @@ module.exports = {
       '/materials/': [
         '/materials/'
       ]
-    },
+    }
   },
   plugins: {
-    '@vuepress/plugin-nprogress':{},
-    '@vuepress/plugin-back-to-top':{},
-    'reading-progress':{},
-    'reading-time':{},
-    'sitemap': {
+    '@vuepress/plugin-nprogress': {},
+    '@vuepress/plugin-back-to-top': {},
+    'reading-progress': {},
+    'reading-time': {},
+    sitemap: {
       hostname: 'https://indaba.dev'
-    },
+    }
   }
 }
