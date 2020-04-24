@@ -19,7 +19,7 @@ You should have a clear plan for working with the community, have setup and test
 
 :::
 
-<TimeGuide time="Up to 6 months prior">
+<TimeGuide title="Up to 6 months prior">
 
 ## Planning and Buy-in Process
 
@@ -40,7 +40,7 @@ Therefore you would:
 - Identify a community that is a recipient of the project/programme/ideation using a fair and unbiased approach. 
 - Select the target groups which are most relevant for feedback to the project/programme in a fair and unbiased manner. The number of available Android devices (Tablets) in the project/programme may also limit the number/size of groups which can be formed (as each group will need access to at least one device).
 
-<StepOptions title="Community Selection Method">
+<StepOptions title="Options: Community Selection Method">
 
 **Stratified Sampling**
 
@@ -70,7 +70,7 @@ Make sure you have followed the [Quick Start](/quickstart/) guide and setup the 
 
 A default set of tags that participants apply to their videos come with each shoot in the Indaba dashboard. These are based on the [OECD DAC](https://www.oecd.org/dac/) criteria plus a couple of genric tags used for helping to structure the film making process, however you may wish to use alternative tags which better relate to your outcomes.
 
-<StepOptions title="Tags">
+<StepOptions title="Options: Tags">
 
 You can change these Tags in the `Settings` page of the Dashboard. We recommend that you do not change these terms during a deployment, so as to maintain consistency with participants.
 

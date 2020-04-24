@@ -3,7 +3,7 @@
 div
     .timeguide
         i(class="el-icon-timer")
-        b &nbsp;Time Guide&nbsp;
+        b &nbsp;&nbsp;
         span {{title}}
     slot
     div(style="clear:both")

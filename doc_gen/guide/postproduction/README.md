@@ -42,7 +42,7 @@ Examples include:
 
 ## Subtitling (Closed Captions)
 
-<Materials>
+<Materials title="Materials">
 
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [Adobe Rush](https://www.nikse.dk/subtitleedit)

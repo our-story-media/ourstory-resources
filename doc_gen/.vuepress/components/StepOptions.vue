@@ -3,7 +3,7 @@
 <div class="margin">
     <el-divider content-position="left" >
         <div class="options">
-            <i class="el-icon-guide"/> Options:
+            <i class="el-icon-guide"/>
             {{title}}
             </div>
         </el-divider>

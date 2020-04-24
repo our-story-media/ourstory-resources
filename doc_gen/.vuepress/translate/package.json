@@ -4,16 +4,20 @@
   "description": "",
   "main": "reconcile.js",
   "scripts": {
-    "start": "source azure-key.env && GOOGLE_APPLICATION_CREDENTIALS=google-services.json node translate.js",
+    "start": "GOOGLE_APPLICATION_CREDENTIALS=google-services.json node translate.js",
+    "post": "GOOGLE_APPLICATION_CREDENTIALS=google-services.json node translate_output.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/translate": "^4.1.3",
+    "code-stringify": "^2.0.3",
+    "deepdash": "^5.0.1",
     "glob": "^7.1.4",
     "hexo-front-matter-editor": "^1.0.3",
     "lodash": "^4.17.15",
+    "markdown-it": "^10.0.0",
     "request": "^2.88.0",
     "uuidv4": "^5.0.0"
   }

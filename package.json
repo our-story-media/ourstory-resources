@@ -8,7 +8,7 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev doc_gen",
-    "docs:build": "vuepress build doc_gen",
+    "docs:build": "vuepress build doc_gen --no-cache",
     "docs:pdf": "vuepress export doc_gen"
   },
   "repository": {
@@ -26,7 +26,7 @@
     "bulma-extensions": "^6.2.7",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "vuepress": "^1.0.1",
+    "vuepress": "^1.4.1",
     "vuepress.rtl": "1.0.2"
   },
   "devDependencies": {
@@ -38,11 +38,12 @@
     "babel-polyfill": "6.26.0",
     "citation-js": "0.4.5",
     "element-ui": "2.9.1",
+    "html-webpack-plugin": "^4.2.0",
     "pug": "2.0.3",
     "pug-plain-loader": "1.0.0",
-    "vuepress-plugin-element-tabs": "0.1.7",
+    "vuepress-html-webpack-plugin": "^3.2.0",
+    "vuepress-plugin-element-tabs": "0.2.8",
     "vuepress-plugin-export": "0.2.0",
-    "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-reading-progress": "1.0.7",
     "vuepress-plugin-reading-time": "0.1.1"
   }

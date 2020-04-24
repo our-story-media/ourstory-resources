@@ -24,13 +24,13 @@ Each group should have produced a Story within the tablet application which repr
 
 :::
 
-<TimeGuide time="3-4 hours">
+<TimeGuide title="3-4 hours">
 
 ## Create Story
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Tagged Flipcharts
 - Android Tablet
@@ -44,7 +44,7 @@ Each group should have produced a Story within the tablet application which repr
 
 Each group should use their videos (and any others from the community that they feel help tell their narrative) 
 
-::: warning
+::: warning Auto-save
 The editor screen auto-saves edits every few minutes allowing groups to stop at any point during the process. If a group does not want to keep their changes, selecting `Discard` when closing the screen will revert them back to their original Story.
 :::
 

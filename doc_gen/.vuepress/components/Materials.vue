@@ -3,13 +3,13 @@ div(:class="{'pullout':!example}")
     el-card(shadow="never" class="materials")
         div(slot="header")
             i(class="el-icon-tickets")
-            strong &nbsp; Materials
+            strong &nbsp; {{title}}
         slot
 </template>
 
 <script>
 module.exports = {
-    props: ['example']
+    props: ['example','title']
 }
 </script>
 

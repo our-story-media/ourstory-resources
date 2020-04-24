@@ -26,7 +26,10 @@ let dir = path.join(__dirname, '..', '..');
 // let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
 
 //FOR TESTING:
-let originalfiles = glob.sync('**/capture/README.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+let originalfiles = glob.sync('../docs/es/**/*.html', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+
+console.log(originalfiles);
+// return;
 
 // console.log(originalfiles)
 // return;
@@ -139,9 +142,9 @@ async function main() {
             if (!fs.existsSync(newfile)) {
                 console.log(`- ${newfile}`);
 
-                fs.mkdirSync(path.dirname(newfile), { recursive: true });
-                // let content = fs.readFileSync(path.join(dir,originalfiles[i])).toString();
-                let data = await yamlFront.read(path.join(dir, originalfiles[i]));
+                // fs.mkdirSync(path.dirname(newfile), { recursive: true });
+                let content = fs.readFileSync(path.join(dir,originalfiles[i])).toString();
+                // let data = await yamlFront.read(path.join(dir, originalfiles[i]));
                 // console.log(data.title);
                 // console.log(data.description);
                 // console.log(data['_content']);
@@ -149,7 +152,7 @@ async function main() {
                 // let [translation] = await translate.translate(data['_content'], {to:loc,format:'html'});
                 try {
 
-                    let lines = data['_content'].split("\n");
+                    let lines = content.split("\n");
 
                     // console.log(lines)
 
@@ -165,19 +168,19 @@ async function main() {
                       {
 
                         //for boxes:
-                        string = _.replace(string,/^(:::\s\w*)/,'<box mem="$1"/>');
-                        console.log(`Translating line ${line}: ${string}`);
+                        // string = _.replace(string,/^(:::\s\w*)/,'<box mem="$1"/>');
+                        // console.log(`Translating line ${line}: ${string}`);
                         // console.log(`Markdown render: ${md.render(string)}`);
                         let translation = await translate(string, loc);
                         newtrans += `${translation} \n`;
-                        newtrans = _.replace(newtrans, '/ ','/');
-                        newtrans = _.replace(newtrans, ' /','/');
-                        newtrans = _.replace(newtrans, '] (','](');
-                        newtrans = _.replace(newtrans, /\s\*\*\s(\w*)\s\*\*\s/, " **$1** ");
-                        newtrans = _.replace(newtrans, /\<box mem="(.*)"\/\>/g, "$1");
+                        // newtrans = _.replace(newtrans, '/ ','/');
+                        // newtrans = _.replace(newtrans, ' /','/');
+                        // newtrans = _.replace(newtrans, '] (','](');
+                        // newtrans = _.replace(newtrans, /\s\*\*\s(\w*)\s\*\*\s/, " **$1** ");
+                        // newtrans = _.replace(newtrans, /\<box mem="(.*)"\/\>/g, "$1");
 
 
-                        console.log(`Translation (${loc}): ${newtrans}`);
+                        console.log(`Translation (${loc})`);
                       }
                       else
                       {
@@ -186,25 +189,29 @@ async function main() {
                     }
                     
 
-                    data['_content'] = newtrans;
+                    // data['_content'] = newtrans;
 
-                    if (data.description) {
-                        // [translation] = await translate.translate(data.description, {to:loc});
-                        data.description = await translate(data.description, loc);
-                    }
+                    // console.log(newtrans);
 
-                    if (data.title) {
-                        // [translation] = await translate.translate(data.title, {to:loc});
-                        data.title = await translate(data.title, loc);
-                    }
+                    fs.writeFileSync(path.join(dir,originalfiles[i]),newtrans);
 
-                    data.lang = `${loc}-x-mtfrom-en`;
+                    // if (data.description) {
+                    //     // [translation] = await translate.translate(data.description, {to:loc});
+                    //     data.description = await translate(data.description, loc);
+                    // }
+
+                    // if (data.title) {
+                    //     // [translation] = await translate.translate(data.title, {to:loc});
+                    //     data.title = await translate(data.title, loc);
+                    // }
+
+                    // data.lang = `${loc}-x-mtfrom-en`;
                     // console.log(results);
 
 
                     // console.log(data);
 
-                    await yamlFront.write(data, newfile);
+                    // await yamlFront.write(data, newfile);
                     console.log(`☑ ${originalfiles[i]} ${loc}`)
                 }
                 catch (e) {

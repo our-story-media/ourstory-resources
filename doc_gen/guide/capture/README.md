@@ -26,13 +26,13 @@ Each group should have a set of individual videos which have been tagged.
 
 :::
 
-<TimeGuide time="30 mins">
+<TimeGuide title="30 mins">
 
 ## Onboarding
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -44,9 +44,9 @@ Each group should have a set of individual videos which have been tagged.
 
 <App />
 
-We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example 'interviews' between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
+We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example `interviews` between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
 
-<AdminRole title="Run the Dashboard">
+<AdminRole title="Facilitator Action: Run the Dashboard">
 
 If using Titan Edition, make sure the Dashboard is running and WiFi is running and connected before attempting to `Join` a device to a shoot. If using Online Edition, this will require Internet connectivity.
 
@@ -68,13 +68,13 @@ As soon as a device has joined the camera screen and has downloaded the necessar
 
 
 
-<TimeGuide time="3-4 hours (over ~2 days)">
+<TimeGuide title="3-4 hours (over ~2 days)">
 
 ## Capture
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -105,7 +105,7 @@ Each group is now given the opportunity to capture the videos described in the p
 5. Review as you go!
 :::
 
-<TimeGuide time="varies depending on content">
+<TimeGuide title="varies depending on content">
 
 ## Upload
 
@@ -116,25 +116,25 @@ Each group is now given the opportunity to capture the videos described in the p
 
 Videos need to be uploaded from each Android device before they can be Reviewed or Tagged. This process is best performed by the Facilitator during breaks with the community.
 
-<AdminRole title="Uploading Content">
+<AdminRole  title="Facilitator Action: Uploading Content">
 
 It is important to build in time into the process to allow content to upload from tablets to the Dashboard. Even when using Titan, this process can take time (> 2 mins per video), so it is often best to start this process in the field if possible, allowing the most content to be available to participants when they want to **Review** or **Create Stories**.
 
 Uploading should be initiated when each device is connected to the WiFi and the Dashboard is running on the computer. In some cases, uploading a single device at a time may be faster than attempting to sync all simultaneously.
 
-Depending on the participants, this upload process could be built into 'pitstops' during the filming process rather than being left until the end of the session, or it could be performed back at base while the devices are charging overnight.
+Depending on the participants, this upload process could be built into `pitstops` during the filming process rather than being left until the end of the session, or it could be performed back at base while the devices are charging overnight.
 
 Once content is uploaded from a device it is available to all participants to view and use in making stories.
 
 </AdminRole>
 
-<TimeGuide time="15 mins for each hour of capture ">
+<TimeGuide title="15 mins for each hour of capture ">
 
 ## Review and Tag
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -152,11 +152,13 @@ Each group should be supported in watching what they have captured in relation t
 
 - Does the video capture what I wanted to say in the plan?
 - If it does, then apply a `Tag` to that video (this tag may be indicate on the planning sheet from the [Ideation](/guide/ideation/) step).
-- Using notions of 'Introduction' and 'Background', help the group identify missing elements of video to tell their story.
+- Using notions of `Introduction` and `Background`, help the group identify missing elements of video to tell their story.
 - Add these videos to the group plan, and then resume the `Capture` part of the process.
 
-::: warning
-1. Click on the ‘Tagged Videos’ screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
-2. To tag a video, just press on the ‘Tick’ button on the bottom right corner of the ‘Tagged Videos’ tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
+::: warning Tagging
+
+1. Click on the `Tagged Videos` screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
+2. To tag a video, just press on the `Tick` button on the bottom right corner of the `Tagged Videos` tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
 3. Just tap on any video to play it. While you are playing the video, you can tag the videos using the tags displayed on the top left area. You can tap to toggle the tags.
+
 :::

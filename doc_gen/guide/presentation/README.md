@@ -20,13 +20,13 @@ Each video should have been presented back to the community in a presentation se
 
 :::
 
-<TimeGuide time="~3 hours">
+<TimeGuide title="~3 hours">
 
 ## Playing Videos
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Projector or TV
 - Means of amplifying audio (speakers)
@@ -38,7 +38,7 @@ Each video should have been presented back to the community in a presentation se
 
 The easiest (and most time efficient) method of playing videos to the community is to connect one of the Android devices to a TV or projector directly, and then play each video directly from the Stories Timeline screen.
 
-<AdminRole title="Present Videos">
+<AdminRole title="Facilitator Action: Present Videos">
 
 1. Make sure the Dashboard is running and available to your device.
 1. Select one of the Android devices to use for your presentation. Take note of which Group is logged in.
@@ -50,7 +50,7 @@ The easiest (and most time efficient) method of playing videos to the community 
 
 </AdminRole>
 
-<TimeGuide time="1 hour">
+<TimeGuide title="1 hour">
 
 ## Publishing
 
@@ -59,7 +59,7 @@ The easiest (and most time efficient) method of playing videos to the community 
 
 Before you leave the field it is important to `Publish` each story, allowing you to leave the final version of each with the community. The process of turning individual videos selected by them in the Creation process into a single video file is called `Publishing`.
 
-<AdminRole title="Publishing Stories">
+<AdminRole title="Facilitator Action: Publishing Stories">
 
 Editing and producing the final story files takes a lot of CPU power and battery (when using Titan), hence we recommend that administrators disable publishing using the Dashboard until all the groups have finished creating their stories to prevent unnecessary resource use. You can re-enable publishing once you are sure that no more groups are working on their videos or you are at the end of the story creation stage for all the groups. This is done via the `Dashboard` option `Enable Publishing`.
 
@@ -77,7 +77,7 @@ Stories will continue to process without the Android device being available.
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - 2 USB Drives
 
