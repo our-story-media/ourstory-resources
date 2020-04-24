@@ -8,7 +8,7 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev doc_gen",
-    "docs:build": "vuepress build doc_gen --no-cache",
+    "docs:build": "vuepress build doc_gen",
     "docs:pdf": "vuepress export doc_gen"
   },
   "repository": {

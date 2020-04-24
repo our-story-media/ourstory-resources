@@ -9,7 +9,13 @@ const gtranslate = new Translate();
 const translationClient = new TranslationServiceClient();
 const stringify = require('code-stringify')
 const deepdash = require('deepdash')(_);
-var md = require('markdown-it')();
+var md = require('markdown-it')({
+  html:true,
+  breaks:false,
+  typographer: false
+});
+const Entities = require('html-entities').XmlEntities;
+const entities = new Entities();
 
 const request = require('request');
 const uuidv4 = require('uuid/v4');
@@ -23,10 +29,10 @@ let locales = ['es'];
 let dir = path.join(__dirname, '..', '..');
 
 // console.log(dir);
-// let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
 
 //FOR TESTING:
-let originalfiles = glob.sync('**/capture/README.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+// let originalfiles = glob.sync('**/capture/README.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
 
 // console.log(originalfiles)
 // return;
@@ -166,9 +172,24 @@ async function main() {
 
                         //for boxes:
                         string = _.replace(string,/^(:::\s\w*)/,'<box mem="$1"/>');
+
+                        string = _.replace(string,/^(@inproceedings.*)/,'<span class="notranslate">$1</span>')
+
+                        // string = entities.encode(string);
                         console.log(`Translating line ${line}: ${string}`);
                         // console.log(`Markdown render: ${md.render(string)}`);
+                        string = md.render(string);
+                        
+                        string = _.replace(string,/\<code\>(.*?)\<\/code\>/g,'<span class="code">$1</span>');
+
+                        string = _.replace(string,/\<a href="\/(.*?)">/g,`<a href="/${loc}/$1">`);
+
+                        
+                        
                         let translation = await translate(string, loc);
+
+                        // translation = entities.decode(translation);
+
                         newtrans += `${translation} \n`;
                         newtrans = _.replace(newtrans, '/ ','/');
                         newtrans = _.replace(newtrans, ' /','/');
@@ -176,6 +197,16 @@ async function main() {
                         newtrans = _.replace(newtrans, /\s\*\*\s(\w*)\s\*\*\s/, " **$1** ");
                         newtrans = _.replace(newtrans, /\<box mem="(.*)"\/\>/g, "$1");
 
+                        newtrans = _.replace(newtrans, /\<p\>(.*)\<\/p\>/g, "$1").trimLeft();
+
+                        newtrans = _.replace(newtrans,/<span .*>(@inproceedings.*?)<\/span>/,'$1')
+
+                        // newtrans = _.replace(newtrans,/\<cod\>(.*?)\<\/cod\>/g,'`$1`');
+
+                        // newtrans = _.replace(newtrans,/` (.*?) `/g,' `$1` ');
+
+                        newtrans = _.replace(newtrans, " :::",":::");
+                        
 
                         console.log(`Translation (${loc}): ${newtrans}`);
                       }

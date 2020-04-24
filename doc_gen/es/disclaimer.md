@@ -1,0 +1,8 @@
+---
+lang: es-x-mtfrom-en
+---
+ESTE SERVICIO PUEDE CONTENER TRADUCCIONES DE GOOGLE. GOOGLE RECHAZA TODAS LAS GARANTÍAS RELACIONADAS CON LAS TRADUCCIONES, EXPRESAS O IMPLÍCITAS, INCLUIDAS CUALQUIER GARANTÍA DE PRECISIÓN, CONFIABILIDAD Y CUALQUIER GARANTÍA IMPLÍCITA DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO Y NO INFRACCIÓN PARTICULARES.  
+
+ El sitio web de Indaba ha sido traducido para su conveniencia utilizando un software de traducción con tecnología de Google Translate. Se han realizado esfuerzos razonables para proporcionar una traducción precisa, sin embargo, ninguna traducción automática es perfecta ni pretende reemplazar a los traductores humanos. Las traducciones se proporcionan como un servicio a los usuarios del sitio web de Indaba, y se proporcionan &quot;tal cual&quot;. No se otorga ninguna garantía de ningún tipo, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad o corrección de cualquier traducción hecha del inglés a cualquier otro idioma. Es posible que parte del contenido (como imágenes, videos, Flash, etc.) no se traduzca con precisión debido a las limitaciones del software de traducción.  
+
+ El texto oficial es la versión en inglés del sitio web. Cualquier discrepancia o diferencia creada en la traducción no es vinculante y no tiene ningún efecto legal para fines de cumplimiento o aplicación. Si surge alguna pregunta relacionada con la precisión de la información contenida en el sitio web traducido, consulte la versión en inglés del sitio web que es la versión oficial.  

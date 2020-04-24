@@ -1,5 +1,5 @@
 ---
-title: "Step 2: Capture/Review"
+title: "Step 2: Capture / Review"
 ---
 
 <ReadTime />
@@ -59,14 +59,12 @@ If using Titan Edition, make sure the Dashboard is running and WiFi is running a
 This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
 
 1. Make sure each group has an Android device and any additional equipment (microphone etc.).
-1. Connect the device to the WiFi or Internet service and open the Indaba application.
-1. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
-1. Get the group to select the shoot you want them to participate in.
-1. Let the group login, select a Theme and open the camera screen.
+2. Connect the device to the WiFi or Internet service and open the Indaba application.
+3. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
+4. Get the group to select the shoot you want them to participate in.
+5. Let the group login, select a Theme and open the camera screen.
 
 As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without any WiFi or Internet connection.
-
-
 
 <TimeGuide title="3-4 hours (over ~2 days)">
 
@@ -94,15 +92,18 @@ Each group is now given the opportunity to capture the videos described in the p
 2. Make sure your fingers are not on the screen! 
 3. Use lighting to your advantage
 4. Take a variety of shot footage
-5. Review as you go! 
+5. Review as you go!
+
 :::
 
 ::: warning Ensuring good audio quality
+
 1. Is the microphone plugged in properly? 
 2. Make sure only one person is talking at a time 
 3. If possible, work in quiet areas 
 4. Encourage quiet participants to speak loudly 
 5. Review as you go!
+
 :::
 
 <TimeGuide title="varies depending on content">
