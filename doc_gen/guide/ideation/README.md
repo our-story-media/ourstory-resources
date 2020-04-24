@@ -26,13 +26,13 @@ Each group in the community you are working with should have a flip-chart sheet 
 
 </Tip>
 
-<TimeGuide time="1 hour">
+<TimeGuide title="1 hour">
 
 ## Familiarisation
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 Prompt materials (photos) to help the community contextualise what you are asking of them.
 
@@ -42,7 +42,7 @@ Prompt materials (photos) to help the community contextualise what you are askin
 
 Working with the whole community, provide them with prompts about the issues they are talking about (e.g. photos from the project they are providing feedback for). Using the flip-chart paper, a scribe writes down the views of the community.
 
-<StepOptions title="Familiarisation">
+<StepOptions title="Options: Familiarisation">
 
 **Example: Photo Walks**
 
@@ -57,7 +57,7 @@ Start with a set of photos taken of the community before you arrived at various 
 
 </StepOptions>
 
-<TimeGuide time="30 mins">
+<TimeGuide title="30 mins">
 
 ## Group Selection
 
@@ -67,7 +67,7 @@ Indaba is designed to work within a community which is organised into smaller, r
 
 It is important to support the community self-selecting these groups, as well as making clear the time commitment required by participants to engage in the process.
 
-<TimeGuide time="1-2 hours">
+<TimeGuide title="1-2 hours">
 
 ## Scoping
 
@@ -77,7 +77,7 @@ Scoping is an important part of the process, allowing the community to explore t
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Flip-chart Paper
 - Marker Pens
@@ -87,7 +87,7 @@ Scoping is an important part of the process, allowing the community to explore t
 
 <Paper />
 
-<StepOptions title="Scoping Exercise">
+<StepOptions title="Options: Scoping Exercise">
 
 **Option: Story-cards**
 
@@ -99,13 +99,13 @@ Each group is facilitated in discussion about the issues raised in the previous 
 
 </StepOptions>
 
-<TimeGuide time="1-2 hours">
+<TimeGuide title="1-2 hours">
 
 ## Story Building
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Flip-chart
 - Pens

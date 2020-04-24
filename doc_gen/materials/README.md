@@ -71,8 +71,6 @@ They can be printed on standard layout printer label sheets for easy use.
 </el-dropdown-menu>
 </el-dropdown>
 
-<!-- <DownloadLink url="">Stickers Template (Word Docx)</DownloadLink> -->
-
 ## Pocket Guide
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
@@ -108,10 +106,6 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 </el-dropdown> -->
 
 <!-- To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/) -->
-
-<!-- <DownloadLink type="danger" url="//cards.pdf" disabled>Cards PDF</DownloadLink>
-
-<DownloadLink url="//fieldguide.indd" disabled>Cards (InDesign)</DownloadLink> -->
 
 ## Dice
 

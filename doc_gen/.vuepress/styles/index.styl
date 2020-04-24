@@ -1,11 +1,4 @@
-// @require '~vuepress-plugin-tabs/dist/themes/default.styl'
-
-// @require '~bulma/css/bulma.css'
-// @require '~bulma-extensions/dist/css/bulma-extensions.min.css'
-
-// @require '/style.css';
-
-// @require '~vuepress-plugin-tabs/dist/themes/default.styl'
+@require '~@fortawesome/fontawesome-svg-core/styles.css'
 
 html[dir*='rtl']
 {
@@ -254,4 +247,7 @@ button a
     height: 100%;
     margin-left:-5px;
     margin-top:-5px;
+span.code
+{
+    @extend .theme-default-content code
 }

@@ -6,7 +6,7 @@
             span.name {{a.given}} {{a.family}}
     .venue {{citation["container-title"]}}
         strong
-            i {{citation.issued["date-parts"][0][0]}}
+            i {{(citation.issued)?["date-parts"][0][0]:''}}
     a.doi(:href="citation.URL") {{citation.URL}}
         OutboundLink
 </template>

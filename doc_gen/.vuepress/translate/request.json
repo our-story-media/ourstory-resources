@@ -1,0 +1,11 @@
+{
+    "languageCodesSet": {
+      "languageCodes": ["en", "es", "fr", "ar"]
+    },
+    "inputConfig": {
+      "gcsSource": {
+        "inputUri": "gs://integral-kiln-490.appspot.com/IndabaGlossary.csv"
+      }
+    },
+    "name": "projects/integral-kiln-490/locations/us-central1/glossaries/a2"
+  }

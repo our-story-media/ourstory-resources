@@ -3,13 +3,13 @@
 <div class="margin">
     <el-divider content-position="left" >
         <div class="options">
-            <i class="el-icon-guide"/> Options:
+            <i class="el-icon-guide"/>
             {{title}}
             </div>
         </el-divider>
-        <p class="content">
+        <div class="content">
             <slot>How you decide to apply some steps in the process are dependent on your particular context. These will be indicated in boxes like this.</slot>
-        </p>
+        </div>
         <el-divider></el-divider>
     </div>
     </div>

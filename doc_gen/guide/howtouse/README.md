@@ -44,7 +44,7 @@ Throughout this guide, the following terminology will be used:
 If field materials are required for an activity (e.g. tablets, cards) these will be indicated here.
 :::
 
-<Materials example="true">
+<Materials title="Materials" example="true">
 
 - Card Deck
 - Dice
@@ -55,7 +55,7 @@ If field materials are required for an activity (e.g. tablets, cards) these will
 At some points in the process, there are actions that need to be performed by you as the lead facilitator.
 :::
 
-<AdminRole title="Lead Facilitator Action" />
+<AdminRole title="Facilitator Action: Lead Facilitator Action" />
 
 ::: warning Tools Required
 We indicate throughout which Indaba tools are required to complete a step in the process using the following icons.
@@ -84,25 +84,13 @@ We indicate throughout which Indaba tools are required to complete a step in the
 At various points in the Indaba process, we support the use of various different methodologies to complete a stage. These are clearly marked with the following:
 :::
 
-<StepOptions title="Bring Your Own Process" />
-
-<!-- ::: warning IFRC Content
-If you are reading this guide and are affiliated with the International Federation of Red Cross and Red Cresent Societies, specific additional content has been developed to support IFRC processes. 
-:::
-
-<RedCross example="true" href="#" /> -->
-
-<!-- ::: warning Example in Context
-We might provide examples of something in action, these are to help explain the process but might not directly relate to your context.
-:::
-
-<Context example="true" /> -->
+<StepOptions title="Options: Bring Your Own Process" />
 
 ::: warning Field Time Advice
 The following item helps guide how long each stage in the process should take, or at least how much time we advise you should leave to give groups appropriate time to complete each task.
 :::
 
-<TimeGuide time="2-3 hours" style="font-size:1.65rem;border-bottom:1px solid #eaecef;font-weight: 600;margin:0;padding:0;line-height:1">Time Guide</TimeGuide>
+<TimeGuide title="2-3 hours" style="font-size:1.65rem;border-bottom:1px solid #eaecef;font-weight: 600;margin:0;padding:0;line-height:1">Time Guide</TimeGuide>
 
 *The title above demonstrates the time guide.*
 
@@ -110,4 +98,4 @@ The following item helps guide how long each stage in the process should take, o
 If you are responsible for training others in performing aspects of the Indaba process, these additional materials are available.
 :::
 
-<TrainingMaterials example="true">Additional content to help with training will appear in boxes like this.</TrainingMaterials>
+<TrainingMaterials title="Training Materials" example="true">Additional content to help with training will appear in boxes like this.</TrainingMaterials>

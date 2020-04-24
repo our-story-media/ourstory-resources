@@ -3,15 +3,15 @@
 div
     .timeguide
         i(class="el-icon-timer")
-        b &nbsp;Time Guide&nbsp;
-        span {{time}}
+        b &nbsp;&nbsp;
+        span {{title}}
     slot
     div(style="clear:both")
 </template>
 
 <script>
 module.exports = {
-    props: ['time']
+    props: ['title']
 }
 </script>
 

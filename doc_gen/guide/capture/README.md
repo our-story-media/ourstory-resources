@@ -1,5 +1,5 @@
 ---
-title: "Step 2: Capture/Review"
+title: "Step 2: Capture / Review"
 ---
 
 <ReadTime />
@@ -26,13 +26,13 @@ Each group should have a set of individual videos which have been tagged.
 
 </Tip>
 
-<TimeGuide time="30 mins">
+<TimeGuide title="30 mins">
 
 ## Onboarding
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -44,9 +44,9 @@ Each group should have a set of individual videos which have been tagged.
 
 <App />
 
-We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example 'interviews' between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
+We recommend that you (either in individual groups, or as a community) walk participants through the basic steps of capturing content on an Android device. This might include example `interviews` between pairs, or stand up demonstrations using volunteers to show how to connect microphones, hold devices and avoid typical video pitfalls.
 
-<AdminRole title="Run the Dashboard">
+<AdminRole title="Facilitator Action: Run the Dashboard">
 
 If using Titan Edition, make sure the Dashboard is running and WiFi is running and connected before attempting to `Join` a device to a shoot. If using Online Edition, this will require Internet connectivity.
 
@@ -59,22 +59,20 @@ If using Titan Edition, make sure the Dashboard is running and WiFi is running a
 This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
 
 1. Make sure each group has an Android device and any additional equipment (microphone etc.).
-1. Connect the device to the WiFi or Internet service and open the Indaba application.
-1. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
-1. Get the group to select the shoot you want them to participate in.
-1. Let the group login, select a Theme and open the camera screen.
+2. Connect the device to the WiFi or Internet service and open the Indaba application.
+3. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
+4. Get the group to select the shoot you want them to participate in.
+5. Let the group login, select a Theme and open the camera screen.
 
 As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without any WiFi or Internet connection.
 
-
-
-<TimeGuide time="3-4 hours (over ~2 days)">
+<TimeGuide title="3-4 hours (over ~2 days)">
 
 ## Capture
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -94,18 +92,21 @@ Each group is now given the opportunity to capture the videos described in the p
 2. Make sure your fingers are not on the screen! 
 3. Use lighting to your advantage
 4. Take a variety of shot footage
-5. Review as you go! 
+5. Review as you go!
+
 :::
 
 ::: warning Ensuring good audio quality
+
 1. Is the microphone plugged in properly? 
 2. Make sure only one person is talking at a time 
 3. If possible, work in quiet areas 
 4. Encourage quiet participants to speak loudly 
 5. Review as you go!
+
 :::
 
-<TimeGuide time="varies depending on content">
+<TimeGuide title="varies depending on content">
 
 ## Upload
 
@@ -116,7 +117,7 @@ Each group is now given the opportunity to capture the videos described in the p
 
 Videos need to be uploaded from each Android device before they can be Reviewed or Tagged. This process is best performed by the Facilitator during breaks with the community.
 
-<AdminRole title="Uploading Content">
+<AdminRole  title="Facilitator Action: Uploading Content">
 
 It is important to build in time into the process to allow content to upload from tablets to the Dashboard. Even when using Titan, this process can take time (> 2 mins per video), so it is often best to start this process in the field if possible, allowing the most content to be available to participants when they want to **Review** or **Create Stories**.
 
@@ -128,13 +129,13 @@ Once content is uploaded from a device it is available to all participants to vi
 
 </AdminRole>
 
-<TimeGuide time="15 mins for each hour of capture ">
+<TimeGuide title="15 mins for each hour of capture ">
 
 ## Review and Tag
 
 </TimeGuide>
 
-<Materials>
+<Materials title="Materials">
 
 - Connection to Indaba Dashboard
 - Android Tablet
@@ -152,11 +153,13 @@ Each group should be supported in watching what they have captured in relation t
 
 - Does the video capture what I wanted to say in the plan?
 - If it does, then apply a `Tag` to that video (this tag may be indicate on the planning sheet from the [Ideation](/guide/ideation/) step).
-- Using notions of 'Introduction' and 'Background', help the group identify missing elements of video to tell their story.
+- Using notions of `Introduction` and `Background`, help the group identify missing elements of video to tell their story.
 - Add these videos to the group plan, and then resume the `Capture` part of the process.
 
-::: warning
-1. Click on the ‘Tagged Videos’ screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
-2. To tag a video, just press on the ‘Tick’ button on the bottom right corner of the ‘Tagged Videos’ tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
+::: warning Tagging
+
+1. Click on the `Tagged Videos` screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
+2. To tag a video, just press on the `Tick` button on the bottom right corner of the `Tagged Videos` tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
 3. Just tap on any video to play it. While you are playing the video, you can tag the videos using the tags displayed on the top left area. You can tap to toggle the tags.
+
 :::
