@@ -71,11 +71,8 @@ It is important to support the community self-selecting these groups, as well as
 
 ## Scoping
 
-Scoping is an important part of the process, allowing the community to explore the key elements of their lived experience that would be valuable to share in the context of your deployment. Scoping can be performed in a variety of ways depending on the purpose of the participatory process, however the end result should always be a small set of stories that have the potential as rich narratives.
-
-**In most cases, the output of the scoping exercise is that each group has exhaustively listed any relevant narrative from their own lives represented in some way on flip-chart paper.**
-
 </TimeGuide>
+
 
 <Materials title="Materials">
 
@@ -86,6 +83,10 @@ Scoping is an important part of the process, allowing the community to explore t
 </Materials>
 
 <Paper />
+
+Scoping is an important part of the process, allowing the community to explore the key elements of their lived experience that would be valuable to share in the context of your deployment. Scoping can be performed in a variety of ways depending on the purpose of the participatory process, however the end result should always be a small set of stories that have the potential as rich narratives.
+
+**In most cases, the output of the scoping exercise is that each group has exhaustively listed any relevant narrative from their own lives represented in some way on flip-chart paper.**
 
 <StepOptions title="Options: Scoping Exercise">
 
