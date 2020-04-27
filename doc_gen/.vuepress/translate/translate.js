@@ -23,7 +23,7 @@ const uuidv4 = require('uuid/v4');
 const yamlFront = require('hexo-front-matter-editor');
 
 // let locales = ['es','fr','ar'];//, 'fr', 'ar'];
-let locales = ['es'];
+let locales = ['es','fr','ar'];
 // let words = ['Español', 'Français', 'عربى'];
 
 let dir = path.join(__dirname, '..', '..');
@@ -119,6 +119,8 @@ async function main() {
     originalmenu.themeConfig.locales[`/${loc}/`].lastUpdated = await translate(originalmenu.themeConfig.lastUpdated, loc);
 
     originalmenu.themeConfig.locales[`/${loc}/`].selectText = await translate('Languages', loc);
+
+    originalmenu.themeConfig.locales[`/${loc}/`].readtime = await translate('min read', loc);
 
     originalmenu.locales[`/${loc}/`].title = await translate(originalmenu.title, loc);
 

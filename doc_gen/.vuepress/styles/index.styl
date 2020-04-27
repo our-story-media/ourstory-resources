@@ -22,7 +22,7 @@ img
 
 .notes
 {
-    float:right;
+    float:inline-end;
     clear:both;
 }
 
@@ -39,8 +39,8 @@ img
 .pullout
 {
     width:200px;
-    float:right;
-    margin-right:-220px;   
+    float:inline-end;
+    margin-inline-end:-220px;   
 }
 
 .theme-default-content:not(.custom)
@@ -74,7 +74,7 @@ img
 .large
 {
     font-size: 40px;
-    float:left;
+    float: inline-start;
 }
 
 iframe
@@ -118,12 +118,6 @@ table
         bottom: 20px;
     }
 }
-
-// .herocard button
-// {
-//     position: absolute;
-//     bottom: 20px;
-// }
 
 .home
 {
@@ -186,8 +180,8 @@ span.next, span.prev
 {
     display block;
     text-align center;
-    float:right;
-    margin-left:0.2em;
+    float:inline-end;
+    margin-inline-start :0.2em;
     margin-top:0.5em;
     margin-bottom:1em;
 }
@@ -245,11 +239,20 @@ button a
     left: 0;
     width: 100.6%;
     height: 100%;
-    margin-left:-5px;
+    margin-inline-start:-5px;
     margin-top:-5px;
 }
 
 span.code
 {
     @extend .theme-default-content code
+}
+
+.el-step.is-center .el-step__line:dir(rtl) {
+  left: -50%
+  right: 50%
+}
+
+.page-nav .next {
+    float: inline-end !important
 }

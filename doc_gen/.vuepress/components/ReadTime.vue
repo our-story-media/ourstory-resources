@@ -2,13 +2,24 @@
 .readingtime
     el-tag(class="readingtime" effect="plain" type="info")
         i(class="el-icon-reading")
-        span &nbsp;{{$page.readingTime.text}}
+        span &nbsp;{{text}}
 </template>
+
+<script>
+export default {
+    computed:{
+        text:function(){
+            return `${Math.round(this.$page.readingTime.minutes)} ${this.$site.themeConfig.locales[this.$localePath].readtime}`
+        }
+    }
+}
+</script>
 
 <style>
 .readingtime
 {   
     text-align: right;
     margin-bottom:-4em;
+    float: inline-end;
 }
 </style>    

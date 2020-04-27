@@ -26,8 +26,7 @@ export default ({
     for (const [name, component] of Object.entries(pageComponents)) {
         Vue.component(name, component)
       }
-    // Vue.use(Cite);
-    
+
     // ...apply enhancements to the app
     router.beforeEach((to, from, next) => {
         /* must call `next` */

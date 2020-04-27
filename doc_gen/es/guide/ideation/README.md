@@ -5,7 +5,9 @@ lang: es-x-mtfrom-en
 <ReadTime/> 
 
 
+
 <Steps :step="1"/> 
+
 
 <h1> Ideación </h1> 
 
@@ -13,15 +15,15 @@ lang: es-x-mtfrom-en
 
  El paso de ideación en el proceso está diseñado para presentar a la comunidad el proceso de Indaba y para apoyarlos a crear sus historias que luego grabarán en video más adelante en el proceso.  
 
- El proceso de Indaba incluye espacios para ejercicios de diseño grupal. Es posible que ya haya establecido métodos para andamiar este proceso, pero si no, el nuestro puede aplicarse fácilmente a la mayoría de los contextos.  
+ El proceso de Indaba incluye espacios para ejercicios de diseño grupal. Es posible que ya haya establecido métodos para andamiaje de este proceso, pero si no, el nuestro puede aplicarse fácilmente a la mayoría de los contextos.  
 
 </Leader> 
 
-::: tip Resultado del paso  
+<Tip title="Resultado del paso"> 
 
  Cada grupo de la comunidad con la que esté trabajando debe tener una hoja de rotafolio con 2-3 historias que quieran contar, etiquetadas en términos de etiquetas clave que se relacionen con sus objetivos.  
 
-:::  
+</Tip> 
 
 <TimeGuide title="1 hora"> 
 
@@ -62,17 +64,14 @@ lang: es-x-mtfrom-en
 
  Indaba está diseñado para trabajar dentro de una comunidad que está organizada en grupos más pequeños y representativos. Esta agrupación depende del contexto y del proyecto. En línea con el proceso de presentación de informes utilizado en toda la organización, hemos utilizado el género y la edad como agrupaciones primarias, por lo que los grupos pueden serlo; hombres, mujeres, ancianos y jóvenes.  
 
- Es importante apoyar a la comunidad en la autoselección de estos grupos, así como dejar en claro el compromiso de tiempo requerido por los participantes para participar en el proceso.  
+ Es importante apoyar a la comunidad a seleccionar estos grupos, así como dejar en claro el compromiso de tiempo requerido por los participantes para participar en el proceso.  
 
 <TimeGuide title="1-2 horas"> 
 
 <h2> Alcance </h2> 
 
- El alcance es una parte importante del proceso, ya que permite a la comunidad explorar los elementos clave de su experiencia vivida que sería valioso compartir en el contexto de su implementación. El alcance se puede realizar de varias maneras dependiendo del propósito del proceso participativo, sin embargo, el resultado final siempre debe ser un pequeño conjunto de historias que tengan el potencial de ser narrativas ricas.  
-
- <strong>En la mayoría de los casos, el resultado del ejercicio de determinación del alcance es que cada grupo ha enumerado exhaustivamente cualquier narrativa relevante de sus propias vidas representada de alguna manera en el papelógrafo.</strong>  
-
 </TimeGuide> 
+
 
 <Materials title="Materiales"> 
 
@@ -83,6 +82,10 @@ lang: es-x-mtfrom-en
 </Materials> 
 
 <Paper/> 
+
+ El alcance es una parte importante del proceso, ya que permite a la comunidad explorar los elementos clave de su experiencia vivida que sería valioso compartir en el contexto de su implementación. El alcance se puede realizar de varias maneras, dependiendo del propósito del proceso participativo, sin embargo, el resultado final siempre debe ser un pequeño conjunto de historias que tengan el potencial de ser narrativas ricas.  
+
+ <strong>En la mayoría de los casos, el resultado del ejercicio de determinación del alcance es que cada grupo ha enumerado exhaustivamente cualquier narrativa relevante de sus propias vidas representada de alguna manera en un papelógrafo.</strong>  
 
 <StepOptions title="Opciones: Ejercicio de alcance"> 
 

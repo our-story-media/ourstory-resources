@@ -56,7 +56,8 @@ module.exports = {
           'Creation',
           'Feedback',
           'Use'
-        ]
+        ],
+        readtime:"min read"
       },
       '/es/': {
         label: 'Español',
@@ -236,7 +237,7 @@ module.exports = {
           'Retour d&#39;information',
           'Utilisation'
         ],
-        lastUpdated: 'Mis à jour',
+        lastUpdated: 'Mise à jour',
         selectText: 'Les langues'
       }
     },
