@@ -34,19 +34,6 @@ This pamphlet is designed to give an outline of the Indaba process for high-leve
 
 *Full bleed print versions and InDesign Files available. Translations coming early 2020.*
 
-<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (PDF) (en)</a> -->
-<!-- <el-dropdown-menu slot="dropdown"> -->
-<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/field-materials/booklet/brochure-en.pdf">Information Pamphlet (ar)</a></el-dropdown-item> -->
-<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-fr.pdf">Information Pamphlet (fr)</a></el-dropdown-item> -->
-<!-- <el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/blob/master/materials/booklet/brochure-es.pdf">Information Pamphlet (es)</a></el-dropdown-item> -->
-<!-- </el-dropdown-menu> -->
-<!-- </el-dropdown> -->
-
-
-<!-- <DownloadLink url="https://github.com/our-story-media/ourstory-resources/tree/master/branding/booklet/">InDesign Files</DownloadLink> -->
-
-<!-- COMING SOON -->
-
 ## Example Consent Form
 
 Consent forms need to be adjusted to any specific deployment. Never just use these without first adjusting them you both your requirements and your community. Do be aware of both the communities literacy level, and the need to clearly explain your consent procedure verbally as well as through a consent form.
@@ -60,8 +47,6 @@ There is often a difference between a `media release` and a `research consent` f
 Stickers are used to link together paper based activities with digital processes to aid understanding and transparency in the process.
 
 They can be printed on standard layout printer label sheets for easy use.
-
-<!-- <DownloadLink type="danger" url="//stickers.pdf">Stickers PDF</DownloadLink> -->
 
 <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">Stickers Template (Word Docx) (en)</a>
 <el-dropdown-menu slot="dropdown">
@@ -93,19 +78,6 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional">Story Cards (Professional Print Files)</DownloadLink>
 
 *Full bleed print versions and InDesign Files available. Translations coming early 2020.*
-
-
-<!-- *To send to a printer to get professionally printed playing cards, use the following:* -->
-
-<!-- <el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-en.pdf">Print Marks Cards (PDF) (en)</a>
-<el-dropdown-menu slot="dropdown">
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-ar.pdf">Print Marks Cards (PDF) (ar)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-fr.pdf">Print Marks Cards (PDF) (fr)</a></el-dropdown-item>
-<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-professional/storycards-marks-es.pdf">Print Marks Cards (PDF) (es)</a></el-dropdown-item>
-</el-dropdown-menu>
-</el-dropdown> -->
-
-<!-- To adjust the cards or add your own, use the [InDesign Files](https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/) -->
 
 ## Dice
 
@@ -162,7 +134,6 @@ _Prices are estimates, other brands and suppliers exist, this is meant only as a
 | 1 | Battery Speaker | 30 GBP | [https://www.amazon.co.uk/gp/product/B016MO90GW/ref=s9\_acsd\_zgift\_hd\_bw\_bfmct9\_c\_x\_w?pf\_rd\_m=A3P5ROKL5A1OLE&pf\_rd\_s=merchandised-search-3&pf\_rd\_r=QT8KXDT73JKEPR3H85TM&pf\_rd\_t=101&pf\_rd\_p=46dd7e12-d969-5548-b29a-0a76f651efd9&pf\_rd\_i=617419011](https://www.amazon.co.uk/gp/product/B016MO90GW/ref=s9_acsd_zgift_hd_bw_bfmct9_c_x_w?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-3&pf_rd_r=QT8KXDT73JKEPR3H85TM&pf_rd_t=101&pf_rd_p=46dd7e12-d969-5548-b29a-0a76f651efd9&pf_rd_i=617419011) |
 | 1 | Battery Projector | 412 GBP | [https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as\_at?slotNum=7&linkCode=g14&imprToken=N29..iMjijff7TCKcSbaww&creativeASIN=B01FSPZCDG&tag=dotdash21-21&th=1](https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as_at?slotNum=7&linkCode=g14&imprToken=N29..iMjijff7TCKcSbaww&creativeASIN=B01FSPZCDG&tag=dotdash21-21&th=1) |
 | 1 | Charging Station | 22 GBP | [https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr\_1\_20?s=electronics&ie=UTF8&qid=1530862198&sr=1-20&keywords=anker+charger](https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr_1_20?s=electronics&ie=UTF8&qid=1530862198&sr=1-20&keywords=anker+charger) |
-
 
 ## Branding
 

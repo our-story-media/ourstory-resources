@@ -57,7 +57,7 @@ module.exports = {
           'Feedback',
           'Use'
         ],
-        readtime:"min read"
+        readtime: 'min read'
       },
       '/es/': {
         label: 'Español',
@@ -118,7 +118,8 @@ module.exports = {
         ],
         lastUpdated: 'Actualizado',
         selectText: 'Idiomas',
-        title: 'Guía'
+        title: 'Guía',
+        readtime: 'lectura mínima'
       },
       '/ar/': {
         label: 'عربى',
@@ -178,7 +179,8 @@ module.exports = {
           'استعمال'
         ],
         lastUpdated: 'محدث',
-        selectText: 'اللغات'
+        selectText: 'اللغات',
+        readtime: 'قراءة دقيقة'
       },
       '/fr/': {
         label: 'Français',
@@ -238,7 +240,8 @@ module.exports = {
           'Utilisation'
         ],
         lastUpdated: 'Mise à jour',
-        selectText: 'Les langues'
+        selectText: 'Les langues',
+        readtime: 'lecture min'
       }
     },
     displayAllHeaders: false,

@@ -44,12 +44,12 @@ lang: es-x-mtfrom-en
 
  Una comparación de características podría ayudar a comprender algunas de las diferencias:  
 
- El | Característica | Indaba | Indaba: Titán |  
- El | : --- | : ---: | : ---: |  
- El | Panel de control para crear y gestionar brotes | ✔ | ✔ |  
- El | Los contribuyentes pueden subir videos para grabar | ✔ | ✔ |  
- El | Optimizado para áreas de conectividad limitada | ✔ | ✔ |  
- El | Recomendado para Monitoreo y Evaluación | ✔ | ✔ |  
- El | ¿Requiere Internet (conexión ascendente)? El | ✔ | El |  
+| Característica | Indaba | Indaba: Titán |  
+| :--- | :---: | :---: |  
+| Panel de control para crear y gestionar brotes | ✔ | ✔ |  
+| Los contribuyentes pueden subir videos para grabar | ✔ | ✔ |  
+| Optimizado para áreas de conectividad limitada | ✔ | ✔ |  
+| Recomendado para Monitoreo y Evaluación | ✔ | ✔ |  
+| ¿Requiere Internet (conexión ascendente)?| ✔ ||  
  El | Optimizado para áreas de conectividad cero | El | ✔ |  
  El | Recomendado para comunidades ubicadas conjuntamente | El | ✔ |  

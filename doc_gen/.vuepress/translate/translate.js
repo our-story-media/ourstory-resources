@@ -23,16 +23,16 @@ const uuidv4 = require('uuid/v4');
 const yamlFront = require('hexo-front-matter-editor');
 
 // let locales = ['es','fr','ar'];//, 'fr', 'ar'];
-let locales = ['es','fr','ar'];
+let locales = ['es'];
 // let words = ['Español', 'Français', 'عربى'];
 
 let dir = path.join(__dirname, '..', '..');
 
 // console.log(dir);
-let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+// let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
 
 //FOR TESTING:
-// let originalfiles = glob.sync('**/capture/README.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
+let originalfiles = glob.sync('**/*.md', { cwd: dir, nodir: true, ignore: ['es/**', 'fr/**', 'ar/**'] });
 
 // console.log(originalfiles)
 // return;
@@ -178,30 +178,41 @@ async function main() {
                         string = _.replace(string,/^(@inproceedings.*)/,'<span class="notranslate">$1</span>')
 
                         // string = entities.encode(string);
-                        console.log(`Translating line ${line}: ${string}`);
+                        // console.log(`Translating line ${line}: ${string}`);
                         // console.log(`Markdown render: ${md.render(string)}`);
-                        string = md.render(string);
+                        string = md.render(string.trim());
+
+                        // console.log(string);
                         
                         string = _.replace(string,/\<code\>(.*?)\<\/code\>/g,'<span class="code">$1</span>');
 
                         string = _.replace(string,/\<a href="\/(.*?)">/g,`<a href="/${loc}/$1">`);
 
                         
-                        
                         let translation = await translate(string, loc);
 
-                        // translation = entities.decode(translation);
+
 
                         newtrans += `${translation} \n`;
                         newtrans = _.replace(newtrans, '/ ','/');
                         newtrans = _.replace(newtrans, ' /','/');
                         newtrans = _.replace(newtrans, '] (','](');
                         newtrans = _.replace(newtrans, /\s\*\*\s(\w*)\s\*\*\s/, " **$1** ");
-                        newtrans = _.replace(newtrans, /\<box mem="(.*)"\/\>/g, "$1");
+                        newtrans = _.replace(newtrans, /<box mem="(.*)"\/>/g, "$1");
+                        newtrans = _.replace(newtrans, /<p.*?>(.*)<\/p>/g, "$1").trimLeft();
+                        
+                        console.log(newtrans);
+                        newtrans = _.replace(newtrans," El |", "|");
 
-                        newtrans = _.replace(newtrans, /\<p\>(.*)\<\/p\>/g, "$1").trimLeft();
+                        // console.log(newtrans);
 
                         newtrans = _.replace(newtrans,/<span .*>(@inproceedings.*?)<\/span>/,'$1')
+                        newtrans = _.replace(newtrans,': ---',':---');
+                        
+                        newtrans = _.replace(newtrans,/<h1>(.*)<\/h1>/,"#$1");
+                        newtrans = _.replace(newtrans,/<h2>(.*)<\/h2>/,"##$1");
+                        newtrans = _.replace(newtrans,/<h3>(.*)<\/h3>/,"###$1");
+                        
 
                         // newtrans = _.replace(newtrans,/\<cod\>(.*?)\<\/cod\>/g,'`$1`');
 
@@ -210,7 +221,7 @@ async function main() {
                         newtrans = _.replace(newtrans, " :::",":::");
                         
 
-                        console.log(`Translation (${loc}): ${newtrans}`);
+                        // console.log(`Translation (${loc}): ${newtrans}`);
                       }
                       else
                       {
