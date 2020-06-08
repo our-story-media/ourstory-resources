@@ -18,8 +18,9 @@ export default {
 <style>
 .readingtime
 {   
-    text-align: right;
+    text-align: end;
     margin-bottom:-4em;
-    float: inline-end;
+    /* float: inline-end; */
+    clear:both;
 }
 </style>    
