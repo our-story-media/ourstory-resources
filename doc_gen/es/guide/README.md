@@ -4,7 +4,7 @@ lang: es-x-mtfrom-en
 ---
 <ReadTime/> 
 
-<h1> ¿Qué es indaba? </h1> 
+# ¿Qué es indaba?  
 
 <Leader> 
 
@@ -30,9 +30,9 @@ lang: es-x-mtfrom-en
 
 </Leader> 
 
-<h2> Indaba en la práctica </h2> 
+## Indaba en la práctica  
 
- <strong>Indonesia (en colaboración con Palang Merah Indonesia):</strong> una iniciativa de monitoreo de video participativo que analiza los comentarios de la comunidad sobre un proyecto de promoción de agua, saneamiento e higiene (WASH) en la región de Kalimantan Oriental, Indonesia.  
+ <strong>Indonesia (en colaboración con Palang Merah Indonesia):</strong> Una iniciativa de monitoreo de video participativo que analiza los comentarios de la comunidad sobre un proyecto de promoción de agua, saneamiento e higiene (WASH) en la región de Kalimantan Oriental, Indonesia.  
 
 <YouTube id="6N8y-uMrMe8"/> 
 
@@ -40,14 +40,14 @@ lang: es-x-mtfrom-en
 
 <YouTube id="n7yMINp1dCQ"/> 
 
- <strong>Egipto (en colaboración con la Media Luna Roja Egipcia):</strong> una iniciativa de video de línea de base participativa que analiza los comentarios de la comunidad para contribuir a la fase de planificación del Programa de Capacitación para Niños en Escuelas de ERC &quot;Salud y Seguridad&quot; en una escuela para sordos en Helwan, Egipto.  
+ <strong>Egipto (en colaboración con la Sociedad de la Media Luna Roja Egipcia):</strong> una iniciativa de video de línea de base participativa que analiza los comentarios de la comunidad para contribuir a la fase de planificación del Programa de capacitación para niños en edad escolar “Salud y seguridad” de ERC en una escuela para sordos en Helwan, Egipto.  
 
 <YouTube id="KNRztuM_J8Q"/> 
 
-<h2> Consideraciones tecnológicas </h2> 
+## Consideraciones tecnológicas  
 
  Aunque las habilidades informáticas avanzadas no son un requisito, algunos conocimientos sobre el uso de computadoras y software serán útiles durante el proceso de configuración. En particular, cierta experiencia en el uso de Android ayudará en el campo, pero no es esencial.  
 
  Indaba Titan <a href="/es/guide/editions/">(ver ediciones)</a> consiste en una aplicación que se ejecuta en una computadora (computadora portátil) que está presente en la ubicación de implementación, junto con una aplicación de Android que se ejecuta en dispositivos móviles que en varios puntos se comunican con la computadora local a través de WiFi.  
 
- No se requiere flujo ascendente (internet) en la ubicación de implementación, y si se usan baterías y administración de energía apropiadas, Indaba se puede implementar en ubicaciones remotas sin energía ni conectividad.  
+ No se requiere upstream (internet) en la ubicación de implementación, y si se usan baterías y administración de energía apropiadas, Indaba se puede implementar en ubicaciones remotas sin energía ni conectividad.  

@@ -4,25 +4,31 @@ home: true
 description: >-
   Indaba es un proceso de video participativo fácil de implementar que permite a
   la voz de la comunidad apoyar a su organización en la captura de historias de
-  video enriquecedoras y significativas de las comunidades.
+  video enriquecidas y significativas de las comunidades.
 heroImage: /platform.svg
 actionLink: /introduction/
 lang: es-x-mtfrom-en
 heroText:
 ---
-<div style="text-align:center"> 
+<div style="text-align:center;margin-bottom:4em;"> 
 
 <el-button type="danger" style="font-size:150%;margin-bottom:1.2em;" plain> <a href="/es/guide/">Saber más <i class="el-icon-right"></i></a> </el-button> 
 
+<div class="google-slides-container"> 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyOXiUQkQxnjCEUKnHgFpYrKYhFAlA1i2wLVlmoofpBbOqEyg2HZNLbQXA-tx8b5ZGSbiS1n2lmRSP/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+</div> 
+
+# Salida resaltada  
+
 <YouTube id="sLGnJQlsZSE"/> 
 
-<h1> Estudios de caso </h1> 
+# Estudios de caso  
 
 <el-row :gutter="12"> 
 
 <CaseStudy title="Supervisión" date="July 2017" place="Berau, Indonesia" img="/imgs/indonesia.jpg"> 
 
- Supervisión de un proyecto de agua y saneamiento PMER (Cruz Roja Indonesia) en curso en Kalimentan rural.  
+ Supervisión de un proyecto de agua y saneamiento de PMER (Cruz Roja Indonesia) en curso en Kalimentan rural.  
 
 </CaseStudy> 
 
@@ -34,7 +40,7 @@ heroText:
 
 <CaseStudy title="Base" date="August 2018" place="Cario, Egypt" img="/imgs/egypt.jpg"> 
 
- Capturar una línea de base con los miembros de la comunidad sorda con respecto a las oportunidades educativas.  
+ Capturar una línea de base con miembros de la comunidad sorda con respecto a las oportunidades educativas.  
 
 </CaseStudy> 
 
@@ -46,12 +52,10 @@ heroText:
 
 <CaseStudy title="Supervisión" date="February 2019" place="Columbia &amp; Honduras" img="/imgs/honduras.jpg"> 
 
- Monitorear los resultados del proyecto Zika en Colombia y Honduras al empoderar la voz en la población local.  
+ Monitorear los resultados del proyecto de Zika en Colombia y Honduras mediante el empoderamiento de la voz en la población local.  
 
 </CaseStudy> 
 
 </el-row> 
 
 </div> 
-
-

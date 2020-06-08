@@ -15,7 +15,7 @@ lang: es-x-mtfrom-en
 <el-tabs> 
 
 
-<el-tab-pane label="Indaba Titan">
+<el-tab-pane label="Indaba Titan"> 
 
  <em>Indaba Titan</em> es una aplicación totalmente fuera de línea (independiente) que se ejecuta en su computadora portátil.  
 
@@ -51,5 +51,5 @@ lang: es-x-mtfrom-en
 | Optimizado para áreas de conectividad limitada | ✔ | ✔ |  
 | Recomendado para Monitoreo y Evaluación | ✔ | ✔ |  
 | ¿Requiere Internet (conexión ascendente)?| ✔ ||  
-| Optimizado para áreas de conectividad cero |  | ✔ |  
-| Recomendado para comunidades ubicadas conjuntamente |  | ✔ |  
+ El | Optimizado para áreas de conectividad cero | El | ✔ |  
+ El | Recomendado para comunidades ubicadas conjuntamente | El | ✔ |  

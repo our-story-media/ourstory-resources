@@ -6,23 +6,23 @@ lang: es-x-mtfrom-en
 
 <Steps :step="4"/> 
 
-<h1> Comentarios de la comunidad </h1> 
+# Comentarios de la comunidad  
 
 <Leader> 
 
- La clave del proceso de Indaba es la presentación de las historias producidas a la comunidad en general. A menudo, esto se acompaña con una comida u otra reunión comunitaria.  
+ La clave del proceso de Indaba es la presentación de las historias producidas a la comunidad en general. A menudo esto se acompaña con una comida u otra reunión comunitaria.  
 
 </Leader> 
 
-::: tip Resultado del paso  
+<Tip title="Resultado del paso"> 
 
  Cada video debería haberse presentado a la comunidad en un entorno de presentación. Las versiones finales de cada video deben estar disponibles para salir con la comunidad en una memoria USB o unidad.  
 
-:::  
+</Tip> 
 
 <TimeGuide title="~ 3 horas"> 
 
-<h2> Reproduciendo videos </h2> 
+## Reproduciendo videos  
 
 </TimeGuide> 
 
@@ -40,7 +40,7 @@ lang: es-x-mtfrom-en
 
 <AdminRole title="Acción del facilitador: presentar videos"> 
 
-<ol><li> Asegúrese de que el Panel de control se esté ejecutando y esté disponible para su dispositivo. </li></ol> 
+<ol><li> Asegúrese de que el Tablero esté funcionando y disponible para su dispositivo. </li></ol> 
 <ol><li> Seleccione uno de los dispositivos Android para usar en su presentación. Tome nota de qué grupo ha iniciado sesión. </li></ol> 
 <ol><li> Para cada Historia en el Tablero que desee presentar, seleccione la opción <span class="code">Clonar</span> , y luego con el clon, seleccione la opción <span class="code">Reasignar al usuario</span> y reasigne al grupo anterior. </li></ol> 
 <ol><li> Conecte el dispositivo Android a su proyector o pantalla. </li></ol> 
@@ -52,7 +52,7 @@ lang: es-x-mtfrom-en
 
 <TimeGuide title="1 hora"> 
 
-<h2> Publicación </h2> 
+## Publicación  
 
 <App/> 
 <Dashboard/> 
@@ -61,7 +61,7 @@ lang: es-x-mtfrom-en
 
 <AdminRole title="Acción del facilitador: publicar historias"> 
 
- Editar y producir los archivos finales de la historia requiere mucha energía de la CPU y la batería (cuando se usa Titan), por lo tanto, recomendamos que los administradores deshabiliten la publicación usando el Tablero hasta que todos los grupos hayan terminado de crear sus historias para evitar el uso innecesario de recursos. Puede volver a habilitar la publicación una vez que esté seguro de que no hay más grupos trabajando en sus videos o que esté al final de la etapa de creación de la historia para todos los grupos. Esto se realiza a través de la opción <span class="code">Panel de</span> control <span class="code">Habilitar publicación</span> .  
+ Editar y producir los archivos finales de la historia requiere mucha energía y batería de la CPU (cuando se usa Titan), por lo tanto, recomendamos que los administradores deshabiliten la publicación usando el Tablero hasta que todos los grupos hayan terminado de crear sus historias para evitar el uso innecesario de recursos. Puede volver a habilitar la publicación una vez que esté seguro de que no hay más grupos trabajando en sus videos o que esté al final de la etapa de creación de la historia para todos los grupos. Esto se realiza a través de la opción <span class="code">Panel de</span> control <span class="code">Habilitar publicación</span> .  
 
  Por lo general, en este punto ya ha copiado cada historia final en una sola cuenta de usuario para que pueda acceder a todas ellas en un dispositivo móvil. Si aún no es así, siga los pasos anteriores.  
 
@@ -73,7 +73,7 @@ lang: es-x-mtfrom-en
 
 </AdminRole> 
 
-<h2> Exportando videos </h2> 
+## Exportando videos  
 
 </TimeGuide> 
 
@@ -89,6 +89,8 @@ lang: es-x-mtfrom-en
 
  Todo el contenido producido durante el proceso se almacena en la computadora que ejecuta Indaba Dashboard. Para obtener estos archivos, el método más fácil es ubicar la Historia en el Tablero y seleccionar la opción <span class="code">Descargar a</span> través del menú de opciones.  
 
-::: tip 
- Recomendamos que transfiera archivos de forma segura a los representantes de la comunidad local para que puedan determinar la forma más adecuada de compartir los videos con las partes interesadas. Hemos hecho esto previamente mediante el uso de unidades flash USB que llevamos con nosotros al campo.  
-:::  
+<Tip> 
+
+ Recomendamos que transfiera los archivos de manera segura a los representantes de la comunidad local para que puedan determinar la forma más adecuada de compartir los videos con las partes interesadas. Anteriormente lo hemos hecho utilizando unidades flash USB que llevamos con nosotros al campo.  
+
+</Tip> 

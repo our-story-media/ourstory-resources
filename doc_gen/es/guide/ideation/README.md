@@ -9,13 +9,13 @@ lang: es-x-mtfrom-en
 <Steps :step="1"/> 
 
 
-<h1> Ideación </h1> 
+# Ideación  
 
 <Leader> 
 
  El paso de ideación en el proceso está diseñado para presentar a la comunidad el proceso de Indaba y para apoyarlos a crear sus historias que luego grabarán en video más adelante en el proceso.  
 
- El proceso de Indaba incluye espacios para ejercicios de diseño grupal. Es posible que ya haya establecido métodos para andamiaje de este proceso, pero si no, el nuestro puede aplicarse fácilmente a la mayoría de los contextos.  
+ El proceso de Indaba incluye espacios para ejercicios de diseño grupal. Es posible que ya haya establecido métodos para andamiar este proceso, pero si no, el nuestro puede aplicarse fácilmente a la mayoría de los contextos.  
 
 </Leader> 
 
@@ -27,7 +27,7 @@ lang: es-x-mtfrom-en
 
 <TimeGuide title="1 hora"> 
 
-<h2> Familiarización </h2> 
+## Familiarización  
 
 </TimeGuide> 
 
@@ -58,17 +58,17 @@ lang: es-x-mtfrom-en
 
 <TimeGuide title="30 minutos"> 
 
-<h2> Selección de grupo </h2> 
+## Selección de grupo  
 
 </TimeGuide> 
 
  Indaba está diseñado para trabajar dentro de una comunidad que está organizada en grupos más pequeños y representativos. Esta agrupación depende del contexto y del proyecto. En línea con el proceso de presentación de informes utilizado en toda la organización, hemos utilizado el género y la edad como agrupaciones primarias, por lo que los grupos pueden serlo; hombres, mujeres, ancianos y jóvenes.  
 
- Es importante apoyar a la comunidad a seleccionar estos grupos, así como dejar en claro el compromiso de tiempo requerido por los participantes para participar en el proceso.  
+ Es importante apoyar a la comunidad en la autoselección de estos grupos, así como dejar en claro el compromiso de tiempo requerido por los participantes para participar en el proceso.  
 
 <TimeGuide title="1-2 horas"> 
 
-<h2> Alcance </h2> 
+## Alcance  
 
 </TimeGuide> 
 
@@ -83,25 +83,25 @@ lang: es-x-mtfrom-en
 
 <Paper/> 
 
- El alcance es una parte importante del proceso, ya que permite a la comunidad explorar los elementos clave de su experiencia vivida que sería valioso compartir en el contexto de su implementación. El alcance se puede realizar de varias maneras, dependiendo del propósito del proceso participativo, sin embargo, el resultado final siempre debe ser un pequeño conjunto de historias que tengan el potencial de ser narrativas ricas.  
+ El alcance es una parte importante del proceso, ya que permite a la comunidad explorar los elementos clave de su experiencia vivida que sería valioso compartir en el contexto de su implementación. El alcance se puede realizar de varias maneras, dependiendo del propósito del proceso participativo, sin embargo, el resultado final siempre debe ser un pequeño conjunto de historias que tengan el potencial de narrativas ricas.  
 
- <strong>En la mayoría de los casos, el resultado del ejercicio de determinación del alcance es que cada grupo ha enumerado exhaustivamente cualquier narrativa relevante de sus propias vidas representada de alguna manera en un papelógrafo.</strong>  
+ <strong>En la mayoría de los casos, el resultado del ejercicio de determinación del alcance es que cada grupo ha enumerado exhaustivamente cualquier narrativa relevante de sus propias vidas representada de alguna manera en papel de rotafolio.</strong>  
 
 <StepOptions title="Opciones: Ejercicio de alcance"> 
 
  <strong>Opción: cartas de historia</strong>  
 
- Cada grupo recibe tarjetas que les ayudan a pensar en preguntas clave para responder para el proyecto y luego. Las tarjetas se seleccionan según los criterios de informe para el proyecto y los valores relacionados con la comunidad. Los grupos escriben las respuestas a las tarjetas en papel de rotafolio.  
+ Cada grupo recibe tarjetas que les ayudan a pensar sobre preguntas clave para responder para el proyecto y luego. Las tarjetas se seleccionan según los criterios de informe para el proyecto y los valores relacionados con la comunidad. Los grupos escriben las respuestas a las tarjetas en papel de rotafolio.  
 
  <strong>Opción: discusión facilitada</strong>  
 
- Cada grupo se facilita en la discusión sobre los temas planteados en las actividades anteriores y el impacto en sus propias vidas. Se los alienta a ubicar ejemplos específicos en sus propias vidas o en las comunidades. Estas son grabadas por un escriba para el grupo.  
+ Cada grupo es facilitado en la discusión sobre los temas planteados en las actividades anteriores y el impacto en sus propias vidas. Se los alienta a ubicar ejemplos específicos en sus propias vidas o en las comunidades. Estas son grabadas por un escriba para el grupo.  
 
 </StepOptions> 
 
 <TimeGuide title="1-2 horas"> 
 
-<h2> Constructora de historias </h2> 
+## Constructora de historias  
 
 </TimeGuide> 
 
@@ -121,7 +121,7 @@ lang: es-x-mtfrom-en
 
  Durante esta actividad, puede usar las siguientes indicaciones para facilitar profundizar en cada historia:  
 
-<ul><li> ¿Quién: a quién afecta o afecta el problema? </li></ul> 
+<ul><li> ¿Quién: quién es el problema o qué afecta? </li></ul> 
 <ul><li> Qué: ¿cuál es el problema? </li></ul> 
 <ul><li> Dónde: ¿dónde está pasando esto? </li></ul> 
 <ul><li> Cuándo: la línea de tiempo para este problema. </li></ul> 
@@ -135,5 +135,5 @@ lang: es-x-mtfrom-en
 
 <img src="/imgs/stickers.jpg" alt="Ejemplo de una caminata fotográfica"> 
 
-<figcaption> Hoja de etiquetas adhesivas utilizadas con grupos para facilitar su narración. </figcaption> 
+<figcaption> Hoja de etiquetas adhesivas utilizadas con grupos para facilitar su narración </figcaption> 
 </figure> 

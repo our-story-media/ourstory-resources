@@ -4,7 +4,7 @@ lang: es-x-mtfrom-en
 ---
 <ReadTime/> 
 
-<h1> Despliegue previo </h1> 
+# Despliegue previo  
 
 <Leader> 
 
@@ -12,7 +12,7 @@ lang: es-x-mtfrom-en
 
 </Leader> 
 
-<h2> Contexto </h2> 
+## Contexto  
 
  Indaba ha sido probado en varios lugares diferentes y para diferentes iniciativas de proyectos/programas (línea de base participativa, monitoreo y evaluación), algunos ejemplos resaltados en la sección anterior. Cuando use Indaba para un proyecto/programa, considere:  
 
@@ -24,13 +24,13 @@ lang: es-x-mtfrom-en
 
  Los métodos de facilitación de Indaba (photowalk, MSC, storycards) se pueden adaptar según lo que se vaya a medir en el proyecto/programa y es un enfoque participativo. Indaba trabaja con la comunidad desde el principio hasta el final de la iniciativa, por lo que es importante contar con la aceptación del líder de la comunidad y la comunidad antes de implementar el proceso de Indaba en el campo.  
 
-<h2> Equipo </h2> 
+## Equipo  
 
 ::: warning Antes de entrar al campo  
- ¡Necesita configurar e instalar la aplicación Indaba antes de ingresar al campo!  
+ ¡Debe configurar e instalar la aplicación Indaba antes de ingresar al campo!  
 :::  
 
- Aunque la infraestructura de Indaba es flexible y se puede utilizar en muchos contextos, necesitará una cantidad mínima de tecnología y materiales para comenzar una implementación.  
+ Aunque la infraestructura de Indaba es flexible y se puede usar en muchos contextos, necesitará una cantidad mínima de tecnología y materiales para comenzar una implementación.  
 
  Use la tabla a continuación para determinar qué versión de Indaba necesitará usar y qué debe tener como mínimo para ejecutar la implementación que necesita.  
 
@@ -65,7 +65,7 @@ lang: es-x-mtfrom-en
 <td> n/A </td> 
 <td> 
 
-<ul><li> computadora portátil/computadora con un mínimo de RAM de 2GB y 10GB de espacio libre en disco </li></ul> 
+<ul><li> computadora portátil/computadora con RAM mínima de 2GB y 10GB de espacio libre en disco </li></ul> 
 <ul><li> Adaptador WiFi para permitir que la computadora y los dispositivos Android se conecten entre sí </li></ul> 
 <ul><li> instalar el software Indaba titan en la computadora portátil/computadora </li></ul> 
 
@@ -78,7 +78,7 @@ lang: es-x-mtfrom-en
 <td colspan="2"> 
 
 <ul><li> Baterías extra para laptop </li></ul> 
-<ul><li> Proyector de video, altavoz </li></ul> 
+<ul><li> Video Proyector, Altavoz </li></ul> 
 <ul><li> Micrófonos de solapa cableados </li></ul> 
 <ul><li> Memorias USB (entregar videos a la comunidad) </li></ul> 
 

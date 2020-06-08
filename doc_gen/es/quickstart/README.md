@@ -2,7 +2,7 @@
 title: Inicio rápido
 lang: es-x-mtfrom-en
 ---
-<h1> Inicio rápido </h1> 
+# Inicio rápido  
 
 <Leader> 
 
@@ -10,7 +10,7 @@ lang: es-x-mtfrom-en
 
 </Leader> 
 
-<h2> Aplicación de tablero </h2> 
+## Aplicación de tablero  
 
 <Leader> 
 
@@ -33,7 +33,7 @@ lang: es-x-mtfrom-en
 <el-col :xs="24" :sm="12"> 
 <el-card class="herocard"> 
 
- <strong>La Edición en línea es para usar en escenarios en los que ha distribuido participantes, o no está ubicado y hay una conectividad a Internet adecuada.</strong>  
+ <strong>La Edición en línea es para usar en escenarios en los que ha distribuido participantes, o no están ubicados y hay una conectividad a Internet adecuada.</strong>  
 
 <LinkButton type="danger" url="/quickstart/online/"> Comience con en línea </LinkButton> 
 
@@ -41,7 +41,7 @@ lang: es-x-mtfrom-en
 </el-col> 
 </el-row> 
 
-<h2> Aplicación de Android </h2> 
+## Aplicación de Android  
 
 <Leader> 
 
@@ -51,11 +51,11 @@ lang: es-x-mtfrom-en
 
 <LinkButton type="danger" url="/quickstart/app"> Aplicación de Android </LinkButton> 
 
-<h2> Configurar un disparo </h2> 
+## Configurar una sesión  
 
 <Leader> 
 
- Cada despliegue en Indaba (grupo de actividad de video de participantes) se representa como un <span class="code">Disparo</span> . A través de un Disparo, gestiona lo que debe capturarse, cómo etiquetar el contenido y quién y cuándo se puede utilizar el proceso. Los disparos se gestionan a través del Tablero.  
+ Cada implementación en Indaba (grupo de actividad de video de participantes) se representa como un <span class="code">Disparo</span> . A través de un Disparo, gestiona lo que debe capturarse, cómo etiquetar el contenido y quién y cuándo se puede utilizar el proceso. Los disparos se gestionan a través del Tablero.  
 
 </Leader> 
 

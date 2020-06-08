@@ -4,36 +4,40 @@ lang: es-x-mtfrom-en
 ---
 <ReadTime/> 
 
-<h1> Como usar esta guia </h1> 
+# Como usar esta guia  
+
+<ClientOnly> 
 
 <Leader> 
 
  Esta guía está escrita para que usted (un facilitador dentro de su organización) pueda tomar el proceso de Indaba y aplicarlo a su contexto. Hemos hecho algunas suposiciones sobre la configuración de su contexto para facilitar la comprensión de la guía:  
 
 <ul><li> Asumimos que usted es parte de una organización/grupo que desea capturar video de una comunidad con la que tiene acceso directo. </li></ul> 
-<ul><li> Asumimos que no tiene experiencia profesional en video o producción. </li></ul> 
+<ul><li> Suponemos que no tiene experiencia profesional en video o producción. </li></ul> 
 <ul><li> Suponemos que tiene un conjunto de temas (criterios) en los que desea que la comunidad exprese su voz. </li></ul> 
 
  Tenga cuidado con los siguientes volantes para obtener más información:  
 
 </Leader> 
 
-<h2> Terminología </h2> 
+</ClientOnly> 
+
+## Terminología  
 
  A lo largo de esta guía, se utilizará la siguiente terminología:  
 
- El | Plazo | Contexto |  
+| Plazo | Contexto |  
  | ------ | --------- |  
  | Facilitador | Un miembro de la organización que está ejecutando el proceso de Indaba y que ha recibido capacitación en el uso de herramientas y materiales de Indaba. |  
  | Despliegue | Una visita de campo con Indaba que dura ~ 5 días a una sola comunidad. |  
  Disparar | Una única instancia de Indaba que se utiliza en un solo contexto de implementación. Los disparos se gestionan desde el panel.  
  | Historia | El video resultante creado al final del proceso. Los brotes generalmente producen 4-5 historias, una de cada grupo y otra de la comunidad en general.  
  | Participante | Un miembro de la comunidad que participa en el proceso de Indaba. |  
- | Voluntario | Un miembro de la comunidad u organización local que está asistiendo de manera transitoria al facilitador en el campo. |  
- | Panel | La aplicación (sitio web) utilizada para controlar varios aspectos del proceso digital de Indaba. |  
+ | Voluntario | Un miembro de la comunidad u organización local que está ayudando transitoriamente al facilitador en el campo. |  
+ | Panel | La aplicación (sitio web) utilizada para controlar diversos aspectos del proceso digital de Indaba. |  
  | Grupo | Un grupo de participantes que participan en el proceso como un equipo, generalmente dentro de un grupo demográfico (es decir, Ancianos). |  
 
-<h2> Flyouts </h2> 
+## Flyouts  
 
 ::: warning Materiales de campo requeridos  
  Si se requieren materiales de campo para una actividad (por ejemplo, tabletas, tarjetas), se indicarán aquí.  
@@ -47,7 +51,7 @@ lang: es-x-mtfrom-en
 </Materials> 
 
 ::: warning Acción del facilitador  
- En algunos puntos del proceso, hay acciones que usted debe realizar como facilitador principal.  
+ En algunos puntos del proceso, hay acciones que debe realizar usted como facilitador principal.  
 :::  
 
 <AdminRole title="Acción del facilitador: acción del facilitador principal"/> 
@@ -82,7 +86,7 @@ lang: es-x-mtfrom-en
 <StepOptions title="Opciones: Traiga su propio proceso"/> 
 
 ::: warning Consejo de tiempo de campo  
- El siguiente elemento ayuda a guiar cuánto tiempo debe tomar cada etapa del proceso, o al menos cuánto tiempo le aconsejamos que deje para dar a los grupos el tiempo apropiado para completar cada tarea.  
+ El siguiente elemento ayuda a guiar cuánto tiempo debe tomar cada etapa del proceso, o al menos cuánto tiempo le aconsejamos que deje para dar a los grupos el tiempo adecuado para completar cada tarea.  
 :::  
 
 <TimeGuide title="2-3 horas" style="font-size:1.65rem;border-bottom:1px solid #eaecef;font-weight: 600;margin:0;padding:0;line-height:1"> Guia de tiempo </TimeGuide> 

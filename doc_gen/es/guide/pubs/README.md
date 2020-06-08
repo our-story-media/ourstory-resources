@@ -2,7 +2,7 @@
 title: Publicaciones y prensa
 lang: es-x-mtfrom-en
 ---
-<h1> Publicaciones y prensa </h1> 
+# Publicaciones y prensa  
 
 <ClientOnly> 
 
@@ -14,21 +14,21 @@ lang: es-x-mtfrom-en
 
 </ClientOnly> 
 
-<h2> Reportes y Blogs </h2> 
+## Reportes y Blogs  
 
  <strong>Lecciones aprendidas en video participativo Gambia: Mejorando el acceso de las mujeres más desfavorecidas a recursos productivos y sostenibles en Kiang West</strong> \  
  <a href="http://adore.ifrc.org/Download.aspx?FileId=295874&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=295874&amp;.pdf</a>  
 
- <strong>Informe de línea de base de video participativo para el programa de capacitación para niños en edad escolar “Salud y seguridad”</strong> \  
+ <strong>Informe de línea de base de video participativo para el programa de capacitación de niños en edad escolar “Salud y seguridad”</strong> \  
  <a href="http://adore.ifrc.org/Download.aspx?FileId=228136&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=228136&amp;.pdf</a>  
 
  <strong>Informe de evaluación de video participativo: Acción comunitaria sobre el proyecto Zika en Honduras y Colombia</strong> \  
  <a href="http://adore.ifrc.org/Download.aspx?FileId=255283&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=255283&amp;.pdf</a>  
 
- <strong>Un proceso de monitoreo de video participativo usando &quot;Nuestra historia&quot; en Indonesia y Namibia</strong> \  
+ <strong>Un proceso de monitoreo de video participativo utilizando &quot;Nuestra historia&quot; en Indonesia y Namibia</strong> \  
  <a href="http://adore.ifrc.org/Download.aspx?FileId=240861&amp;.pdf">http://adore.ifrc.org/Download.aspx?FileId=240861&amp;.pdf</a>  
 
-<h2> Publicaciones de investigación </h2> 
+## Publicaciones de investigación  
 
 <ClientOnly> 
 

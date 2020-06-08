@@ -4,7 +4,7 @@ lang: es-x-mtfrom-en
 ---
 <ReadTime/> 
 
-<h1> Instalar software en dispositivos </h1> 
+# Instalar software en dispositivos  
 
 <Leader> 
 
@@ -13,9 +13,11 @@ lang: es-x-mtfrom-en
 
 </Leader> 
 
-::: tip 
+<Tip> 
+
  Se le solicitará que habilite Fuentes desconocidas al instalar esta aplicación, esto es normal para aplicaciones que no son de Google Play Store y está bien aceptarlo en este caso.  
-:::  
+
+</Tip> 
 
  Para en línea:  
 
