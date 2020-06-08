@@ -4,18 +4,18 @@ lang: es-x-mtfrom-en
 ---
 <ReadTime/> 
 
-<h1> ¿Qué edición es adecuada para mí? </h1> 
+# ¿Qué edición es adecuada para mí?  
 
 <Leader> 
 
- Indaba e Indaba: Titan se han desarrollado en asociación con la Federación Internacional de la Cruz Roja y la Media Luna Roja. Ambas variantes contienen características que son útiles para los contextos de Desarrollo Internacional, y están diseñadas para ser apoyadas por un equipo de facilitadores en el campo.  
+ Indaba e Indaba: Titan se han desarrollado en asociación con la Federación Internacional de la Cruz Roja y la Media Luna Roja. Ambas variantes contienen características que son útiles para contextos de desarrollo internacional, y están diseñadas para ser apoyadas por un equipo de facilitadores en el campo.  
 
 </Leader> 
 
 <el-tabs> 
 
 
-<el-tab-pane label="Indaba Titan"> 
+<el-tab-pane label="Indaba Titan">
 
  <em>Indaba Titan</em> es una aplicación totalmente fuera de línea (independiente) que se ejecuta en su computadora portátil.  
 
@@ -28,7 +28,7 @@ lang: es-x-mtfrom-en
 </el-tab-pane> 
 <el-tab-pane label="Indaba Online"> 
 
- La edición en <em>línea</em> de Indaba es la más adecuada para su uso en situaciones limitadas (pero disponibles en 3G/Internet).  
+ La edición en <em>línea</em> de Indaba es la más adecuada para su uso en situaciones limitadas (pero disponibles 3G/Internet).  
 
  Todo lo que necesita es un navegador web, diríjase a <a href="https://app.indaba.dev">app.indaba.dev</a> y comience una nueva sesión. Obtendrá un código único para su sesión, que puede compartir con sus participantes. Los participantes pueden ingresar el código en la aplicación <a href="https://play.google.com/store/apps/details?id=dev.indaba.app">Indaba</a> en su teléfono o tableta. ¡Estás listo para ir!  
 
@@ -40,7 +40,7 @@ lang: es-x-mtfrom-en
 
 </el-tabs> 
 
-<h2> Comparación de características </h2> 
+## Comparación de características  
 
  Una comparación de características podría ayudar a comprender algunas de las diferencias:  
 
@@ -51,5 +51,5 @@ lang: es-x-mtfrom-en
 | Optimizado para áreas de conectividad limitada | ✔ | ✔ |  
 | Recomendado para Monitoreo y Evaluación | ✔ | ✔ |  
 | ¿Requiere Internet (conexión ascendente)?| ✔ ||  
- El | Optimizado para áreas de conectividad cero | El | ✔ |  
- El | Recomendado para comunidades ubicadas conjuntamente | El | ✔ |  
+| Optimizado para áreas de conectividad cero |  | ✔ |  
+| Recomendado para comunidades ubicadas conjuntamente |  | ✔ |  

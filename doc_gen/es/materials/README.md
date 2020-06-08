@@ -65,9 +65,6 @@ lang: es-x-mtfrom-en
 
  La guía de bolsillo es un folleto de bolsillo diseñado para ser entregado a voluntarios en el campo para ayudarlos en el proceso. Cada página de la guía responde a un paso en el proceso e incluye recordatorios simples sobre elementos clave y actividades que deben realizarse.  
 
-
-<!-- <DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">Pocket Guide (PDF) (en)</DownloadLink> --> 
-
 <el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">Guía de bolsillo (PDF) (en)</a>  
 <el-dropdown-menu slot="dropdown"> 
 <el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-es.pdf">Guía de bolsillo (PDF) (es)</a> </el-dropdown-item> 
@@ -85,7 +82,12 @@ lang: es-x-mtfrom-en
 
  <em>Para imprimirlos usted mismo en una impresora A4 normal, use los siguientes archivos. Estos deben imprimirse a <strong>doble</strong> <strong>cara</strong> y en <strong>varias páginas</strong> para lograr los resultados correctos de frente a frente.</em>  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf"> Story Cards - A4 Print (PDF) (es) </DownloadLink> 
+<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (es)</a>  
+<el-dropdown-menu slot="dropdown"> 
+<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Story Cards - A4 Print (PDF) (es)</a> </el-dropdown-item> 
+</el-dropdown-menu> 
+
+</el-dropdown> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Fichas (archivos de impresión profesionales) </DownloadLink> 
 
