@@ -22,7 +22,12 @@ Some of these documents are provided as templates so that you can adjust to your
 
 The International Federation of Red Cross and Red Crescent Societies have developed the following training manual which explains the Indaba process, the various contexts where it has been carried out, its different phases, and the tools and resources needed to run an Indaba participatory video initiative for monitoring and evaluation and/or other contexts.
 
-<RedCross example="false" href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual.pdf">IFRC Training Manual (PDF) (en)</RedCross>
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-en.pdf">IFRC Training Manual (PDF) (en)</a>
+<el-dropdown-menu slot="dropdown">
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-es.pdf">IFRC Training Manual (PDF) (es)</a></el-dropdown-item>
+</el-dropdown-menu>
+
+</el-dropdown>
 
 ## Information Pamphlet
 
@@ -60,10 +65,14 @@ They can be printed on standard layout printer label sheets for easy use.
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">Pocket Guide (PDF) (en)</a>
+<el-dropdown-menu slot="dropdown">
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-es.pdf">Pocket Guide (PDF) (es)</a></el-dropdown-item>
+</el-dropdown-menu>
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/field-guide-selfprint-en.pdf">Pocket Guide (PDF) (en)</DownloadLink>
+</el-dropdown>
 
-<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/">Pocket Guide (Professional Print Files)</DownloadLink>
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional">Pocket Guide (Professional Print Files)</DownloadLink>
 
 *Full bleed print versions and InDesign Files available. Translations coming early 2020.*
 
@@ -73,7 +82,12 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 *To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** and **multipage** to achieve the correct back-to-front results.*
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (en)</DownloadLink>
+<el-dropdown split-button type="danger"><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (en)</a>
+<el-dropdown-menu slot="dropdown">
+<el-dropdown-item><a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Story Cards - A4 Print (PDF) (es)</a></el-dropdown-item>
+</el-dropdown-menu>
+
+</el-dropdown>
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional">Story Cards (Professional Print Files)</DownloadLink>
 
