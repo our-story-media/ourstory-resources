@@ -33,9 +33,13 @@ lang: es-x-mtfrom-en
 
  Este folleto está diseñado para dar un resumen del proceso de Indaba solo para información de alto nivel. Para imprimir en A4 y doblar en un folleto <a href="https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg">tríptico (1)</a> .  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf"> Tríptico (PDF) (en) </DownloadLink> 
+<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf">Tríptico (PDF) (en)</a>  
+<el-dropdown-menu slot="dropdown"> 
+<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-es.pdf">Tríptico (PDF) (es)</a> </el-dropdown-item> 
+</el-dropdown-menu> 
+</el-dropdown> 
 
-<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesional) </DownloadLink> 
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesionales) </DownloadLink> 
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
@@ -84,7 +88,7 @@ lang: es-x-mtfrom-en
 
 <el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (es)</a>  
 <el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Story Cards - A4 Print (PDF) (es)</a> </el-dropdown-item> 
+<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Story Cards - Impresión A4 (PDF) (es)</a> </el-dropdown-item> 
 </el-dropdown-menu> 
 
 </el-dropdown> 
@@ -105,7 +109,7 @@ lang: es-x-mtfrom-en
 
 ## Lista de equipos de referencia  
 
- Puede utilizar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
+ Puede usar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
 
 <Tip> 
 
