@@ -4,6 +4,12 @@ sidebar: auto
 sidebarDepth: 1
 ---
 
+<Banner>
+
+In response to current worldwide changes in working practices, we are currently working on updated resources for socially and physically distanced field deployments.
+
+</Banner>
+
 # Materials
 
 <Leader>

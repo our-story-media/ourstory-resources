@@ -21,3 +21,7 @@ Edit files in the `doc_gen` folder.
 To deploy to live site:
 
 `npm run docs:build && git commit -am"docs update" && git push`
+
+## Translation
+
+To update the machine translation, run `doc_gen\.vuepress\translate npm start`.

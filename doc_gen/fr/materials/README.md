@@ -4,6 +4,12 @@ sidebar: auto
 sidebarDepth: 1
 lang: fr-x-mtfrom-en
 ---
+<Banner> 
+
+ En réponse aux changements mondiaux actuels dans les pratiques de travail, nous travaillons actuellement sur des ressources mises à jour pour des déploiements sur le terrain socialement et physiquement éloignés.  
+
+</Banner> 
+
 # Matériaux  
 
 <Leader> 

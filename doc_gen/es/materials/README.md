@@ -4,6 +4,12 @@ sidebar: auto
 sidebarDepth: 1
 lang: es-x-mtfrom-en
 ---
+<Banner> 
+
+ En respuesta a los cambios mundiales actuales en las prácticas de trabajo, actualmente estamos trabajando en recursos actualizados para despliegues de campo social y físicamente distanciados.  
+
+</Banner> 
+
 # Materiales  
 
 <Leader> 

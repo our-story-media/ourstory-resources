@@ -4,6 +4,12 @@ sidebar: auto
 sidebarDepth: 1
 lang: ar-x-mtfrom-en
 ---
+<Banner> 
+
+ استجابة للتغيرات العالمية الحالية في ممارسات العمل ، نعمل حاليًا على موارد محدثة لعمليات النشر الميدانية البعيدة اجتماعيًا وماديًا.  
+
+</Banner> 
+
 <h1 style=";text-align:right;direction:rtl"> المواد </h1> 
 
 <Leader> 
