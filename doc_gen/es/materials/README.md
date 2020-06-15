@@ -22,24 +22,15 @@ lang: es-x-mtfrom-en
 
  La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja ha desarrollado el siguiente manual de capacitación que explica el proceso de Indaba, los diversos contextos donde se ha llevado a cabo, sus diferentes fases y las herramientas y recursos necesarios para ejecutar una iniciativa de video participativo de Indaba para monitoreo y evaluación y/u otros contextos.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-en.pdf">Manual de capacitación de la Federación Internacional (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-es.pdf">Manual de capacitación de la Federación Internacional (PDF)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Manual de capacitación de la Federación Internacional (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
 ## Folleto informativo  
 
  Este folleto está diseñado para dar un resumen del proceso de Indaba solo para información de alto nivel. Para imprimir en A4 y doblar en un folleto <a href="https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg">tríptico (1)</a> .  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf">Tríptico (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-es.pdf">Tríptico (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-</el-dropdown> 
+<translated-dropdown title="Tríptico (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-%%.pdf"/> 
 
-<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesionales) </DownloadLink> 
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesional) </DownloadLink> 
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
@@ -49,7 +40,7 @@ lang: es-x-mtfrom-en
 
  A menudo hay una diferencia entre un <span class="code">comunicado de prensa</span> y un formulario de <span class="code">consentimiento de investigación</span> , ya que estos pueden cubrir diferentes partes de los medios generados por la comunidad. Es posible que necesite una combinación de los dos.  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template.docx"> Ejemplo de consentimiento (Word Docx) </DownloadLink> 
+<translated-dropdown title="Ejemplo de consentimiento (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
 ## Pegatinas  
 
@@ -57,24 +48,14 @@ lang: es-x-mtfrom-en
 
  Se pueden imprimir en hojas de etiquetas de impresora de diseño estándar para facilitar su uso.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">Plantilla de pegatinas (Word Docx) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">Plantilla de pegatinas (Word Docx) (ar)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-fr.docx">Plantilla de pegatinas (Word Docx) (fr)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Plantilla de pegatinas (Word Docx) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-</el-dropdown> 
+<translated-dropdown title="Plantilla de pegatinas (Word docx)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-%%.docx"/> 
+
 
 ## Guía de bolsillo  
 
  La guía de bolsillo es un folleto de bolsillo diseñado para ser entregado a voluntarios en el campo para ayudarlos en el proceso. Cada página de la guía responde a un paso en el proceso e incluye recordatorios simples sobre elementos clave y actividades que deben realizarse.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">Guía de bolsillo (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-es.pdf">Guía de bolsillo (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Guía de bolsillo (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> Guía de bolsillo (archivos de impresión profesionales) </DownloadLink> 
 
@@ -86,12 +67,7 @@ lang: es-x-mtfrom-en
 
  <em>Para imprimirlos usted mismo en una impresora A4 normal, use los siguientes archivos. Estos deben imprimirse a <strong>doble</strong> <strong>cara</strong> y en <strong>varias páginas</strong> para lograr los resultados correctos de frente a frente.</em>  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Story Cards - A4 Print (PDF) (es)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Story Cards - Impresión A4 (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Story Cards - Impresión A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Fichas (archivos de impresión profesionales) </DownloadLink> 
 
@@ -109,7 +85,7 @@ lang: es-x-mtfrom-en
 
 ## Lista de equipos de referencia  
 
- Puede usar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
+ Puede utilizar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
 
 <Tip> 
 
@@ -127,7 +103,7 @@ lang: es-x-mtfrom-en
 
 <ul><li> Mínimo de 4 dispositivos Android (teléfonos o tabletas) </li></ul> 
 <ul><li> Versión de Android&gt; 5.0 </li></ul> 
-<ul><li> Portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
+<ul><li> Computadora portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
 <ul><li> Se prefiere Windows 10 Professional/Education o Mac OSX. </li></ul> 
 <ul><li> Se requiere acceso de administrador (para instalar aplicaciones) </li></ul> 
 <ul><li> Enrutador WiFi portátil </li></ul> 

@@ -23,7 +23,7 @@ const uuidv4 = require('uuid/v4');
 const yamlFront = require('hexo-front-matter-editor');
 
 // let locales = ['es','fr','ar'];//, 'fr', 'ar'];
-let locales = ['es'];
+let locales = ['es','fr','ar'];
 // let words = ['Español', 'Français', 'عربى'];
 
 let dir = path.join(__dirname, '..', '..');

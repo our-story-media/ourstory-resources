@@ -22,18 +22,13 @@ lang: ar-x-mtfrom-en
 
  طور الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر دليل التدريب التالي الذي يشرح عملية إندابا ، والسياقات المختلفة التي نفذت فيها ، ومراحلها المختلفة ، والأدوات والموارد اللازمة لتشغيل مبادرة إندابا بالفيديو التشاركي من أجل الرصد والتقييم و/أو سياقات أخرى.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-en.pdf">دليل التدريب الصادر عن الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-es.pdf">دليل التدريب الصادر عن الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر (PDF) (ملفات)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="دليل التدريب الصادر عن الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
 <h2 style=";text-align:right;direction:rtl"> كتيب المعلومات </h2> 
 
  تم تصميم هذا الكتيب لإعطاء مخطط لعملية إندابا للحصول على معلومات عالية المستوى فقط. تطبع على A4 وتطوى في كتيب <a href="https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg">ثلاثي الطي (1)</a> .  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf"> أضعاف (PDF) (en) </DownloadLink> 
+<translated-dropdown title="ثلاثي الطي (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> ثلاثي الطي (ملفات طباعة احترافية) </DownloadLink> 
 
@@ -43,9 +38,9 @@ lang: ar-x-mtfrom-en
 
  يجب تعديل نماذج الموافقة على أي نشر محدد. لا تستخدم هذه الأشياء أبدًا دون تعديلها أولاً حسب متطلباتك ومجتمعك. كن على دراية بمستوى محو الأمية في المجتمعات المحلية ، والحاجة إلى شرح إجراء الموافقة بوضوح شفهيًا وكذلك من خلال نموذج الموافقة.  
 
- غالبًا ما يكون هناك اختلاف بين <span class="code">بيان إعلامي ونموذج</span> <span class="code">الموافقة على البحث</span> ، حيث قد يغطيان أجزاء مختلفة من الوسائط التي تم إنشاؤها بواسطة المجتمع. قد تحتاج إلى مزيج من الاثنين.  
+ غالبًا ما يكون هناك اختلاف بين <span class="code">بيان إعلامي ونموذج</span> <span class="code">موافقة بحثية</span> ، حيث قد تغطي هذه الأجزاء المختلفة من الوسائط التي تم إنشاؤها بواسطة المجتمع. قد تحتاج إلى مزيج من الاثنين.  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template.docx"> مثال للموافقة (Word Docx) </DownloadLink> 
+<translated-dropdown title="مثال للموافقة (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
 <h2 style=";text-align:right;direction:rtl"> ملصقات </h2> 
 
@@ -53,24 +48,14 @@ lang: ar-x-mtfrom-en
 
  يمكن طباعتها على أوراق ملصقات طابعة التخطيط القياسية للاستخدام السهل.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">قالب ملصقات (Word Docx) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">قالب ملصقات (Word Docx) (عربي)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-fr.docx">قالب ملصقات (Word Docx) (fr)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">قالب ملصقات (Word Docx) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-</el-dropdown> 
+<translated-dropdown title="قالب ملصقات (Word docx)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-%%.docx"/> 
+
 
 <h2 style=";text-align:right;direction:rtl"> دليل الجيب </h2> 
 
  دليل الجيب هو كتيب بحجم الجيب مصمم لإعطائه للمتطوعين في الميدان لمساعدتهم في هذه العملية. تستجيب كل صفحة في الدليل لخطوة في العملية ، وتتضمن تذكيرات بسيطة بالعناصر والأنشطة الرئيسية التي يجب تنفيذها.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">دليل الجيب (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-es.pdf">دليل الجيب (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="دليل الجيب (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> دليل الجيب (ملفات الطباعة الاحترافية) </DownloadLink> 
 
@@ -82,12 +67,7 @@ lang: ar-x-mtfrom-en
 
  <em>لطباعة هذه الصور بنفسك على طابعة A4 عادية ، استخدم الملفات التالية. يجب طباعة هذه الطباعة على <strong>الوجهين</strong> <strong>والمضاعفات</strong> لتحقيق النتائج الصحيحة من الخلف إلى الأمام.</em>  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">بطاقات القصة - طباعة A4 (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">بطاقات القصة - طباعة A4 (PDF) (ملفات)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="بطاقات القصة - طباعة A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> بطاقات القصة (ملفات الطباعة الاحترافية) </DownloadLink> 
 
@@ -124,7 +104,7 @@ lang: ar-x-mtfrom-en
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> 4 أجهزة Android على الأقل (إما الهواتف أو الأجهزة اللوحية) </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> إصدار Android&gt; 5.0 </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> كمبيوتر محمول قوي بشكل معقول (&gt; = 8 غيغابايت من ذاكرة الوصول العشوائي ، 100 غيغابايت من محرك الأقراص الثابتة ، 4 النواة) </li></ul> 
-<ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> يفضل استخدام Windows 10 Professional/Education أو Mac OSX. </li></ul> 
+<ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> يُفضل استخدام Windows 10 Professional/Education أو Mac OSX. </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> يلزم وصول المسؤول (لتثبيت التطبيقات) </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> راوتر واي فاي محمول </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> سيؤدي ذلك إلى تمكين الأجهزة من الاتصال لاسلكيًا بالكمبيوتر المحمول </li></ul> 

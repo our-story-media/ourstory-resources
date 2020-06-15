@@ -22,18 +22,13 @@ lang: fr-x-mtfrom-en
 
  La Fédération internationale des sociétés de la Croix-Rouge et du Croissant-Rouge a élaboré le manuel de formation suivant qui explique le processus d&#39;Indaba, les différents contextes où il a été mené, ses différentes phases et les outils et ressources nécessaires pour exécuter une initiative vidéo participative Indaba pour suivi et évaluation et/ou autres contextes.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-en.pdf">Manuel de formation de la FICR (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-es.pdf">Manuel de formation de la FICR (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Manuel de formation de la FICR (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
 ## Brochure d&#39;information  
 
  Cette brochure est conçue pour donner un aperçu du processus Indaba pour les informations de haut niveau uniquement. À imprimer sur A4 et à plier en un livret à <a href="https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg">trois volets (1)</a> .  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-en.pdf"> Tri-fold (PDF) (en) </DownloadLink> 
+<translated-dropdown title="Tri-fold (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tri-fold (fichiers d&#39;impression professionnels) </DownloadLink> 
 
@@ -41,11 +36,11 @@ lang: fr-x-mtfrom-en
 
 ## Exemple de formulaire de consentement  
 
- Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez jamais de les utiliser sans d&#39;abord les ajuster à la fois à vos besoins et à votre communauté. Soyez conscient du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement et par le biais d&#39;un formulaire de consentement.  
+ Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez jamais de les utiliser sans d&#39;abord les adapter à vos besoins et à votre communauté. Soyez conscient du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement et par le biais d&#39;un formulaire de consentement.  
 
  Il y a souvent une différence entre un <span class="code">communiqué de presse</span> et un formulaire de <span class="code">consentement à la recherche</span> , car ils peuvent couvrir différentes parties des médias générés par la communauté. Vous devrez peut-être une combinaison des deux.  
 
-<DownloadLink type="danger" url="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template.docx"> Exemple de consentement (Word Docx) </DownloadLink> 
+<translated-dropdown title="Exemple de consentement (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
 ## Autocollants  
 
@@ -53,24 +48,14 @@ lang: fr-x-mtfrom-en
 
  Ils peuvent être imprimés sur des feuilles d&#39;étiquettes d&#39;imprimante de mise en page standard pour une utilisation facile.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-en.docx">Modèle d&#39;autocollants (Word Docx) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-ar.docx">Modèle d&#39;autocollants (Word Docx) (ar)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-fr.docx">Modèle d&#39;autocollants (Word Docx) (en)</a> </el-dropdown-item> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-es.docx">Modèle d&#39;autocollants (Word Docx) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-</el-dropdown> 
+<translated-dropdown title="Modèle d&#39;autocollants (Word docx)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-%%.docx"/> 
+
 
 ## Guide de poche  
 
  Le guide de poche est un livret de poche conçu pour être remis aux volontaires sur le terrain pour les aider dans le processus. Chaque page du guide répond à une étape du processus et comprend des rappels simples sur les éléments clés et les activités à effectuer.  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-en.pdf">Guide de poche (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-es.pdf">Guide de poche (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Guide de poche (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> Guide de poche (fichiers d&#39;impression professionnels) </DownloadLink> 
 
@@ -82,12 +67,7 @@ lang: fr-x-mtfrom-en
 
  <em>Pour les imprimer vous-même sur une imprimante A4 normale, utilisez les fichiers suivants. Ceux-ci doivent être imprimés en <strong>duplex</strong> et en plusieurs <strong>pages</strong> pour obtenir les résultats recto verso corrects.</em>  
 
-<el-dropdown split-button type="danger"> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-en.pdf">Cartes de récit - Impression A4 (PDF) (en)</a>  
-<el-dropdown-menu slot="dropdown"> 
-<el-dropdown-item> <a href="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-es.pdf">Cartes de récit - Impression A4 (PDF) (es)</a> </el-dropdown-item> 
-</el-dropdown-menu> 
-
-</el-dropdown> 
+<translated-dropdown title="Cartes de l&#39;histoire - impression A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Cartes d&#39;histoire (fichiers d&#39;impression professionnels) </DownloadLink> 
 
