@@ -20,7 +20,7 @@ lang: es-x-mtfrom-en
  Algunos de estos documentos se proporcionan como plantillas para que pueda ajustarse a su propio contexto, o en algunas circunstancias es posible que desee ajustar los recursos existentes, en situaciones como:  
 
 <ul><li> Traducción de contenido a un nuevo idioma </li></ul> 
-<ul><li> Refinamiento de etiquetas usadas para coincidir con su flujo de trabajo </li></ul> 
+<ul><li> Refinamiento de las etiquetas utilizadas para que coincida con su flujo de trabajo. </li></ul> 
 
 </Leader> 
 
@@ -36,7 +36,7 @@ lang: es-x-mtfrom-en
 
 <translated-dropdown title="Tríptico (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/booklet/brochure-%%.pdf"/> 
 
-<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesional) </DownloadLink> 
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesionales) </DownloadLink> 
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
@@ -73,15 +73,22 @@ lang: es-x-mtfrom-en
 
  <em>Para imprimirlos usted mismo en una impresora A4 normal, use los siguientes archivos. Estos deben imprimirse a <strong>doble</strong> <strong>cara</strong> y en <strong>varias páginas</strong> para lograr los resultados correctos de frente a frente.</em>  
 
-<translated-dropdown title="Story Cards - Impresión A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
+<translated-dropdown title="Imprimir múltiples (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
-<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Fichas (archivos de impresión profesionales) </DownloadLink> 
+ <em>Las tarjetas también están disponibles en gran formato. Están diseñados para imprimirse en páginas individuales y doblarse en el centro.</em>  
+
+<translated-dropdown title="Imprimir en gran formato (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-A4-%%.pdf"/> 
+
+<translated-dropdown title="Gran formato (Carta) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Fichas (archivos de impresión profesionales) </DownloadLink> 
+
+
 ## Dado  
 
- Dependiendo del proceso de <a href="/es/guide/ideation/">Ideación</a> que elija adoptar, puede necesitar dados con forma para ayudar a configurar las cartas con la comunidad.  
+ Dependiendo del proceso de <a href="/es/guide/ideation/">Ideación</a> que elija adoptar, es posible que necesite dados con forma para ayudar a configurar las cartas con la comunidad.  
 
  Están disponibles en varios minoristas en línea como:  
 
@@ -109,7 +116,7 @@ lang: es-x-mtfrom-en
 
 <ul><li> Mínimo de 4 dispositivos Android (teléfonos o tabletas) </li></ul> 
 <ul><li> Versión de Android&gt; 5.0 </li></ul> 
-<ul><li> Computadora portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
+<ul><li> Portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
 <ul><li> Se prefiere Windows 10 Professional/Education o Mac OSX. </li></ul> 
 <ul><li> Se requiere acceso de administrador (para instalar aplicaciones) </li></ul> 
 <ul><li> Enrutador WiFi portátil </li></ul> 

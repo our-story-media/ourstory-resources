@@ -44,7 +44,7 @@ lang: ar-x-mtfrom-en
 
  يجب تعديل نماذج الموافقة على أي نشر محدد. لا تستخدم هذه الأشياء أبدًا دون تعديلها أولاً حسب متطلباتك ومجتمعك. كن على دراية بمستوى محو الأمية في المجتمعات المحلية ، والحاجة إلى شرح إجراء الموافقة بوضوح شفهيًا وكذلك من خلال نموذج الموافقة.  
 
- غالبًا ما يكون هناك اختلاف بين <span class="code">بيان إعلامي ونموذج</span> <span class="code">موافقة بحثية</span> ، حيث قد تغطي هذه الأجزاء المختلفة من الوسائط التي تم إنشاؤها بواسطة المجتمع. قد تحتاج إلى مزيج من الاثنين.  
+ غالبًا ما يكون هناك اختلاف بين <span class="code">بيان إعلامي ونموذج</span> <span class="code">الموافقة على البحث</span> ، حيث قد يغطيان أجزاء مختلفة من الوسائط التي تم إنشاؤها بواسطة المجتمع. قد تحتاج إلى مزيج من الاثنين.  
 
 <translated-dropdown title="مثال للموافقة (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
@@ -73,11 +73,18 @@ lang: ar-x-mtfrom-en
 
  <em>لطباعة هذه الصور بنفسك على طابعة A4 عادية ، استخدم الملفات التالية. يجب طباعة هذه الطباعة على <strong>الوجهين</strong> <strong>والمضاعفات</strong> لتحقيق النتائج الصحيحة من الخلف إلى الأمام.</em>  
 
-<translated-dropdown title="بطاقات القصة - طباعة A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
+<translated-dropdown title="طباعة متعددة (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
+
+ <em>تتوفر البطاقات أيضًا بتنسيق كبير. تم تصميمها ليتم طباعتها على صفحات واحدة وطيها في المركز.</em>  
+
+<translated-dropdown title="طباعة تنسيق كبير (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-A4-%%.pdf"/> 
+
+<translated-dropdown title="تنسيق كبير (رسالة) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
+
+ <em>تتوفر إصدارات طباعة تجاوز الهوامش بالكامل وملفات InDesign. ترجمات قادمة أوائل عام 2020.</em>  
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> بطاقات القصة (ملفات الطباعة الاحترافية) </DownloadLink> 
 
- <em>تتوفر إصدارات طباعة تجاوز الهوامش بالكامل وملفات InDesign. ترجمات قادمة أوائل عام 2020.</em>  
 
 <h2 style=";text-align:right;direction:rtl"> حجر النرد </h2> 
 
@@ -123,7 +130,7 @@ lang: ar-x-mtfrom-en
 
 <h3 style=";text-align:right;direction:rtl"> مجموعة مرجعية مجربة </h3> 
 
- <em>الأسعار تقديرية ، والعلامات التجارية والموردين الآخرون موجودون ، ويقصد بذلك فقط كدليل.</em>  
+ <em>الأسعار تقديرية ، وتوجد علامات تجارية وموردون آخرون ، وهذا مخصص فقط كدليل.</em>  
 
  | # | البند | التكلفة | ربط |  
  | :--- | :--- | :--- | :--- |  

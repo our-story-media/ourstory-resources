@@ -42,7 +42,7 @@ lang: fr-x-mtfrom-en
 
 ## Exemple de formulaire de consentement  
 
- Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez jamais de les utiliser sans d&#39;abord les adapter à vos besoins et à votre communauté. Soyez conscient du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement et par le biais d&#39;un formulaire de consentement.  
+ Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez pas de les utiliser sans d&#39;abord les adapter à vos besoins et à votre communauté. Soyez conscient du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement et par le biais d&#39;un formulaire de consentement.  
 
  Il y a souvent une différence entre un <span class="code">communiqué de presse</span> et un formulaire de <span class="code">consentement à la recherche</span> , car ils peuvent couvrir différentes parties des médias générés par la communauté. Vous devrez peut-être une combinaison des deux.  
 
@@ -73,11 +73,18 @@ lang: fr-x-mtfrom-en
 
  <em>Pour les imprimer vous-même sur une imprimante A4 normale, utilisez les fichiers suivants. Ceux-ci doivent être imprimés en <strong>duplex</strong> et en plusieurs <strong>pages</strong> pour obtenir les résultats recto verso corrects.</em>  
 
-<translated-dropdown title="Cartes de l&#39;histoire - impression A4 (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
+<translated-dropdown title="Impression multiple (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
+
+ <em>Les cartes sont également disponibles en grand format. Celles-ci sont conçues pour être imprimées sur des pages simples et pliées au centre.</em>  
+
+<translated-dropdown title="Impression grand format (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-A4-%%.pdf"/> 
+
+<translated-dropdown title="Grand format (lettre) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
+
+ <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Cartes d&#39;histoire (fichiers d&#39;impression professionnels) </DownloadLink> 
 
- <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
 
 ## Dé  
 

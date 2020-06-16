@@ -73,11 +73,18 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 *To print these yourself on a normal A4 printer, use the following files. These should be printed **duplex** and **multipage** to achieve the correct back-to-front results.*
 
-<translated-dropdown title="Story Cards - A4 Print (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf" />
+<translated-dropdown title="Print Multiple (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf" />
+
+*Cards are also available in large format. These are designed to be printed on single pages and folded in the center.*
+
+<translated-dropdown title="Print Large Format (A4) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-A4-%%.pdf" />
+
+<translated-dropdown title="Large Format (Letter) (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf" />
+
+*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional">Story Cards (Professional Print Files)</DownloadLink>
 
-*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
 
 ## Dice
 
