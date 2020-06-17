@@ -145,3 +145,14 @@ _Prices are estimates, other brands and suppliers exist, this is meant only as a
 ## Branding
 
 You are free to use the Indaba branding however you wish, download it from the [GitHub Folder of Resources](https://github.com/our-story-media/ourstory-resources/tree/master/branding)
+
+## Acknowledgements
+
+The Indaba team has received help and support from a variety of individuals, including:
+
+::: tip Translation
+
+Phillip Damon\
+Meriem Tebourbi
+
+:::
