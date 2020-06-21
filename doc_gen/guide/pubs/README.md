@@ -4,17 +4,16 @@ title: Publications and Press
 
 # Publications and Press
 
-<ClientOnly>
-
 <Leader>
 
 Indaba and it's precursors Our Story and Bootlegger have informed a number of academic research outputs and organisation reports which report key findings in both the design and application of participatory video.
 
 </Leader>
 
-</ClientOnly>
-
 ## Reports and Blogs
+
+**Feedback from the Yabello Community on the floods in Marsabit County (October 2019): A Participatory Video Rapid Review** \
+[http://adore.ifrc.org/Download.aspx?FileId=310068&.pdf](http://adore.ifrc.org/Download.aspx?FileId=310068&.pdf)
 
 **Participatory Video Lessons Learned Gambia: Enhancing the most disadvantaged women's access to productive and sustainable resources in Kiang West** \
 [http://adore.ifrc.org/Download.aspx?FileId=295874&.pdf](http://adore.ifrc.org/Download.aspx?FileId=295874&.pdf)
@@ -27,6 +26,8 @@ Indaba and it's precursors Our Story and Bootlegger have informed a number of ac
 
 **A Participatory Video Monitoring Process Using "Our Story" in Indonesia and Namibia** \
 [http://adore.ifrc.org/Download.aspx?FileId=240861&.pdf](http://adore.ifrc.org/Download.aspx?FileId=240861&.pdf)
+
+
 
 ## Research Publications
 
