@@ -209,9 +209,9 @@ async function main() {
                         newtrans = _.replace(newtrans,/<span .*>(@inproceedings.*?)<\/span>/,'$1')
                         newtrans = _.replace(newtrans,': ---',':---');
                         
-                        newtrans = _.replace(newtrans,/<h1>(.*)<\/h1>/,"#$1");
-                        newtrans = _.replace(newtrans,/<h2>(.*)<\/h2>/,"##$1");
-                        newtrans = _.replace(newtrans,/<h3>(.*)<\/h3>/,"###$1");
+                        newtrans = _.replace(newtrans,/<h1>(.*)<\/h1>/,"# $1");
+                        newtrans = _.replace(newtrans,/<h2>(.*)<\/h2>/,"## $1");
+                        newtrans = _.replace(newtrans,/<h3>(.*)<\/h3>/,"### $1");
                         
 
                         // newtrans = _.replace(newtrans,/\<cod\>(.*?)\<\/cod\>/g,'`$1`');

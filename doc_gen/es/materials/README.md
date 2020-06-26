@@ -4,13 +4,13 @@ sidebar: auto
 sidebarDepth: 1
 lang: es-x-mtfrom-en
 ---
+#  Materiales  
+
 <Banner> 
 
  En respuesta a los cambios mundiales actuales en las prácticas de trabajo, actualmente estamos trabajando en recursos actualizados para despliegues de campo social y físicamente distanciados.  
 
 </Banner> 
-
-# Materiales  
 
 <Leader> 
 
@@ -24,13 +24,23 @@ lang: es-x-mtfrom-en
 
 </Leader> 
 
-## Manual de entrenamiento  
+## <New/> Implementaciones socialmente distanciadas  
+
+ Hemos producido una guía adicional que puede usar para ayudarlo a planificar y facilitar el proceso de Indaba en situaciones social/físicamente distanciadas.  
+
+<translated-dropdown title="Guía de distancia social (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
+
+<DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> Guía socialmente distanciado (archivos de impresión profesionales) </DownloadLink> 
+
+ <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
+
+##  Manual de entrenamiento  
 
  La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja ha desarrollado el siguiente manual de capacitación que explica el proceso de Indaba, los diversos contextos donde se ha llevado a cabo, sus diferentes fases y las herramientas y recursos necesarios para ejecutar una iniciativa de video participativo de Indaba para monitoreo y evaluación y/u otros contextos.  
 
 <translated-dropdown title="Manual de capacitación de la Federación Internacional (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
-## Folleto informativo  
+##  Folleto informativo  
 
  Este folleto está diseñado para dar un resumen del proceso de Indaba solo para información de alto nivel. Para imprimir en A4 y doblar en un folleto <a href="https://en.wikipedia.org/wiki/Brochure#/media/File:Folding.svg">tríptico (1)</a> .  
 
@@ -40,7 +50,7 @@ lang: es-x-mtfrom-en
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
-## Ejemplo de formulario de consentimiento  
+##  Ejemplo de formulario de consentimiento  
 
  Los formularios de consentimiento deben ajustarse a cualquier implementación específica. Nunca los use sin antes ajustarlos tanto a sus requisitos como a su comunidad. Tenga en cuenta el nivel de alfabetización de las comunidades y la necesidad de explicar claramente su procedimiento de consentimiento verbalmente, así como a través de un formulario de consentimiento.  
 
@@ -48,7 +58,7 @@ lang: es-x-mtfrom-en
 
 <translated-dropdown title="Ejemplo de consentimiento (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
-## Pegatinas  
+##  Pegatinas  
 
  Las calcomanías se utilizan para vincular actividades basadas en papel con procesos digitales para ayudar a la comprensión y la transparencia en el proceso.  
 
@@ -57,7 +67,7 @@ lang: es-x-mtfrom-en
 <translated-dropdown title="Plantilla de pegatinas (Word docx)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/stickers/L7163-oecd-stickers-template-%%.docx"/> 
 
 
-## Guía de bolsillo  
+##  Guía de bolsillo  
 
  La guía de bolsillo es un folleto de bolsillo diseñado para ser entregado a voluntarios en el campo para ayudarlos en el proceso. Cada página de la guía responde a un paso en el proceso e incluye recordatorios simples sobre elementos clave y actividades que deben realizarse.  
 
@@ -67,7 +77,7 @@ lang: es-x-mtfrom-en
 
  <em>Versiones de impresión de sangrado completo y archivos de InDesign disponibles. Traducciones a principios de 2020.</em>  
 
-## Tarjetas de historia  
+##  Tarjetas de historia  
 
  Dependiendo del proceso de <a href="/es/guide/ideation/">Ideación</a> que elija adoptar, es posible que desee utilizar las tarjetas de Ideación con la comunidad.  
 
@@ -86,7 +96,7 @@ lang: es-x-mtfrom-en
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Fichas (archivos de impresión profesionales) </DownloadLink> 
 
 
-## Dado  
+##  Dado  
 
  Dependiendo del proceso de <a href="/es/guide/ideation/">Ideación</a> que elija adoptar, es posible que necesite dados con forma para ayudar a configurar las cartas con la comunidad.  
 
@@ -96,39 +106,39 @@ lang: es-x-mtfrom-en
 
 <img src="/imgs/dice.jpg" alt=""> 
 
-## Lista de equipos de referencia  
+##  Lista de equipos de referencia  
 
- Puede utilizar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
+ Puede usar cualquier equipo que pueda obtener, sin embargo, le proporcionamos esta lista como referencia de un kit que hemos usado y sabemos que funciona bien en el campo.  
 
 <Tip> 
 
- Aunque la infraestructura de Indaba es flexible y se puede utilizar en muchos contextos, necesitará una cantidad mínima de tecnología para comenzar una implementación.  
+ Aunque la infraestructura de Indaba es flexible y se puede usar en muchos contextos, necesitará una cantidad mínima de tecnología para comenzar una implementación.  
 
 </Tip> 
 
-### Equipo mínimo requerido para en línea  
+###  Equipo mínimo requerido para en línea  
 
 <ul><li> Mínimo de 4 dispositivos Android (teléfonos o tabletas) </li></ul> 
 <ul><li> Versión de Android&gt; 5.0 </li></ul> 
 <ul><li> Router WiFi O Conexión 3G para dispositivos para conectarse a Internet </li></ul> 
 
-### Equipo mínimo requerido para Titán  
+###  Equipo mínimo requerido para Titán  
 
 <ul><li> Mínimo de 4 dispositivos Android (teléfonos o tabletas) </li></ul> 
 <ul><li> Versión de Android&gt; 5.0 </li></ul> 
-<ul><li> Portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
+<ul><li> Computadora portátil razonablemente potente (&gt; = 8 GB de RAM, 100 GB de disco duro, 4 núcleos) </li></ul> 
 <ul><li> Se prefiere Windows 10 Professional/Education o Mac OSX. </li></ul> 
 <ul><li> Se requiere acceso de administrador (para instalar aplicaciones) </li></ul> 
 <ul><li> Enrutador WiFi portátil </li></ul> 
 <ul><li> esto permitirá que los dispositivos se conecten de forma inalámbrica a la computadora portátil </li></ul> 
 
-### Opcional (aconsejado)  
+###  Opcional (aconsejado)  
 
 <ul><li> Baterías extra para laptop </li></ul> 
 <ul><li> Proyector de video (para proyección comunitaria al final del proceso) </li></ul> 
 <ul><li> Micrófonos de solapa con cable (para una mejor calidad de sonido en grabaciones) </li></ul> 
 
-### Kit de referencia probado  
+###  Kit de referencia probado  
 
  <em>Los precios son estimados, existen otras marcas y proveedores, esto es solo una guía.</em>  
 
@@ -142,6 +152,17 @@ lang: es-x-mtfrom-en
 | 1 | Proyector de batería | 412 GBP | <a href="https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as_at?slotNum=7&amp;linkCode=g14&amp;imprToken=N29..iMjijff7TCKcSbaww&amp;creativeASIN=B01FSPZCDG&amp;tag=dotdash21-21&amp;th=1">https://www.amazon.co.uk/dp/B01FSPZCDG/ref=as_at?slotNum=7&amp;linkCode=g14&amp;imprToken=N29..iMjijff7TCKcSbaww&amp;creativeASIN=B01FSPZCDG&amp;tag=dotdash21-21&amp;th=1</a> |  
 | 1 | Estación de carga | 22 GBP | <a href="https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr_1_20?s=electronics&amp;ie=UTF8&amp;qid=1530862198&amp;sr=1-20&amp;keywords=anker+charger">https://www.amazon.co.uk/Anker-PowerPort-Family-Sized-Technology-Smartphones-Black/dp/B00PK1IIJY/ref=sr_1_20?s=electronics&amp;ie=UTF8&amp;qid=1530862198&amp;sr=1-20&amp;keywords=anker+charger</a> |  
 
-## Marca  
+##  Marca  
 
  Puedes usar la marca Indaba como quieras, descárgala de la <a href="https://github.com/our-story-media/ourstory-resources/tree/master/branding">carpeta de recursos de GitHub</a>  
+
+##  Agradecimientos  
+
+ El equipo de Indaba ha recibido ayuda y apoyo de una variedad de personas, que incluyen:  
+
+::: tip Traducción  
+
+ Phillip Damon \  
+ Meriem Tebourbi  
+
+:::  

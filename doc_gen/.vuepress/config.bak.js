@@ -113,7 +113,7 @@ module.exports = {
           'Ideación',
           'Capturar',
           'Creación',
-          'Retroalimentación',
+          'Realimentación',
           'Utilizar'
         ],
         lastUpdated: 'Actualizado',
@@ -239,7 +239,7 @@ module.exports = {
           'Retour d&#39;information',
           'Utilisation'
         ],
-        lastUpdated: 'Mise à jour',
+        lastUpdated: 'Actualisé',
         selectText: 'Les langues',
         readtime: 'lecture min'
       }
