@@ -13,8 +13,59 @@ FileModTime:609427503
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/story-cards/design/Document fonts/AdobeFnt22.lst
-FileLength:1018
-FileModTime:614005854
+FileLength:2167
+FileModTime:616306163
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Mirza-Bold
+FamilyName:Mirza
+StyleName:Bold
+MenuName:Mirza
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Mirza Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/story-cards/design/Document fonts/Mirza-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155380
+FileModTime:487605600
+NameArray:0,Win,1,Mirza
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Mirza-SemiBold
+FamilyName:Mirza
+StyleName:SemiBold
+MenuName:Mirza SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Mirza SemiBold
+FamilyNameNative:
+StyleNameNative:SemiBold
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/story-cards/design/Document fonts/Mirza-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155468
+FileModTime:487605600
+NameArray:0,Win,1,Mirza SemiBold
+NameArray:0,Win,16,Mirza
 %EndFont
 
 %BeginFont

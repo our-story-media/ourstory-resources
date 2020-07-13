@@ -1,8 +1,8 @@
 //EDIT BELOW THIS LINE
 
-var lang = 'es';
+var lang = 'fr';
 var page = 'A4';
-var basename = 'IndebaCards_v2-ES'; 
+var basename = 'IndebaCards_v2-FR'; 
 // var basename = 'Indaba_Cards'; 
 var cardbacks = [0,8,14,21,28,34,40,45,51,57,65,71,78,83,89,96,102,108,115,122,127];
 
