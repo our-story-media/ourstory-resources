@@ -240,7 +240,7 @@ module.exports = {
           'Utilisation'
         ],
         lastUpdated: 'Actualisé',
-        selectText: 'Les langues',
+        selectText: 'Langues',
         readtime: 'lecture min'
       }
     },

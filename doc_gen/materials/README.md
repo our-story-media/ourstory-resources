@@ -38,7 +38,7 @@ We have produced an additional guide which you can use to help you plan and faci
 
 The International Federation of Red Cross and Red Crescent Societies have developed the following training manual which explains the Indaba process, the various contexts where it has been carried out, its different phases, and the tools and resources needed to run an Indaba participatory video initiative for monitoring and evaluation and/or other contexts.
 
-<translated-dropdown title="IFRC Training Manual (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf" />
+<translated-dropdown title="IFRC Training Manual (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf" />
 
 ## Information Pamphlet
 
