@@ -1,0 +1,198 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/AdobeFnt20.lst
+FileLength:4265
+FileModTime:616640893
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/AdobeFnt22.lst
+FileLength:4819
+FileModTime:618724483
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Bold
+FamilyName:Heebo
+StyleName:Bold
+MenuName:Heebo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Heebo Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Heebo-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58944
+FileModTime:614646546
+NameArray:0,Win,1,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-ExtraBold
+FamilyName:Heebo
+StyleName:ExtraBold
+MenuName:Heebo ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Heebo-ExtraBold
+FamilyNameNative:
+StyleNameNative:ExtraBold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Heebo-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59304
+FileModTime:614646546
+NameArray:0,Win,1,Heebo ExtraBold
+NameArray:0,Win,16,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Light
+FamilyName:Heebo
+StyleName:Light
+MenuName:Heebo Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Heebo-Light
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Heebo-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59084
+FileModTime:614646546
+NameArray:0,Win,1,Heebo Light
+NameArray:0,Win,16,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Medium
+FamilyName:Heebo
+StyleName:Medium
+MenuName:Heebo Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Heebo-Medium
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Heebo-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58552
+FileModTime:614646546
+NameArray:0,Win,1,Heebo Medium
+NameArray:0,Win,16,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Regular
+FamilyName:Heebo
+StyleName:Regular
+MenuName:Heebo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Heebo-Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Heebo-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59404
+FileModTime:614646546
+NameArray:0,Win,1,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Icon
+FileModTime:-978307200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Quicksand-Bold
+FamilyName:Quicksand
+StyleName:Bold
+MenuName:Quicksand
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Quicksand Bold
+WritingScript:Roman
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Quicksand-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76964
+FileModTime:614646546
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Quicksand-Regular
+FamilyName:Quicksand
+StyleName:Regular
+MenuName:Quicksand
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Quicksand Regular
+WritingScript:Roman
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/fr/Document fonts/Quicksand-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77348
+FileModTime:614646546
+NameArray:0,Win,1,Quicksand
+%EndFont
+

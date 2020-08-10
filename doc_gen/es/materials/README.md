@@ -28,7 +28,7 @@ lang: es-x-mtfrom-en
 
  Hemos elaborado una guía adicional que puede utilizar para ayudarlo a planificar y facilitar el proceso de Indaba en situaciones que están social o físicamente distanciadas.  
 
-<translated-dropdown title="Guía de distanciamiento social (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
+<translated-dropdown title="Guía de distanciamiento social (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> Guía socialmente distanciado (archivos de impresión profesional) </DownloadLink> 
 

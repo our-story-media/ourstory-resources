@@ -28,7 +28,7 @@ Some of these documents are provided as templates so that you can adjust to your
 
 We have produced an additional guide which you can use to help you plan and facilitate the Indaba process in situations that are socially/physically distanced.
 
-<translated-dropdown title="Social Distancing Guide (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf" />
+<translated-dropdown title="Social Distancing Guide (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf" />
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional">Socially Distanced Guide (Professional Print Files)</DownloadLink>
 

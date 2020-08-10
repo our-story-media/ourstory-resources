@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/AdobeFnt20.lst
+FileLength:1865
+FileModTime:616640913
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/AdobeFnt22.lst
+FileLength:2512
+FileModTime:618724607
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Bold
+FamilyName:Heebo
+StyleName:Bold
+MenuName:Heebo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Heebo Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/Heebo-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58944
+FileModTime:614646546
+NameArray:0,Win,1,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Light
+FamilyName:Heebo
+StyleName:Light
+MenuName:Heebo Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Heebo-Light
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/Heebo-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59084
+FileModTime:614646546
+NameArray:0,Win,1,Heebo Light
+NameArray:0,Win,16,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Heebo-Regular
+FamilyName:Heebo
+StyleName:Regular
+MenuName:Heebo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Heebo-Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/Heebo-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59404
+FileModTime:614646546
+NameArray:0,Win,1,Heebo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tbar0012/Documents/Research/ourstory-resources/field-materials/facilitator-guide-distance/design/ar/Document fonts/Icon
+FileModTime:-978307200
+%EndFont
+

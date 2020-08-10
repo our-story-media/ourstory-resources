@@ -28,7 +28,7 @@ lang: ar-x-mtfrom-en
 
  لقد أنتجنا دليلًا إضافيًا يمكنك استخدامه لمساعدتك في التخطيط لعملية Indaba وتسهيلها في المواقف التي تكون بعيدة اجتماعيًا/جسديًا.  
 
-<translated-dropdown title="دليل التباعد الاجتماعي (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
+<translated-dropdown title="دليل التباعد الاجتماعي (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> دليل بعيد اجتماعيًا (ملفات طباعة احترافية) </DownloadLink> 
 
