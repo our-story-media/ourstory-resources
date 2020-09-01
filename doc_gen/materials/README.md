@@ -8,7 +8,7 @@ sidebarDepth: 1
 
 <Banner>
 
-In response to current worldwide changes in working practices, we are currently working on updated resources for socially and physically distanced field deployments.
+In response to current worldwide changes in working practices, we have produced updated resources for socially and physically distanced field deployments.
 
 </Banner>
 
@@ -32,7 +32,7 @@ We have produced an additional guide which you can use to help you plan and faci
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional">Socially Distanced Guide (Professional Print Files)</DownloadLink>
 
-*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+*Full bleed print versions and InDesign Files available.*
 
 ## Training Manual
 
@@ -48,7 +48,7 @@ This pamphlet is designed to give an outline of the Indaba process for high-leve
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/">Tri-fold (Professional Print Files)</DownloadLink>
 
-*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+*Full bleed print versions and InDesign Files available.*
 
 ## Example Consent Form
 
@@ -71,11 +71,11 @@ They can be printed on standard layout printer label sheets for easy use.
 
 The pocket guide is a pocket-size booklet designed to be given to volunteers in the field to aid them in the process. Each page in the guide responds to a step in the process, and includes simple reminders on key elements and activities that need to be performed.
 
-<translated-dropdown title="Pocket Guide (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf" />
+<translated-dropdown title="Pocket Guide (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf" />
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional">Pocket Guide (Professional Print Files)</DownloadLink>
 
-*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+*Full bleed print versions and InDesign Files available.*
 
 ## Story Cards
 
@@ -91,7 +91,7 @@ Depending on the [Ideation](/guide/ideation/) process you choose to adopt, you m
 
 <translated-dropdown title="Large Format (Letter) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf" />
 
-*Full bleed print versions and InDesign Files available. Translations coming early 2020.*
+*Full bleed print versions and InDesign Files available.*
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional">Story Cards (Professional Print Files)</DownloadLink>
 

@@ -24,4 +24,4 @@ To deploy to live site:
 
 ## Translation
 
-To update the machine translation, run `doc_gen\.vuepress\translate npm start`.
+To update the machine translation, run `doc_gen\.vuepress\translate npm start`. Only source files that *do not* exist in the output dirs will be translated.

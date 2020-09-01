@@ -8,13 +8,13 @@ lang: fr-x-mtfrom-en
 
 <Banner> 
 
- En réponse aux changements mondiaux actuels dans les pratiques de travail, nous travaillons actuellement sur des ressources mises à jour pour les déploiements sur le terrain à distance sociale et physique.  
+ En réponse aux changements mondiaux actuels des pratiques de travail, nous avons produit des ressources mises à jour pour les déploiements sur le terrain à distance sociale et physique.  
 
 </Banner> 
 
 <Leader> 
 
- Pour déployer Indaba sur le terrain, vous aurez besoin d&#39;une variété de matériaux physiques. Vous trouverez ci-dessous des versions prêtes à télécharger que vous pouvez imprimer vous-même.  
+ Pour déployer Indaba sur le terrain, vous aurez besoin de divers matériaux physiques. Vous trouverez ci-dessous des versions prêtes à télécharger que vous pouvez imprimer vous-même.  
 
 
  Certains de ces documents sont fournis sous forme de modèles afin que vous puissiez vous adapter à votre propre contexte ou, dans certaines circonstances, vous souhaiterez peut-être ajuster les ressources existantes, dans des situations telles que:  
@@ -32,11 +32,11 @@ lang: fr-x-mtfrom-en
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> Guide socialement distancé (fichiers d&#39;impression professionnels) </DownloadLink> 
 
- <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
+ <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles.</em>  
 
 ##  Manuel de formation  
 
- La Fédération internationale des sociétés de la Croix-Rouge et du Croissant-Rouge a élaboré le manuel de formation suivant qui explique le processus Indaba, les différents contextes dans lesquels il a été mené, ses différentes phases et les outils et ressources nécessaires pour mener une initiative de vidéo participative Indaba pour suivi et évaluation et/ou autres contextes.  
+ La Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge a élaboré le manuel de formation suivant qui explique le processus Indaba, les différents contextes dans lesquels il a été mené, ses différentes phases et les outils et ressources nécessaires pour mener une initiative de vidéo participative Indaba pour suivi et évaluation et/ou autres contextes.  
 
 <translated-dropdown title="Manuel de formation de la Fédération internationale (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
@@ -48,11 +48,11 @@ lang: fr-x-mtfrom-en
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Trois volets (fichiers d&#39;impression professionnels) </DownloadLink> 
 
- <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
+ <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles.</em>  
 
 ##  Exemple de formulaire de consentement  
 
- Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez jamais de les utiliser sans les adapter au préalable à vos besoins et à votre communauté. Soyez conscient du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement ainsi que par le biais d&#39;un formulaire de consentement.  
+ Les formulaires de consentement doivent être adaptés à tout déploiement spécifique. Ne vous contentez jamais de les utiliser sans les adapter au préalable à vos besoins et à votre communauté. Soyez conscient à la fois du niveau d&#39;alphabétisation des communautés et de la nécessité d&#39;expliquer clairement votre procédure de consentement verbalement ainsi que par le biais d&#39;un formulaire de consentement.  
 
  Il y a souvent une différence entre un <span class="code">communiqué de presse</span> et un formulaire de <span class="code">consentement à la recherche</span> , car ceux-ci peuvent couvrir différentes parties des médias générés par la communauté. Vous aurez peut-être besoin d&#39;une combinaison des deux.  
 
@@ -60,7 +60,7 @@ lang: fr-x-mtfrom-en
 
 ##  Autocollants  
 
- Les autocollants sont utilisés pour relier les activités sur papier aux processus numériques afin de faciliter la compréhension et la transparence du processus.  
+ Les autocollants sont utilisés pour relier les activités sur papier avec les processus numériques pour faciliter la compréhension et la transparence du processus.  
 
  Ils peuvent être imprimés sur des feuilles d&#39;étiquettes d&#39;imprimante à disposition standard pour une utilisation facile.  
 
@@ -71,11 +71,11 @@ lang: fr-x-mtfrom-en
 
  Le guide de poche est un livret de poche conçu pour être remis aux volontaires sur le terrain pour les aider dans le processus. Chaque page du guide répond à une étape du processus et comprend de simples rappels sur les éléments clés et les activités à réaliser.  
 
-<translated-dropdown title="Guide de poche (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
+<translated-dropdown title="Guide de poche (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> Guide de poche (fichiers d&#39;impression professionnels) </DownloadLink> 
 
- <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
+ <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles.</em>  
 
 ##  Cartes d&#39;histoire  
 
@@ -85,20 +85,20 @@ lang: fr-x-mtfrom-en
 
 <translated-dropdown title="Impression multiple (A4) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
- <em>Les cartes sont également disponibles en grand format. Ceux-ci sont conçus pour être imprimés sur des pages simples et pliés au centre.</em>  
+ <em>Les cartes sont également disponibles en grand format. Ceux-ci sont conçus pour être imprimés sur une seule page et pliés au centre.</em>  
 
 <translated-dropdown title="Impression grand format (A4) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-A4-%%.pdf"/> 
 
 <translated-dropdown title="Grand format (Lettre) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
 
- <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles. Traductions à venir début 2020.</em>  
+ <em>Versions d&#39;impression à fond perdu et fichiers InDesign disponibles.</em>  
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Cartes d&#39;histoire (fichiers d&#39;impression professionnels) </DownloadLink> 
 
 
 ##  Dé  
 
- Selon le processus d&#39; <a href="/fr/guide/ideation/">idéation que</a> vous choisissez d&#39;adopter, vous pouvez avoir besoin de dés en forme pour aider à configurer les cartes avec la communauté.  
+ Selon le processus d&#39; <a href="/fr/guide/ideation/">idéation que</a> vous choisissez d&#39;adopter, vous aurez peut-être besoin de dés en forme pour vous aider à configurer les cartes avec la communauté.  
 
  Ils sont disponibles chez un certain nombre de détaillants en ligne tels que:  
 

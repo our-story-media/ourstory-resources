@@ -8,7 +8,7 @@ lang: ar-x-mtfrom-en
 
 <Banner> 
 
- استجابة للتغيرات العالمية الحالية في ممارسات العمل ، نحن نعمل حاليًا على موارد محدثة لعمليات النشر الميدانية الاجتماعية والمادية.  
+ استجابة للتغيرات العالمية الحالية في ممارسات العمل ، قمنا بإنتاج موارد محدثة لعمليات النشر الميدانية الاجتماعية والمادية.  
 
 </Banner> 
 
@@ -17,7 +17,7 @@ lang: ar-x-mtfrom-en
  لنشر إندابا في الميدان ، سوف تحتاج إلى مجموعة متنوعة من المواد المادية. فيما يلي إصدارات جاهزة للتحميل يمكنك طباعتها بنفسك.  
 
 
- يتم توفير بعض هذه المستندات كقوالب حتى تتمكن من التكيف مع السياق الخاص بك ، أو في بعض الحالات قد ترغب في تعديل الموارد الموجودة ، في مواقف مثل:  
+ يتم توفير بعض هذه المستندات كقوالب بحيث يمكنك التكيف مع السياق الخاص بك ، أو في بعض الحالات قد ترغب في تعديل الموارد الموجودة ، في مواقف مثل:  
 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> ترجمة المحتوى إلى لغة جديدة </li></ul> 
 <ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> تنقيح العلامات المستخدمة لتتناسب مع سير عملك </li></ul> 
@@ -26,17 +26,17 @@ lang: ar-x-mtfrom-en
 
 <h2 style=";text-align:right;direction:rtl"><New/> عمليات النشر المتباعدة اجتماعيا </h2> 
 
- لقد أنتجنا دليلًا إضافيًا يمكنك استخدامه لمساعدتك في التخطيط لعملية Indaba وتسهيلها في المواقف التي تكون بعيدة اجتماعيًا/جسديًا.  
+ لقد أنتجنا دليلًا إضافيًا يمكنك استخدامه لمساعدتك في التخطيط لعملية إندابا وتسهيلها في المواقف التي تكون بعيدة اجتماعيًا/جسديًا.  
 
 <translated-dropdown title="دليل التباعد الاجتماعي (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> دليل بعيد اجتماعيًا (ملفات طباعة احترافية) </DownloadLink> 
 
- <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign. ترجمات قادمة في أوائل عام 2020.</em>  
+ <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign.</em>  
 
 <h2 style=";text-align:right;direction:rtl"> دليل التدريب </h2> 
 
- وضع الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر الدليل التدريبي التالي الذي يشرح عملية إندابا ، والسياقات المختلفة التي تم تنفيذها فيها ، ومراحلها المختلفة ، والأدوات والموارد اللازمة لتشغيل مبادرة فيديو تشاركية إندابا من أجل الرصد والتقييم و/أو سياقات أخرى.  
+ طور الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر الدليل التدريبي التالي الذي يشرح عملية إندابا ، والسياقات المختلفة التي تم تنفيذها فيها ، ومراحلها المختلفة ، والأدوات والموارد اللازمة لتشغيل مبادرة فيديو إندابا التشاركية من أجل الرصد والتقييم و/أو سياقات أخرى.  
 
 <translated-dropdown title="دليل الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
@@ -48,13 +48,13 @@ lang: ar-x-mtfrom-en
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> طي ثلاثي (ملفات طباعة احترافية) </DownloadLink> 
 
- <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign. ترجمات قادمة في أوائل عام 2020.</em>  
+ <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign.</em>  
 
 <h2 style=";text-align:right;direction:rtl"> نموذج الموافقة </h2> 
 
- تحتاج نماذج الموافقة إلى تعديلها لأي عملية نشر محددة. لا تستخدمها أبدًا دون تعديلها أولاً ، سواء متطلباتك أو متطلبات مجتمعك. كن على دراية بمستوى محو الأمية لدى المجتمعات ، والحاجة إلى شرح إجراءات الموافقة الخاصة بك بشكل واضح شفهيًا وكذلك من خلال نموذج الموافقة.  
+ تحتاج نماذج الموافقة إلى تعديلها لأي عملية نشر محددة. لا تستخدمها أبدًا دون تعديلها أولاً ، سواء متطلباتك أو متطلبات مجتمعك. كن على دراية بمستوى معرفة القراءة والكتابة لدى المجتمع ، والحاجة إلى شرح إجراءات الموافقة الخاصة بك بشكل واضح شفهيًا وكذلك من خلال نموذج الموافقة.  
 
- غالبًا ما يكون هناك اختلاف بين <span class="code">الإصدار الإعلامي واستمارة</span> <span class="code">الموافقة على البحث</span> ، حيث قد تغطي أجزاء مختلفة من الوسائط التي ينشئها المجتمع. قد تحتاج إلى مزيج من الاثنين.  
+ غالبًا ما يكون هناك فرق بين <span class="code">الإصدار الإعلامي واستمارة</span> <span class="code">الموافقة على البحث</span> ، حيث قد تغطي أجزاء مختلفة من الوسائط التي ينشئها المجتمع. قد تحتاج إلى مزيج من الاثنين.  
 
 <translated-dropdown title="مثال على الموافقة (Word docx)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/consent/consent-template-%%.docx"/> 
 
@@ -71,17 +71,17 @@ lang: ar-x-mtfrom-en
 
  دليل الجيب عبارة عن كتيب بحجم الجيب مصمم لتقديمه للمتطوعين في الميدان لمساعدتهم في هذه العملية. تستجيب كل صفحة في الدليل لخطوة في العملية ، وتتضمن تذكيرات بسيطة حول العناصر والأنشطة الأساسية التي يجب القيام بها.  
 
-<translated-dropdown title="دليل الجيب (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
+<translated-dropdown title="دليل الجيب (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> دليل الجيب (ملفات طباعة احترافية) </DownloadLink> 
 
- <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign. ترجمات قادمة في أوائل عام 2020.</em>  
+ <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign.</em>  
 
 <h2 style=";text-align:right;direction:rtl"> بطاقات القصة </h2> 
 
  اعتمادًا على عملية <a href="/ar/guide/ideation/">التفكير</a> التي تختار تبنيها ، قد ترغب في استخدام بطاقات الأفكار مع المجتمع.  
 
- <em>لطباعتها بنفسك على طابعة A4 عادية ، استخدم الملفات التالية. يجب أن تتم طباعتها على <strong>الوجهين</strong> <strong>ومتعدد الصفحات</strong> لتحقيق النتائج الصحيحة من الخلف إلى الأمام.</em>  
+ <em>لطباعة هذه بنفسك على طابعة A4 عادية ، استخدم الملفات التالية. يجب أن تتم طباعتها على <strong>الوجهين</strong> <strong>ومتعددة الصفحات</strong> لتحقيق النتائج الصحيحة من الخلف إلى الأمام.</em>  
 
 <translated-dropdown title="طباعة متعددة (A4) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
@@ -91,14 +91,14 @@ lang: ar-x-mtfrom-en
 
 <translated-dropdown title="تنسيق كبير (خطاب) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
 
- <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign. ترجمات قادمة في أوائل عام 2020.</em>  
+ <em>تتوفر إصدارات طباعة كاملة الهوامش وملفات InDesign.</em>  
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> بطاقات القصص (ملفات طباعة احترافية) </DownloadLink> 
 
 
 <h2 style=";text-align:right;direction:rtl"> حجر النرد </h2> 
 
- اعتمادًا على عملية <a href="/ar/guide/ideation/">التفكير</a> التي تختار تبنيها ، قد تحتاج إلى شكل نرد للمساعدة في تكوين البطاقات مع المجتمع.  
+ اعتمادًا على عملية <a href="/ar/guide/ideation/">التفكير</a> التي تختار اعتمادها ، قد تحتاج إلى شكل نرد للمساعدة في تكوين البطاقات مع المجتمع.  
 
  وهي متوفرة لدى عدد من بائعي التجزئة عبر الإنترنت مثل:  
 
@@ -112,7 +112,7 @@ lang: ar-x-mtfrom-en
 
 <Tip> 
 
- على الرغم من مرونة بنية Indaba الأساسية ويمكن استخدامها في العديد من السياقات ، ستحتاج إلى الحد الأدنى من التكنولوجيا لبدء النشر.  
+ على الرغم من أن بنية Indaba الأساسية مرنة ويمكن استخدامها في العديد من السياقات ، إلا أنك ستحتاج إلى الحد الأدنى من التكنولوجيا لبدء النشر.  
 
 </Tip> 
 
@@ -140,11 +140,11 @@ lang: ar-x-mtfrom-en
 
 <h3 style=";text-align:right;direction:rtl"> طقم مرجعي تم اختباره </h3> 
 
- <em>الأسعار تقديرية ، والعلامات التجارية والموردون الآخرون موجودون ، وهذا يعني فقط كدليل.</em>  
+ <em>الأسعار تقديرية ، والعلامات التجارية الأخرى والموردون موجودون ، وهذا يعني فقط كدليل.</em>  
 
  | # | العنصر | التكلفة | ارتباط |  
  | :--- | :--- | :--- | :--- |  
- | 4 | جهاز لوحي بنظام Android 10 بوصات | 200 جنيه إسترليني | <a href="https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/">https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/</a> |  
+ | 4 | جهاز لوحي بنظام أندرويد 10 بوصات | 200 جنيه إسترليني | <a href="https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/">https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/</a> |  
  | 4 | حالة الكمبيوتر اللوحي | 16 جنيه إسترليني | <a href="https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3?ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+a&amp;refinements=p_n_feature_browse-bin%3A4895587031">https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3؟ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+ &amp; تصفيات = p_n_feature_browse-bin٪ 3A4895587031</a> |  
  | 1 | موجه WiFi للبطارية | 60 جنيه إسترليني | <a href="https://www.amazon.co.uk/RAVPower-Wireless-Portable-Companion-Streamer/dp/B076M3X2GR/ref=sr_1_12?s=electronics&amp;ie=UTF8&amp;qid=1525100823&amp;sr=1-12&amp;keywords=battery+wireless+router">https://www.amazon.co.uk/RAVPower-Wireless-Portable-Companion-Streamer/dp/B076M3X2GR/ref=sr_1_12؟s=electronics&amp;ie=UTF8&amp;qid=1525100823&amp;sr=1-12&amp;keywords=battery+wireless+router</a> |  
  | 4 | ميكروفون سلكي | 15 جنيه إسترليني | <a href="https://www.amazon.co.uk/Lavalier-Microphone-Smartphone-Canon-Camera/dp/B00MPDYGBE/ref=sr_1_1?ie=UTF8&amp;qid=1529313067&amp;sr=8-1&amp;keywords=boya">https://www.amazon.co.uk/Lavalier-Microphone-Smartphone-Canon-Camera/dp/B00MPDYGBE/ref=sr_1_1؟ie=UTF8&amp;qid=1529313067&amp;sr=8-1&amp;keywords=boya</a> |  

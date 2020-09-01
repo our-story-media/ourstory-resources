@@ -8,16 +8,16 @@ lang: es-x-mtfrom-en
 
 <Banner> 
 
- En respuesta a los cambios mundiales actuales en las prácticas laborales, actualmente estamos trabajando en recursos actualizados para implementaciones de campo social y físicamente distanciadas.  
+ En respuesta a los cambios mundiales actuales en las prácticas de trabajo, hemos producido recursos actualizados para implementaciones de campo social y físicamente distanciadas.  
 
 </Banner> 
 
 <Leader> 
 
- Para implementar Indaba en el campo, necesitará una variedad de materiales físicos. A continuación se muestran versiones listas para descargar que puede imprimir usted mismo.  
+ Para implementar Indaba en el campo, necesitará una variedad de materiales físicos. A continuación, encontrará versiones listas para descargar que puede imprimir usted mismo.  
 
 
- Algunos de estos documentos se proporcionan como plantillas para que pueda ajustarse a su propio contexto, o en algunas circunstancias, es posible que desee ajustar los recursos existentes, en situaciones como:  
+ Algunos de estos documentos se proporcionan como plantillas para que pueda ajustarlos a su propio contexto, o en algunas circunstancias, es posible que desee ajustar los recursos existentes, en situaciones como:  
 
 <ul><li> Traducción de contenido a un nuevo idioma </li></ul> 
 <ul><li> Refinamiento de las etiquetas utilizadas para que coincidan con su flujo de trabajo </li></ul> 
@@ -26,17 +26,17 @@ lang: es-x-mtfrom-en
 
 ## <New/> Implementaciones socialmente distanciadas  
 
- Hemos elaborado una guía adicional que puede utilizar para ayudarlo a planificar y facilitar el proceso de Indaba en situaciones que están social o físicamente distanciadas.  
+ Hemos elaborado una guía adicional que puede utilizar para ayudarlo a planificar y facilitar el proceso de Indaba en situaciones de distanciamiento social/físico.  
 
 <translated-dropdown title="Guía de distanciamiento social (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/facilitator-guide-distance/print-yourself/distance-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/facilitator-guide-distance/print-professional"> Guía socialmente distanciado (archivos de impresión profesional) </DownloadLink> 
 
- <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles. Las traducciones llegarán a principios de 2020.</em>  
+ <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles.</em>  
 
 ##  Manual de entrenamiento  
 
- La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja ha elaborado el siguiente manual de formación en el que se explica el proceso de Indaba, los diversos contextos en los que se ha llevado a cabo, sus diferentes fases, y las herramientas y recursos necesarios para ejecutar una iniciativa de vídeo participativo de Indaba para seguimiento y evaluación y/u otros contextos.  
+ La Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja ha elaborado el siguiente manual de formación en el que se explica el proceso de Indaba, los distintos contextos en los que se ha llevado a cabo, sus diferentes fases y las herramientas y recursos necesarios para ejecutar una iniciativa de vídeo participativo de Indaba para seguimiento y evaluación y/u otros contextos.  
 
 <translated-dropdown title="Manual de formación de la Federación Internacional (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/manual/ifrc-manual-%%.pdf"/> 
 
@@ -48,11 +48,11 @@ lang: es-x-mtfrom-en
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/booklet/"> Tríptico (archivos de impresión profesional) </DownloadLink> 
 
- <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles. Las traducciones llegarán a principios de 2020.</em>  
+ <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles.</em>  
 
 ##  Ejemplo de formulario de consentimiento  
 
- Los formularios de consentimiento deben adaptarse a cualquier implementación específica. Nunca los use sin antes ajustarlos a sus requisitos y a su comunidad. Tenga en cuenta tanto el nivel de alfabetización de la comunidad como la necesidad de explicar claramente su procedimiento de consentimiento verbalmente y mediante un formulario de consentimiento.  
+ Los formularios de consentimiento deben adaptarse a cualquier implementación específica. Nunca los use sin antes ajustarlos a sus requisitos y a su comunidad. Tenga en cuenta tanto el nivel de alfabetización de la comunidad como la necesidad de explicar claramente su procedimiento de consentimiento tanto verbalmente como a través de un formulario de consentimiento.  
 
  A menudo existe una diferencia entre un <span class="code">comunicado de prensa</span> y un formulario de <span class="code">consentimiento de investigación</span> , ya que estos pueden cubrir diferentes partes de los medios generados por la comunidad. Puede que necesite una combinación de los dos.  
 
@@ -60,7 +60,7 @@ lang: es-x-mtfrom-en
 
 ##  Pegatinas  
 
- Las pegatinas se utilizan para vincular las actividades en papel con los procesos digitales para ayudar a la comprensión y la transparencia en el proceso.  
+ Los adhesivos se utilizan para vincular las actividades en papel con los procesos digitales para ayudar a la comprensión y la transparencia en el proceso.  
 
  Se pueden imprimir en hojas de etiquetas de impresora de diseño estándar para facilitar su uso.  
 
@@ -69,19 +69,19 @@ lang: es-x-mtfrom-en
 
 ##  Guía de bolsillo  
 
- La guía de bolsillo es un folleto de bolsillo diseñado para ser entregado a los voluntarios en el campo para ayudarlos en el proceso. Cada página de la guía responde a un paso del proceso e incluye recordatorios sencillos sobre los elementos clave y las actividades que deben realizarse.  
+ La guía de bolsillo es un folleto de bolsillo diseñado para ser entregado a los voluntarios en el campo para ayudarlos en el proceso. Cada página de la guía responde a un paso del proceso e incluye recordatorios sencillos sobre elementos y actividades clave que deben realizarse.  
 
-<translated-dropdown title="Guía de bolsillo (PDF)" :langs="['en','es']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
+<translated-dropdown title="Guía de bolsillo (PDF)" :langs="['en','es','fr','ar']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/field-guide/print-yourself/field-guide-selfprint-%%.pdf"/> 
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/field-guide/print-professional"> Guía de bolsillo (archivos de impresión profesional) </DownloadLink> 
 
- <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles. Las traducciones llegarán a principios de 2020.</em>  
+ <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles.</em>  
 
 ##  Tarjetas de historia  
 
  Dependiendo del proceso de <a href="/es/guide/ideation/">ideación</a> que elija adoptar, es posible que desee utilizar las tarjetas de ideación con la comunidad.  
 
- <em>Para imprimirlos usted mismo en una impresora A4 normal, utilice los siguientes archivos. Estos deben imprimirse a <strong>doble</strong> <strong>cara</strong> y en <strong>varias páginas</strong> para lograr los resultados correctos de atrás hacia adelante.</em>  
+ <em>Para imprimirlos usted mismo en una impresora A4 normal, utilice los siguientes archivos. Deben imprimirse a <strong>doble</strong> <strong>cara</strong> y en <strong>varias páginas</strong> para lograr los resultados correctos de atrás hacia adelante.</em>  
 
 <translated-dropdown title="Imprimir varios (A4) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/print-yourself/storycards-selfprint-%%.pdf"/> 
 
@@ -91,7 +91,7 @@ lang: es-x-mtfrom-en
 
 <translated-dropdown title="Formato grande (carta) (PDF)" :langs="['en','es','ar','fr']" link="https://github.com/our-story-media/ourstory-resources/raw/master/field-materials/story-cards/large-print/printable-large-Letter-%%.pdf"/> 
 
- <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles. Las traducciones llegarán a principios de 2020.</em>  
+ <em>Versiones de impresión con sangrado completo y archivos de InDesign disponibles.</em>  
 
 <DownloadLink  url="https://github.com/our-story-media/ourstory-resources/tree/master/field-materials/story-cards/print-professional"> Tarjetas de historias (archivos de impresión profesional) </DownloadLink> 
 
@@ -120,7 +120,7 @@ lang: es-x-mtfrom-en
 
 <ul><li> Mínimo de 4 dispositivos Android (teléfonos o tabletas) </li></ul> 
 <ul><li> Versión de Android&gt; 5.0 </li></ul> 
-<ul><li> Enrutador WiFi O Conexión 3G para que los dispositivos se conecten a Internet </li></ul> 
+<ul><li> Enrutador WiFi o conexión 3G para que los dispositivos se conecten a Internet </li></ul> 
 
 ###  Equipo mínimo requerido para Titan  
 
@@ -145,7 +145,7 @@ lang: es-x-mtfrom-en
  | # | Artículo | Costo | Enlace |  
  | :--- | :--- | :--- | :--- |  
  | 4 | Tableta Android de 10 &quot;| 200 GBP | <a href="https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/">https://www.samsung.com/uk/tablets/galaxy-tab-a-10-1-2016-t580/SM-T580NZKABTU/</a> |  
- | 4 | Funda para tableta | 16 GBP | <a href="https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3?ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+a&amp;refinements=p_n_feature_browse-bin%3A4895587031">https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3?ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+ a &amp; refinements = p_n_feature_browse-bin% 3A4895587031</a> |  
+ | 4 | Estuche para tableta | 16 GBP | <a href="https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3?ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+a&amp;refinements=p_n_feature_browse-bin%3A4895587031">https://www.amazon.co.uk/MoKo-Samsung-Galaxy-10-1-Built/dp/B01LX4VLYD/ref=sr_1_3?ie=UTF8&amp;qid=1525950545&amp;sr=8-3&amp;keywords=case+for+galaxy+tab+ a &amp; refinements = p_n_feature_browse-bin% 3A4895587031</a> |  
  | 1 | Enrutador WiFi de batería | 60 GBP | <a href="https://www.amazon.co.uk/RAVPower-Wireless-Portable-Companion-Streamer/dp/B076M3X2GR/ref=sr_1_12?s=electronics&amp;ie=UTF8&amp;qid=1525100823&amp;sr=1-12&amp;keywords=battery+wireless+router">https://www.amazon.co.uk/RAVPower-Wireless-Portable-Companion-Streamer/dp/B076M3X2GR/ref=sr_1_12?s=electronics&amp;ie=UTF8&amp;qid=1525100823&amp;sr=1-12&amp;keywords=battery+wireless+router</a> |  
  | 4 | Micrófono de solapa con cable | 15 GBP | <a href="https://www.amazon.co.uk/Lavalier-Microphone-Smartphone-Canon-Camera/dp/B00MPDYGBE/ref=sr_1_1?ie=UTF8&amp;qid=1529313067&amp;sr=8-1&amp;keywords=boya">https://www.amazon.co.uk/Lavalier-Microphone-Smartphone-Canon-Camera/dp/B00MPDYGBE/ref=sr_1_1?ie=UTF8&amp;qid=1529313067&amp;sr=8-1&amp;keywords=boya</a> |  
  | 1 | Altavoz de batería | 30 GBP | <a href="https://www.amazon.co.uk/gp/product/B016MO90GW/ref=s9_acsd_zgift_hd_bw_bfmct9_c_x_w?pf_rd_m=A3P5ROKL5A1OLE&amp;pf_rd_s=merchandised-search-3&amp;pf_rd_r=QT8KXDT73JKEPR3H85TM&amp;pf_rd_t=101&amp;pf_rd_p=46dd7e12-d969-5548-b29a-0a76f651efd9&amp;pf_rd_i=617419011">https://www.amazon.co.uk/gp/product/B016MO90GW/ref=s9_acsd_zgift_hd_bw_bfmct9_c_x_w?pf_rd_m=A3P5ROKL5A1OLE&amp;pf_rd_s=merchandised-search-3&amp;pf_rd_r=QT8KXDT73JKEPR3H85TM&amp;pf_rd_t=101&amp;pf_rd_p=46dd7e12-d969-5548-b29a-0a76f651efd9&amp;pf_rd_i=617419011</a> |  
