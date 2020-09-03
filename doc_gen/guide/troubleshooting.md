@@ -6,6 +6,10 @@ title: Troubleshooting
 
 ## Titan Dashboard
 
+### Sharing Your Log File
+
+Indaba Titan Dashboard has a log which can be used to diagnose many issues. To access the log, select the `View Log` button from the columns of buttons on the left of the Indaba Titan window. This this will open a text file. You can copy and share the contents of this file to help diagnose problems.
+
 ### Installation Hangs / Not doing anything
 
 When using the `Toolbox` version of Indaba Titan (which is backed by Docker Toolbox), there are sometimes issues where Docker fails to start. Often the easiest method of getting it going again is to:
