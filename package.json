@@ -10,7 +10,7 @@
     "docs:dev": "vuepress dev doc_gen",
     "docs:build": "vuepress build doc_gen && echo 'indaba.dev' > docs/CNAME",
     "docs:pdf": "vuepress export doc_gen",
-    "docs:translate":"cd ./doc_gen/.vuepress/translate && npm start"
+    "docs:translate": "cd ./doc_gen/.vuepress/translate && npm start"
   },
   "repository": {
     "type": "git",

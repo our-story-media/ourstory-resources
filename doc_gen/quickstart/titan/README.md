@@ -1,11 +1,17 @@
 ---
-title: Titan Edition
+title: Titan Edition (Laptop)
 next: /quickstart/app/
 ---
 
 <ReadTime />
 
-# Indaba Titan
+# Indaba Titan (Laptop)
+
+<Banner>
+
+This deployment method of Indaba: Titan has been discontinued and replaced with the 'Titan Kit'. Updates to the software may still be available, however this will be discontinued in future releases.
+
+</Banner>
 
 <Leader>
 
@@ -34,7 +40,7 @@ Download the following files in this directory onto your machine or USB stick:
 - [images.tar](http://d2co3wsaqlrb1k.cloudfront.net/images.tar)
 - [For Windows 7, 8.1, 10 Home (Toolbox)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/IndabaToolbox.exe) or [For Windows 10 Pro (HyperV)](https://github.com/our-story-media/ourstory-titan/releases/latest/download/IndabaHyperV.exe)
 
-----
+---
 
 ## 2. Install Software
 
@@ -46,7 +52,7 @@ When opening the installer, please read the introduction text and agree. Then cl
 
 ![](/imgs/1.png)
 
-Depending on your system, Indaba will run additional installations which may pop up their own dialogues. Please do not close any of these. 
+Depending on your system, Indaba will run additional installations which may pop up their own dialogues. Please do not close any of these.
 
 ![](/imgs/2.png)
 
@@ -60,7 +66,7 @@ Start the Indaba application from the Desktop using the icon provided. Select th
 
 ![](/imgs/7.png)
 
- and select the downloaded file.
+and select the downloaded file.
 
 ![](/imgs/3.5.png)
 
