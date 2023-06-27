@@ -10,36 +10,15 @@ It's highly recommended to read the [Guide](/guide/), but if you are happy with 
 
 </Leader>
 
-## Dashboard Application
+## Dashboard Kit
 
 <Leader>
 
-The Dashboard is the software that powers your Indaba deployment. There are two choices when it comes to the Dashboard, find out more by reading [Which Edition is For Me?](/guide/editions)
+The Dashboard is the software that powers your Indaba deployment.
 
 </Leader>
 
-<el-row :gutter="12">
-<el-col :xs="24" :sm="12">
-<el-card class="herocard">
-
-
-**Titan Edition is for using in scenarios where there is no internet connectivity, and all participants are co-located.**
-
-<LinkButton type="danger" url="/quickstart/titan/">Get Started with Titan</LinkButton>
-
-</el-card>
-</el-col>
-
-<el-col :xs="24" :sm="12">
-<el-card class="herocard">
-
-**Online Edition is for using in scenarios where you have distributed participants, or are not co-located and there is adaquate internet connectivity.**
-
-<LinkButton type="danger" url="/quickstart/online/">Get Started with Online</LinkButton>
-
-</el-card>
-</el-col>
-</el-row>
+<LinkButton type="danger" url="/quickstart/titan-pi/">Get Started with Dashboard</LinkButton>
 
 ## Android Application
 
@@ -49,7 +28,7 @@ Every Indaba deployment requires devices with the Android Application installed.
 
 </Leader>
 
-<LinkButton type="danger" url="/quickstart/app">Android Application</LinkButton>
+<LinkButton type="danger" url="/quickstart/app">Get Started with Android Application</LinkButton>
 
 ## Setup a Shoot
 

@@ -75,8 +75,6 @@ module.exports = {
         sidebar: {
           "/es/quickstart/": [
             "/es/quickstart/",
-            "/es/quickstart/titan/",
-            "/es/quickstart/online/",
             "/es/quickstart/app/",
             "/es/quickstart/dashboard/",
           ],
@@ -135,8 +133,6 @@ module.exports = {
         sidebar: {
           "/ar/quickstart/": [
             "/ar/quickstart/",
-            "/ar/quickstart/titan/",
-            "/ar/quickstart/online/",
             "/ar/quickstart/app/",
             "/ar/quickstart/dashboard/",
           ],
@@ -187,8 +183,6 @@ module.exports = {
         sidebar: {
           "/fr/quickstart/": [
             "/fr/quickstart/",
-            "/fr/quickstart/titan/",
-            "/fr/quickstart/online/",
             "/fr/quickstart/app/",
             "/fr/quickstart/dashboard/",
           ],
@@ -254,8 +248,6 @@ module.exports = {
       "/quickstart/": [
         "/quickstart/",
         "/quickstart/titan-pi/",
-        "/quickstart/titan/",
-        "/quickstart/online/",
         "/quickstart/app/",
         "/quickstart/dashboard/",
       ],
