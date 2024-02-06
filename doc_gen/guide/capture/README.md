@@ -16,7 +16,7 @@ This step is where the community uses the materials developed in [Step 1](/guide
 <img src="/imgs/capture.svg" />
 </div>
 
-In typical scenarios where each group will perform the Capture/Review step twice, they are encouraged to spend a short amount of time **Reviewing** content on the tablet device before going to capture more content. 
+In typical scenarios where each group will perform the Capture/Review step twice, they are encouraged to spend a short amount of time **Reviewing** content on the tablet device before going to capture more content.
 
 </Leader>
 
@@ -39,7 +39,6 @@ Each group should have a set of individual videos which have been tagged.
 
 </Materials>
 
-
 ### Community On-Boarding (once)
 
 <App />
@@ -48,7 +47,7 @@ We recommend that you (either in individual groups, or as a community) walk part
 
 <AdminRole title="Facilitator Action: Run the Dashboard">
 
-If using Titan Edition, make sure the Dashboard is running and WiFi is running and connected before attempting to `Join` a device to a shoot. If using Online Edition, this will require Internet connectivity.
+Make sure the Dashboard is running and WiFi is running and connected before attempting to `Join` a device to a shoot.
 
 </AdminRole>
 
@@ -59,12 +58,12 @@ If using Titan Edition, make sure the Dashboard is running and WiFi is running a
 This on-boarding process is only required once per group, per deployment unless devices are moved between groups.
 
 1. Make sure each group has an Android device and any additional equipment (microphone etc.).
-2. Connect the device to the WiFi or Internet service and open the Indaba application.
+2. Connect the device to the WiFi and open the Indaba application.
 3. On the first run, the App will search for the Dashboard, this may take up to 30 seconds.
 4. Get the group to select the shoot you want them to participate in.
 5. Let the group login, select a Theme and open the camera screen.
 
-As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without any WiFi or Internet connection.
+As soon as a device has joined the camera screen and has downloaded the necessary assets, participants are able to contribute content without any WiFi connection.
 
 <TimeGuide title="3-4 hours (over ~2 days)">
 
@@ -89,7 +88,7 @@ Each group is now given the opportunity to capture the videos described in the p
 ::: warning 5 tips for a good quality videos
 
 1. Tap to focus
-2. Make sure your fingers are not on the screen! 
+2. Make sure your fingers are not on the screen!
 3. Use lighting to your advantage
 4. Take a variety of shot footage
 5. Review as you go!
@@ -98,10 +97,10 @@ Each group is now given the opportunity to capture the videos described in the p
 
 ::: warning Ensuring good audio quality
 
-1. Is the microphone plugged in properly? 
-2. Make sure only one person is talking at a time 
-3. If possible, work in quiet areas 
-4. Encourage quiet participants to speak loudly 
+1. Is the microphone plugged in properly?
+2. Make sure only one person is talking at a time
+3. If possible, work in quiet areas
+4. Encourage quiet participants to speak loudly
 5. Review as you go!
 
 :::
@@ -158,8 +157,8 @@ Each group should be supported in watching what they have captured in relation t
 
 ::: warning Tagging
 
-1. Click on the `Tagged Videos` screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot. 
-2. To tag a video, just press on the `Tick` button on the bottom right corner of the `Tagged Videos` tab (middle tab) of the project. You will now see a page with all uploaded videos on this project. 
+1. Click on the `Tagged Videos` screen. Here you can see all footage that has already been tagged by you or others who are part of the shoot.
+2. To tag a video, just press on the `Tick` button on the bottom right corner of the `Tagged Videos` tab (middle tab) of the project. You will now see a page with all uploaded videos on this project.
 3. Just tap on any video to play it. While you are playing the video, you can tag the videos using the tags displayed on the top left area. You can tap to toggle the tags.
 
 :::

@@ -61,13 +61,13 @@ Before you leave the field it is important to `Publish` each story, allowing you
 
 <AdminRole title="Facilitator Action: Publishing Stories">
 
-Editing and producing the final story files takes a lot of CPU power and battery (when using Titan), hence we recommend that administrators disable publishing using the Dashboard until all the groups have finished creating their stories to prevent unnecessary resource use. You can re-enable publishing once you are sure that no more groups are working on their videos or you are at the end of the story creation stage for all the groups. This is done via the `Dashboard` option `Enable Publishing`.
+Editing and producing the final story files takes a lot of CPU power and therefore battery, hence we recommend that administrators disable publishing using the Dashboard until all the groups have finished creating their stories to prevent unnecessary resource use. You can re-enable publishing once you are sure that no more groups are working on their videos or you are at the end of the story creation stage for all the groups. This is done via the `Dashboard` option `Enable Publishing`.
 
 Usually by this point you have already copied each final story into a single user account so that you can access them all on one mobile device. IF this is not yet the case, follow the steps above.
 
 Open each story in the App and select `Publish Now`. This will add the story to a queue for processing by the Dashboard.
 
-**WARNING: THIS PROCESS IS VERY TIME CONSUMING AND WILL REQUIRE YOUR LAPTOP TO BE PLUGGED INTO MAINS POWER**
+**WARNING: THIS PROCESS IS VERY TIME CONSUMING AND MAY REQUIRE THE INDABA KIT TO BE PLUGGED INTO MAINS POWER**
 
 Stories will continue to process without the Android device being available.
 
@@ -87,10 +87,10 @@ Stories will continue to process without the Android device being available.
 
 Each of the Stories produced by the community should be left with them before leaving the field.
 
-All content produced during the process is stored on the computer running the Indaba Dashboard. To obtain these files, the easiest method is to locate the Story in the Dashboard and select the `Download` option via the options menu.
+All content produced during the process is stored in the Indaba Kit. To obtain these files, locate the Story in the Dashboard and select the `Download` option via the options menu.
 
 <Tip>
 
-We recommend that you handover files safely to local community representatives so they can determine the most appropriate way to share the videos with interested parties. We have previously done this by using USB flash drives that we take with us to the field. 
+We recommend that you handover files safely to local community representatives so they can determine the most appropriate way to share the videos with interested parties. We have previously done this by using USB flash drives that we take with us to the field.
 
 </Tip>

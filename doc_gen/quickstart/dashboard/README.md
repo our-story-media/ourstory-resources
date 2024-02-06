@@ -8,26 +8,17 @@ title: Dashboard
 
 <Leader>
 
-The Dashboard is where you configure all settings, workflows and content with regards to Indaba. Only `Shoot Administrators` have access to the Dashboard, either by using Titan Edition directly on a computer or via a Google login using the Online Edition.
+The Dashboard is where you configure all settings, workflows and content with regards to Indaba. Only `Shoot Administrators` have access to the Dashboard.
 
 </Leader>
 
 ## Getting Started
 
-Visit the Dashboard (either Online or by starting the Titan Application on your computer), and `Start New Shoot`.
+Visit the Dashboard via a browser, and `Start New Shoot`. The Dashboard can be accessed at [http://indaba.local](http://indaba.local) or [http://10.10.10.1](http://10.10.10.1) once you are connected to the `INDABA` WiFi network, using the password available within the Indaba Kit. Keep this password secure, to avoid participants having access to the Dashboard and all content for a Shoot.
 
-1. Create a new shoot for your deployment, making sure to fill in the date range and name.
+1. Create a new shoot for your deployment.
 2. The default settings should be OK for most deployments, but please check before entering the field.
 3. Upload context appropriate images for each `Theme` in the `Template` screen.
-
-<Tip>
-
-The default access and permissions settings for Online Edition only allow contribution to your shoot using a 4 digit `code`. Take not of this code to give to participants. Contribution in Titan Edition is open to everyone.
-
-**Take note of the Name or Code for your shoot to share with facilitators or participants. \
-This is the minimum configuration required to deploy Indaba.**
-
-</Tip>
 
 ## Optional Configuration
 
@@ -40,3 +31,7 @@ Tags are the labels participants use to select and aggregate videos into stories
 ### Template
 
 To align better with your deployment context you can adjust the `Template` - the set of suggested shots and descriptions for participants. There are infinite options for creating these templates, or you can use one of the existing ones in Indaba. We also provide a large archive of shot suggestions to build your own.
+
+### Brand Image
+
+A pre-prepared image can be added to all published videos produced by Indaba. Make sure you create and verify this image before entering the field to avoid connectivity issues.

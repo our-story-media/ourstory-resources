@@ -10,7 +10,17 @@ It's highly recommended to read the [Guide](/guide/), but if you are happy with 
 
 </Leader>
 
-## Dashboard Kit
+## Training
+
+<Leader>
+
+We provide a transient training environment to enable training of staff with Indaba without having a Dashboard Kit available.
+
+</Leader>
+
+<LinkButton type="danger" url="/quickstart/training/">Get Started with Training</LinkButton>
+
+## Indaba Kit
 
 <Leader>
 
