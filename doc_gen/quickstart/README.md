@@ -28,13 +28,13 @@ The Dashboard is the software that powers your Indaba deployment.
 
 </Leader>
 
-<LinkButton type="danger" url="/quickstart/titan-pi/">Get Started with Dashboard</LinkButton>
+<LinkButton type="danger" url="/quickstart/titan-pi/">Get Started with Indaba Kit</LinkButton>
 
 ## Android Application
 
 <Leader>
 
-Every Indaba deployment requires devices with the Android Application installed. It's in the Play Store, and also as a download if you are using Titan.
+Every Indaba deployment requires devices with the Android Application installed.
 
 </Leader>
 

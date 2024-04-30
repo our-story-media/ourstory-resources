@@ -1,11 +1,11 @@
 ---
-title: Titan Edition (Laptop)
+title: "[deprecated] Titan"
 next: /quickstart/app/
 ---
 
 <ReadTime />
 
-# Indaba Titan (Laptop)
+# [deprecated] Indaba Titan (Laptop)
 
 <Banner>
 

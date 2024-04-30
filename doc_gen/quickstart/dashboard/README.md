@@ -35,3 +35,7 @@ To align better with your deployment context you can adjust the `Template` - the
 ### Brand Image
 
 A pre-prepared image can be added to all published videos produced by Indaba. Make sure you create and verify this image before entering the field to avoid connectivity issues.
+
+### Brand Image
+
+Titles can be added at the end of every story that is published. Edit these in the Dashboard before initiating any publishing.

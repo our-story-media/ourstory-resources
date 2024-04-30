@@ -24,7 +24,10 @@ Access to run training using the site is by invitation only. Your Google enabled
 
 If trainees with to engage in with the process themselves during the training they can download the following Android application:
 
-- Download and manually install onto your device from [GitHub Release](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.indaba.apk).
+<!-- - Download and manually install onto your device from [GitHub Release](https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.indaba.apk).
+-->
+
+<DownloadLink type="primary" url="https://github.com/our-story-media/ourstory-android/releases/latest/download/dev.indaba.apk" />
 
 <Tip>
 
