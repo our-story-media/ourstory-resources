@@ -9,7 +9,7 @@ next: /quickstart/app/
 
 <Banner>
 
-This deployment method of Indaba: Titan has been discontinued and replaced with the 'Titan Kit'. Updates to the software may still be available, however this will be discontinued in future releases.
+This deployment method of Indaba: Titan has been discontinued and replaced with the 'Indaba Kit'. Updates to the software may still be available, however this will be discontinued in future releases.
 
 </Banner>
 

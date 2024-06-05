@@ -62,7 +62,7 @@ Minimum of 4 Android (version > 5.0) devices for each contributor/contributing g
 <td>
 Indaba Kit
 
-[More information about sourcing and configuring this prior to deployment can be found here.](/quickstart/titan/)
+[More information about sourcing and configuring this prior to deployment can be found here.](/quickstart/titan-pi/)
 
 </td>
 </tr>

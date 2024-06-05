@@ -11,9 +11,49 @@ next: /quickstart/app/
 
 Indaba is available as a stand-alone, portable 'kit', a self-contained instance of Indaba that allows you to support the whole Indaba workflow in the field without internet connectivity.
 
+You require both a fully installed 'Kit', and some Android devices with the Indaba application installed **before** commencing a field deployment.
+
 </Leader>
 
-## Initial Installation
+## Required Hardware
+
+Indaba Kit is designed to work on a very specific piece of equipment - this is so that we can make sure that it will always work as expected, and allow us to update it for everyone with any updates at the same time.
+
+You will need the following before continuing with your Indaba Kit installation:
+
+| Equipment                                       | Approx. Price | Reference Link                                                                                                                                                                                                          |
+| ----------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RaspberryPi 4 (4 or 8 GB)                       | 50GBP         | [https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb)                      |
+| USB C Cable (for RaspberryPi power)             | 5GBP          | [https://www.amazon.co.uk/ZKAPOR-Charger-Charging-Braided-Samsung/dp/B0B95Z3RX8](https://www.amazon.co.uk/ZKAPOR-Charger-Charging-Braided-Samsung/dp/B0B95Z3RX8)                                                        |
+| Battery WiFi Router                             | 60GBP         | [https://www.tp-link.com/uk/home-networking/wifi-router/tl-wr802n/](https://www.tp-link.com/uk/home-networking/wifi-router/tl-wr802n/)                                                                                  |
+| High capacity USB battery (min 20000mAh)        | 40GBP         | [https://www.amazon.co.uk/INIU-20000mAh-Charging-Portable-Charger/dp/B0CB1DF4JQ?ref\_=ast_sto_dp&th=1&psc=1](https://www.amazon.co.uk/INIU-20000mAh-Charging-Portable-Charger/dp/B0CB1DF4JQ?ref_=ast_sto_dp&th=1&psc=1) |
+| SD Card (full size, min Class 10, min 32GB)     | 10GBP         | [https://www.amazon.co.uk/SanDisk-Ultra-Memory-Class-UHS-I/dp/B08GYG6T12/](https://www.amazon.co.uk/SanDisk-Ultra-Memory-Class-UHS-I/dp/B08GYG6T12/)                                                                    |
+| Case for Rasperry Pi (any case with active fan) | 20GBP         | [https://argon40.com/en-gb/products/argon-one-v2-case-for-raspberry-pi-4](https://argon40.com/en-gb/products/argon-one-v2-case-for-raspberry-pi-4)                                                                      |
+| (optional) Safe carry case                      | 60GBP         | [https://www.casesuk.com/explorer-cases/3005.BE.html](https://www.casesuk.com/explorer-cases/3005.BE.html)                                                                                                              |
+| **Approx. total for a complete kit**            | **245GBP**    |                                                                                                                                                                                                                         |
+
+## Connecting Hardware
+
+1. Install the RaspberryPi into the case, following the instructions provided.
+2. Connect the WiFi router to the RaspberryPi using a short Ethernet cable (usually provided).
+3. Connect a USB power lead from the WiFi router (usually provided with router) to the RaspberryPi (any port).
+4. **Follow the Initial Software Installation** guide below.
+
+5. Connect the power lead for the RasperryPi to the power bank.
+
+6. Setup the WiFi Router:
+   - Connect to the router WiFi using its default settings
+   - Login to the router admin panel using the default login (usually printed on the device)
+   - Set the following settings on the router (differs by brand):
+     - WiFi name: INDABA
+     - WiFi password: ourstoryrocks
+     - DHCP IP Range: 10.10.10.1 - 10.10.10.255
+     - Static IP for the RaspberryPi to 10.10.10.1
+     - Address of router to 10.10.10.254
+
+The kit is now ready for use.
+
+## Initial Software Installation
 
 1. Download the following file onto a USB stick and use [Balena Etcher](https://etcher.balena.io/) to put onto SD card (min 32GB):
 
@@ -23,9 +63,9 @@ Indaba is available as a stand-alone, portable 'kit', a self-contained instance 
 
 <!-- - [images.tar](http://download.indaba.dev/images.tar) -->
 
-2. Make sure the Dashboard Kit has enough battery power or is plugged into the mains.
+2. Make sure the Indaba Kit has enough battery power or is plugged into the mains.
 
-3. Insert the freshly created SD into the Compute Unit in the Dashboard Kit.
+3. Insert the freshly created SD into the RaspberryPi in the Indaba Kit.
 
 > Tip: The first time you turn it on with a freshly created SD card it can take up to 15 minutes to install.
 

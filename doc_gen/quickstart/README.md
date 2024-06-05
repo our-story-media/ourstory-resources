@@ -24,7 +24,7 @@ We provide a transient training environment to enable training of staff with Ind
 
 <Leader>
 
-The Dashboard is the software that powers your Indaba deployment.
+The Indaba Kit is the software and hardware that powers your Indaba deployment in the field.
 
 </Leader>
 
